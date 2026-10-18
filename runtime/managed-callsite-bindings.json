@@ -1,0 +1,2726 @@
+{
+  "schema": "beholder3.managed-callsite-bindings/v1",
+  "candidate_header_sha256": "1377fbe3406d883b3d056e75f5fc52f7876675bdb0afc46e3999fc0fe251dc1b",
+  "variants": [
+    {
+      "variant": "HDRP",
+      "assembly_file": "Beholder3.dll",
+      "assembly_sha256": "98d96a143e2e1e005cd4d749b8d9843ed0e4eac6afdd7fb9d24556cfdf4a96e2",
+      "mvid": "a7b10182-f5c4-4041-97b6-9d479678539c",
+      "targets": [
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100663402:62",
+          "method_token": 100663402,
+          "il_offset": 62,
+          "instruction_ordinal": 21,
+          "method_il_sha256": "7c797b541fec7ee8d5eb51384c236de5a4197eddf79618ed954519ec56327897",
+          "source_sha256": "5f057314586216dbe2770cd8256d890b739ed8ba106f5061795c30582c492981"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100663404:51",
+          "method_token": 100663404,
+          "il_offset": 51,
+          "instruction_ordinal": 22,
+          "method_il_sha256": "5e566ded97add6ba479d84cf9c56cf155d9b80f2a7b4a4f0adc975bc521e7541",
+          "source_sha256": "c4ebc7684be8c9fd10cbabab302aef0d8c21904d4ab91478ff0c14ddb2c71f08"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100663404:67",
+          "method_token": 100663404,
+          "il_offset": 67,
+          "instruction_ordinal": 30,
+          "method_il_sha256": "5e566ded97add6ba479d84cf9c56cf155d9b80f2a7b4a4f0adc975bc521e7541",
+          "source_sha256": "cfae0d4248f7142f7b17f826cd7a519280e312577690e957830d23dcf35a3fff"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100663516:213",
+          "method_token": 100663516,
+          "il_offset": 213,
+          "instruction_ordinal": 63,
+          "method_il_sha256": "4f6faed3c8ce58d0e38d43624613c0593dcb3f412edf755e78f555a40d4a6025",
+          "source_sha256": "09e641f60f25d0017864e162e1b656ef28e599aa4c68fa15cb0b329854ae86c8"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100663612:62",
+          "method_token": 100663612,
+          "il_offset": 62,
+          "instruction_ordinal": 18,
+          "method_il_sha256": "258bcb2d9066259e557f5681581c2b21c41dd14c44afc5d4f3516bbbf9ebdc68",
+          "source_sha256": "876fec6974a4bf9c51f8bf3aaa0cfb667881d4e97d185bc1a91bcd14bed6f270"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100663661:25",
+          "method_token": 100663661,
+          "il_offset": 25,
+          "instruction_ordinal": 11,
+          "method_il_sha256": "a360a2c48d72af3ba7f555ef91c78ec7204feb3e0d5d22a5460db2140d6be127",
+          "source_sha256": "e86dd77a7ee765ea10ff34e3886eac5b21673b5809c242e96b376ed76c28e48c"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100663661:32",
+          "method_token": 100663661,
+          "il_offset": 32,
+          "instruction_ordinal": 13,
+          "method_il_sha256": "a360a2c48d72af3ba7f555ef91c78ec7204feb3e0d5d22a5460db2140d6be127",
+          "source_sha256": "dd425feef83c5d3c5a19ad203460d56f9a65950707d36191f082f876bde43328"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100663667:31",
+          "method_token": 100663667,
+          "il_offset": 31,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "f0bafb425a2304b09f0d75af2e41c82e8e47abe293de6d13bb07cc7633ff2538",
+          "source_sha256": "1380d301ca70426ed46bbf9a38ef1cb6da7a4dd11619eb917c58c659bc175e06"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100663672:6",
+          "method_token": 100663672,
+          "il_offset": 6,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "5d18cdc194c880b84cee1afac2ac5a084eddb6736d34e6d200150d648f998df3",
+          "source_sha256": "7759896fe756cf88188a08717523aaf2091d5c921e746677cfc05d93262d7304"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100663672:17",
+          "method_token": 100663672,
+          "il_offset": 17,
+          "instruction_ordinal": 5,
+          "method_il_sha256": "5d18cdc194c880b84cee1afac2ac5a084eddb6736d34e6d200150d648f998df3",
+          "source_sha256": "bc7a3877dbbef9c2fd9fe6739a2e1d20f579273250565b78a317c2056aef7a49"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100664363:29",
+          "method_token": 100664363,
+          "il_offset": 29,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "28bc747f1ac6f93df603be0e20a4f08db67f80a676d091f24e7ed09381b58f3f",
+          "source_sha256": "410196c8fdc090bdf87b5f5e3e8874b74ad4664d1dd4ae8675ef08f47faba017"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100664525:105",
+          "method_token": 100664525,
+          "il_offset": 105,
+          "instruction_ordinal": 39,
+          "method_il_sha256": "0792c1db7ac32a8f1c81dd6bfc6f7172cad084bf7be0baf365b5efa94c94b579",
+          "source_sha256": "d98ee0e5f9399db9381014c9f890f896d3fcb272c2a7a521d0a13aa23085a284"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100664525:162",
+          "method_token": 100664525,
+          "il_offset": 162,
+          "instruction_ordinal": 59,
+          "method_il_sha256": "0792c1db7ac32a8f1c81dd6bfc6f7172cad084bf7be0baf365b5efa94c94b579",
+          "source_sha256": "d98ee0e5f9399db9381014c9f890f896d3fcb272c2a7a521d0a13aa23085a284"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666021:27",
+          "method_token": 100666021,
+          "il_offset": 27,
+          "instruction_ordinal": 10,
+          "method_il_sha256": "69ec3fd6cbf7c07e669a90e5bb68203bcbcbd32daf723df8138b48f3d35bdb36",
+          "source_sha256": "5d4fc22aa9a950c5cedc95d6106426903a9c7346f02c5f90cd5fc2bccf6e0c26"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666837:26",
+          "method_token": 100666837,
+          "il_offset": 26,
+          "instruction_ordinal": 5,
+          "method_il_sha256": "394bd4ce6159873c23610e4ed3ba012dbc6c55878fc6f80fa0b9725a9ce26d21",
+          "source_sha256": "a6ff4ed2aef148fbce3d41ddcfc6affb47875b3e4fd3cb2b783e349b30786270"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666837:32",
+          "method_token": 100666837,
+          "il_offset": 32,
+          "instruction_ordinal": 7,
+          "method_il_sha256": "394bd4ce6159873c23610e4ed3ba012dbc6c55878fc6f80fa0b9725a9ce26d21",
+          "source_sha256": "429cc58e5b129b4014d1244ada2000d6bc188db6458efd943072f639d882a8aa"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666837:38",
+          "method_token": 100666837,
+          "il_offset": 38,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "394bd4ce6159873c23610e4ed3ba012dbc6c55878fc6f80fa0b9725a9ce26d21",
+          "source_sha256": "559f8465af61c4b6968549ab4c2215ce3709263d21c593d374aae8346daa083c"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666973:101",
+          "method_token": 100666973,
+          "il_offset": 101,
+          "instruction_ordinal": 43,
+          "method_il_sha256": "7a73020172ccf382c0f7eb66a318d29972fba65829d937721c6535074d5763b4",
+          "source_sha256": "9e0b272fe89cb78e343442c63d40355e77ae8ad06134eb07153e6020efaa0274"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666973:112",
+          "method_token": 100666973,
+          "il_offset": 112,
+          "instruction_ordinal": 46,
+          "method_il_sha256": "7a73020172ccf382c0f7eb66a318d29972fba65829d937721c6535074d5763b4",
+          "source_sha256": "c89e3a6e8da7fa84bfdadf3026996f844a885bb028916604018149dffa4abd0d"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666986:8",
+          "method_token": 100666986,
+          "il_offset": 8,
+          "instruction_ordinal": 4,
+          "method_il_sha256": "2acb1b3b282a046a4ee7c9acc0602fc5ca486b1254981b7e1f8267acfea33a19",
+          "source_sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666986:23",
+          "method_token": 100666986,
+          "il_offset": 23,
+          "instruction_ordinal": 10,
+          "method_il_sha256": "2acb1b3b282a046a4ee7c9acc0602fc5ca486b1254981b7e1f8267acfea33a19",
+          "source_sha256": "37cdbfd6ebafa0b38d3b0dba35582383e5b7e073cba43e051fcd1ed5d34e4f83"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666986:39",
+          "method_token": 100666986,
+          "il_offset": 39,
+          "instruction_ordinal": 14,
+          "method_il_sha256": "2acb1b3b282a046a4ee7c9acc0602fc5ca486b1254981b7e1f8267acfea33a19",
+          "source_sha256": "3df072d429f19e1d9e31c653c0363db4dbd6b28a5886028153c28421092dcf19"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666987:56",
+          "method_token": 100666987,
+          "il_offset": 56,
+          "instruction_ordinal": 19,
+          "method_il_sha256": "9879bdc6f45026ffb7336074ca863d90ae7d196455e233baae0eaedff67433c7",
+          "source_sha256": "abc5544c2a96b99a4960de651ff16e028a144bb6935c75f166196802aaf42e5e"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666987:72",
+          "method_token": 100666987,
+          "il_offset": 72,
+          "instruction_ordinal": 23,
+          "method_il_sha256": "9879bdc6f45026ffb7336074ca863d90ae7d196455e233baae0eaedff67433c7",
+          "source_sha256": "a48fa9b1864847fff7ca553ee39e257360724b451523ac95f364cdd5a5f54ff8"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666988:56",
+          "method_token": 100666988,
+          "il_offset": 56,
+          "instruction_ordinal": 19,
+          "method_il_sha256": "3554d4dec80335e41aface80d3502854ce77f575282bbb04851a1e85c99d7cae",
+          "source_sha256": "76247ebdcb86b9d2e133a43d028cb8fa19e4e0170d136bec0c3f74f8bba8bcb3"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666988:72",
+          "method_token": 100666988,
+          "il_offset": 72,
+          "instruction_ordinal": 23,
+          "method_il_sha256": "3554d4dec80335e41aface80d3502854ce77f575282bbb04851a1e85c99d7cae",
+          "source_sha256": "12a2143d05436c1b9152c51dae0946aebd6dcddef9f3816a2849fa4a6440309d"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666989:10",
+          "method_token": 100666989,
+          "il_offset": 10,
+          "instruction_ordinal": 5,
+          "method_il_sha256": "b6e14c3f1d3f402afe409742c789eac2e3a66ddf06862b94cd29424928ac4854",
+          "source_sha256": "dfc0d2be0d386fae5a6855bf3102d2cbcfc697c7108a61ee8211b469456e2164"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666989:26",
+          "method_token": 100666989,
+          "il_offset": 26,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "b6e14c3f1d3f402afe409742c789eac2e3a66ddf06862b94cd29424928ac4854",
+          "source_sha256": "dfc0d2be0d386fae5a6855bf3102d2cbcfc697c7108a61ee8211b469456e2164"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666990:53",
+          "method_token": 100666990,
+          "il_offset": 53,
+          "instruction_ordinal": 19,
+          "method_il_sha256": "2d77fb8f75eb3adf14b23836d568e45729f341098a308919a3470b3adba65a96",
+          "source_sha256": "88ecebd440e9ff8f219dbb18e860360af607ff88b2e08d9a10a962737485e8a7"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666990:69",
+          "method_token": 100666990,
+          "il_offset": 69,
+          "instruction_ordinal": 23,
+          "method_il_sha256": "2d77fb8f75eb3adf14b23836d568e45729f341098a308919a3470b3adba65a96",
+          "source_sha256": "d1a0b329a72b8f16ab138cee622d18ab7ead8b870b0202439d2699cb5348711c"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666991:33",
+          "method_token": 100666991,
+          "il_offset": 33,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "544c35f3b95725d74320e58dcb12a8a3dbac8fd50a5130361f817806ec3c8bdd",
+          "source_sha256": "068dd63c4cf09df56167e6fd4d6c5e9f08f2469961b1e20b1421fc56dfb04a6c"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666991:49",
+          "method_token": 100666991,
+          "il_offset": 49,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "544c35f3b95725d74320e58dcb12a8a3dbac8fd50a5130361f817806ec3c8bdd",
+          "source_sha256": "068dd63c4cf09df56167e6fd4d6c5e9f08f2469961b1e20b1421fc56dfb04a6c"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666992:33",
+          "method_token": 100666992,
+          "il_offset": 33,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "b52b73e2d648bee0e12ad76377b9a593b63591a14544b5ec99b29a7dfb7ba991",
+          "source_sha256": "a4c0c22062385fb5923c6591625dec5aed77d129a31529e3764d5e07499587c9"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666992:49",
+          "method_token": 100666992,
+          "il_offset": 49,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "b52b73e2d648bee0e12ad76377b9a593b63591a14544b5ec99b29a7dfb7ba991",
+          "source_sha256": "a4c0c22062385fb5923c6591625dec5aed77d129a31529e3764d5e07499587c9"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666993:33",
+          "method_token": 100666993,
+          "il_offset": 33,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "91f1ed3351521cc33ef4d3835a9a253dba9fb6515861c5e87ba7da224763ef0e",
+          "source_sha256": "c5647b49e6b264499040141adf977b8170d87d80224c268b7311365aeb7d61cf"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666993:49",
+          "method_token": 100666993,
+          "il_offset": 49,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "91f1ed3351521cc33ef4d3835a9a253dba9fb6515861c5e87ba7da224763ef0e",
+          "source_sha256": "be9bbdc437ecefa6afcf0dcdbe1f5035aff9c051a57c96e72b5aff13f532e6b3"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666994:33",
+          "method_token": 100666994,
+          "il_offset": 33,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "afbc7291efe8c5ec9a3bb38c5cf8f996278dd555bc445baddd65d776dbac04db",
+          "source_sha256": "faf41282b12dcd5eb63f4d8c3383c0c532125749f3be9547a964eb746a8a4cb3"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666994:49",
+          "method_token": 100666994,
+          "il_offset": 49,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "afbc7291efe8c5ec9a3bb38c5cf8f996278dd555bc445baddd65d776dbac04db",
+          "source_sha256": "b15612afc2dbda412261678802ccfe60775936440eb3d73bc6f8b00cd6f9c1c8"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666995:26",
+          "method_token": 100666995,
+          "il_offset": 26,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "fa8c54c70d029148ef227777fcd9f158d694711fb72eb98458144ff3f09628cc",
+          "source_sha256": "f1d868816849ad98d5a756f1c5a43cf4c9e2889dd84f84e419e51d19f6a19ec9"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666996:30",
+          "method_token": 100666996,
+          "il_offset": 30,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "4c31f6509ba20f933f2dfb00a4ec4b12fc73527aa9abca4eb2d0a3080fc933f2",
+          "source_sha256": "fcd15d4246fc193f9837f9548f4f13ec04d09e4958be71da5b989c7bc12781eb"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666996:46",
+          "method_token": 100666996,
+          "il_offset": 46,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "4c31f6509ba20f933f2dfb00a4ec4b12fc73527aa9abca4eb2d0a3080fc933f2",
+          "source_sha256": "5ff7cac1a68c68addef6329f00c7b505bc98046c4cdd6b35387a3f27c7c6a24a"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666997:26",
+          "method_token": 100666997,
+          "il_offset": 26,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "3408abccf15c94e4e8c25f121a18df6786242ccbea639adbb04e57d040497cd3",
+          "source_sha256": "d22985d39a49f019af4be673af61e68d0797b0754cae2e68ee0875caf29c5e56"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666998:30",
+          "method_token": 100666998,
+          "il_offset": 30,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "97c5715cb985baa7f8e90f3c2a6463bcbc38b68d61b840540887b80ae2548274",
+          "source_sha256": "3ac81aff19bb1d0d600575dfa13b9e004a4651fd264bf776e07ad557143e4a25"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666998:46",
+          "method_token": 100666998,
+          "il_offset": 46,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "97c5715cb985baa7f8e90f3c2a6463bcbc38b68d61b840540887b80ae2548274",
+          "source_sha256": "6497871db1cadfe7f6eb7a36289445c290aad62b5104a3de6827b311aaf12806"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666999:10",
+          "method_token": 100666999,
+          "il_offset": 10,
+          "instruction_ordinal": 5,
+          "method_il_sha256": "8f22f338744f12f3911f0e50a31dabed3f8832ee8fb2617889162f7ea83f72d7",
+          "source_sha256": "6dd119e1b3b8375d8137120f0670a0e191fcc0f5dcd0946d789dad20e9278963"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100666999:26",
+          "method_token": 100666999,
+          "il_offset": 26,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "8f22f338744f12f3911f0e50a31dabed3f8832ee8fb2617889162f7ea83f72d7",
+          "source_sha256": "2cc11c415a1d8aba0a5d1b82ece6e475abd283879df27e00468ae6bdd97573e2"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667000:33",
+          "method_token": 100667000,
+          "il_offset": 33,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "c245b7a029ce52fa11a045a55ab16c618a4519b07bb1e191ebb706b8d65f54ab",
+          "source_sha256": "9ed95c44fc1e6af11c47161fc3af7b0ad1a95368ea2dd4958ba92bfe0730d902"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667000:49",
+          "method_token": 100667000,
+          "il_offset": 49,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "c245b7a029ce52fa11a045a55ab16c618a4519b07bb1e191ebb706b8d65f54ab",
+          "source_sha256": "9ed95c44fc1e6af11c47161fc3af7b0ad1a95368ea2dd4958ba92bfe0730d902"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667001:30",
+          "method_token": 100667001,
+          "il_offset": 30,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "11c17fb59f385e9e62b36bb0347b636d69d37d61dc25decabb880fb3b3b7bdf9",
+          "source_sha256": "4a0c4a3750217f0fd2c8b174662f2da3a6e691baaf8ca89b332b5c8b5eac11c4"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667001:46",
+          "method_token": 100667001,
+          "il_offset": 46,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "11c17fb59f385e9e62b36bb0347b636d69d37d61dc25decabb880fb3b3b7bdf9",
+          "source_sha256": "aa85f181565401201f249efea01a33db9112a53854b6c9e266442f2c9dce9a57"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667002:53",
+          "method_token": 100667002,
+          "il_offset": 53,
+          "instruction_ordinal": 19,
+          "method_il_sha256": "a3a9c8ddc12765542afc53e4d59bdc64de6901c1c6a5671d95574c474b83c3ba",
+          "source_sha256": "062cbde0ab7633f3a9d9c1646326a9f1fe3c97f2062f95fcdc5042d2ed982d03"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667002:69",
+          "method_token": 100667002,
+          "il_offset": 69,
+          "instruction_ordinal": 23,
+          "method_il_sha256": "a3a9c8ddc12765542afc53e4d59bdc64de6901c1c6a5671d95574c474b83c3ba",
+          "source_sha256": "5887ddeed6464774fb42877ba1205fe581c1a3552cb4d32aae7d669a7d529855"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667003:30",
+          "method_token": 100667003,
+          "il_offset": 30,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "707887b463e1484398002d409abd536764eac219dc78216bd6635899629ad97b",
+          "source_sha256": "2d339d95fff6b34980223f023411dae3231f46030b79ba6bb65f0d162c998de5"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667003:46",
+          "method_token": 100667003,
+          "il_offset": 46,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "707887b463e1484398002d409abd536764eac219dc78216bd6635899629ad97b",
+          "source_sha256": "a3efb8d6fac821840effc4e00584d3b1f5885f5581fdecb012df11632da33ec0"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667004:53",
+          "method_token": 100667004,
+          "il_offset": 53,
+          "instruction_ordinal": 19,
+          "method_il_sha256": "a871fd96d43164b6da2f63a7e04a3ba39ab1bd934933062cc058b5a23deed0d7",
+          "source_sha256": "e5af73b5301fdd22c24bcedbd99a53db870797142d983980cc552013e854173a"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667004:69",
+          "method_token": 100667004,
+          "il_offset": 69,
+          "instruction_ordinal": 23,
+          "method_il_sha256": "a871fd96d43164b6da2f63a7e04a3ba39ab1bd934933062cc058b5a23deed0d7",
+          "source_sha256": "647960695ed8822eab37530843ac65c069260e321a5d60132e67b660d71f887b"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667005:30",
+          "method_token": 100667005,
+          "il_offset": 30,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "83dc047ffa5006db9785ecbf916d1ebe8012efe8f68b5e305c9cd4020f024ea5",
+          "source_sha256": "c63e82d1444e7e878142a93c014ef9ed888b309f82b7d4d4da056439a7c8889f"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667005:46",
+          "method_token": 100667005,
+          "il_offset": 46,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "83dc047ffa5006db9785ecbf916d1ebe8012efe8f68b5e305c9cd4020f024ea5",
+          "source_sha256": "97c167366391005653dde7663b552ccc0563d77dea88fd3d5495e12c0fb88fb6"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667006:3",
+          "method_token": 100667006,
+          "il_offset": 3,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "da9e9d9b18e85ab0342a0641695184c1cdfda57b36cdc5d08fab03dec3e9f3f4",
+          "source_sha256": "538a25e58a1bc7cc68f9f7024e175613ca8cf7669451cdfb5932f19cfc83eddc"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667006:23",
+          "method_token": 100667006,
+          "il_offset": 23,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "da9e9d9b18e85ab0342a0641695184c1cdfda57b36cdc5d08fab03dec3e9f3f4",
+          "source_sha256": "9713ccd2f250fb2026c7198738102b173634395972569e4d7b4c456e5b22fe46"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667007:3",
+          "method_token": 100667007,
+          "il_offset": 3,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "c7dba22683f35e95face9b60673fbecef108216d143575c6184a8b9b41c9de13",
+          "source_sha256": "da57f94ce1b1cca294a06e5f7cd924b0ca50428a527f25a2e4bff30768adfafa"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667007:23",
+          "method_token": 100667007,
+          "il_offset": 23,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "c7dba22683f35e95face9b60673fbecef108216d143575c6184a8b9b41c9de13",
+          "source_sha256": "447fc2061ed4e30fa2ca8ba7ecc9668768ac41909fd9e3f4dd51c271b29e484c"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667008:26",
+          "method_token": 100667008,
+          "il_offset": 26,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "ed6d42c2ef49f54fa49aa3c4fd321a6c3379eb43fb177dd5ac35169608af093c",
+          "source_sha256": "72a333e05bb24aefaebfc45efd967246606d7a02ab80545dcf3f5569aad8eca1"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667009:26",
+          "method_token": 100667009,
+          "il_offset": 26,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "a47b6fc0fff04d5a5d51d9e24d407aca0baa48de64711aeaeab8834ed4f51aa7",
+          "source_sha256": "41eea72127d703ded11b1c121a27790f4dfe29106d8f023b2d1d2af49bb86afa"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667010:56",
+          "method_token": 100667010,
+          "il_offset": 56,
+          "instruction_ordinal": 19,
+          "method_il_sha256": "12fc76c2a7405aa53a9b5e7dd576a67e6a252771e1be8ffc2f8ac129c1275465",
+          "source_sha256": "05863ec2c378927634badbb44e31103dc47f0a0f4df78ae2fcbcc4d915899f5e"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667010:72",
+          "method_token": 100667010,
+          "il_offset": 72,
+          "instruction_ordinal": 23,
+          "method_il_sha256": "12fc76c2a7405aa53a9b5e7dd576a67e6a252771e1be8ffc2f8ac129c1275465",
+          "source_sha256": "05863ec2c378927634badbb44e31103dc47f0a0f4df78ae2fcbcc4d915899f5e"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667011:3",
+          "method_token": 100667011,
+          "il_offset": 3,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "0362d25566fee0e38091d707f5d5a4b4fe45ead063de41fc17e4f881c5cc5513",
+          "source_sha256": "f1e61bd0ab6de920cfeb2e9a2fe0299b0462a202477ee05fe69da15b57c12c1b"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667011:23",
+          "method_token": 100667011,
+          "il_offset": 23,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "0362d25566fee0e38091d707f5d5a4b4fe45ead063de41fc17e4f881c5cc5513",
+          "source_sha256": "cacd3fe53c5955c1b1e94efd8905e52adf9054bae02e03ec93213372766ef557"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667012:3",
+          "method_token": 100667012,
+          "il_offset": 3,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "607e5fee67fd828ae3a5a3cd7ce8b968265e1c2a5ef097bd6d0611f4a1e25c54",
+          "source_sha256": "0fbb9c985e7f08cbdeecbf241f99c1a9efc48fb7e46018cbe4f57c03b2ad1032"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667012:23",
+          "method_token": 100667012,
+          "il_offset": 23,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "607e5fee67fd828ae3a5a3cd7ce8b968265e1c2a5ef097bd6d0611f4a1e25c54",
+          "source_sha256": "661cf490181712f6d72c684af51486170da6d8dbfc35a1dce9eec33f355983c4"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667013:3",
+          "method_token": 100667013,
+          "il_offset": 3,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "cbb10a8c0e75a75584c8da4134112590c28c787b1d64c7b978e153d9cae74241",
+          "source_sha256": "0213cd595d1731d2a91d8fad37db8fdee0870c13e41b3339109b7d3b6dfd77ea"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667013:23",
+          "method_token": 100667013,
+          "il_offset": 23,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "cbb10a8c0e75a75584c8da4134112590c28c787b1d64c7b978e153d9cae74241",
+          "source_sha256": "a6653150ce252f1a5e5e5a33c38539f356f45e885d505d1ac0316884f5582630"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667014:3",
+          "method_token": 100667014,
+          "il_offset": 3,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "82ca43e1aa423ee33da263caa38450dfc487b16456bdc7ccdbcd4fef8b9f6131",
+          "source_sha256": "6cd368677ec210e96edcfbea6050ca1eb0dfff1852eb8a0e340a6184b5f61af0"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667014:23",
+          "method_token": 100667014,
+          "il_offset": 23,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "82ca43e1aa423ee33da263caa38450dfc487b16456bdc7ccdbcd4fef8b9f6131",
+          "source_sha256": "4270eede857c3f5ad8dbdae851f879d4194286359df5f602973333332f04cc2b"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667015:3",
+          "method_token": 100667015,
+          "il_offset": 3,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "5f353351ce5398a34d0ac6eb5c30359c192c83034c72dd4ffb4e26d8540786f4",
+          "source_sha256": "c17df83cc5f2a39fc530c4be32a83239820d8b5029ccb90bed26ae7f20701b47"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667015:23",
+          "method_token": 100667015,
+          "il_offset": 23,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "5f353351ce5398a34d0ac6eb5c30359c192c83034c72dd4ffb4e26d8540786f4",
+          "source_sha256": "f4f42a677f367370c615f47b680730e7ea2375dea24190d9f7561c45b396804f"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667016:30",
+          "method_token": 100667016,
+          "il_offset": 30,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "898ed4de66f4c19e9f0b4e5fa241b2b25cda59a3cea6df8e4a1c9f5af341f767",
+          "source_sha256": "6f51761e240621c738121e87ca499d5129db0e3b3adb77e832cd0e9fed4b4ff5"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667016:46",
+          "method_token": 100667016,
+          "il_offset": 46,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "898ed4de66f4c19e9f0b4e5fa241b2b25cda59a3cea6df8e4a1c9f5af341f767",
+          "source_sha256": "6f51761e240621c738121e87ca499d5129db0e3b3adb77e832cd0e9fed4b4ff5"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667017:33",
+          "method_token": 100667017,
+          "il_offset": 33,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "1f6711182ead0c5cbb362e9fb758b862b530bbc3e2b3634ddb463bead60ba564",
+          "source_sha256": "6cfb05e735d85b147b040f3761b5ad61c8c127f32072efadbbae54f1b68ff12e"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667017:49",
+          "method_token": 100667017,
+          "il_offset": 49,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "1f6711182ead0c5cbb362e9fb758b862b530bbc3e2b3634ddb463bead60ba564",
+          "source_sha256": "7b04793a467bb5410891e72f4cd15384822f4706076839366e656aedc054112e"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667018:36",
+          "method_token": 100667018,
+          "il_offset": 36,
+          "instruction_ordinal": 13,
+          "method_il_sha256": "bbb4c03dc500b1820f1024a80c252995b074c370ba41b2b46e75a06cbcdf61d1",
+          "source_sha256": "24fc47d3aba345c6fc7c11313c9f3613791124c628527610b2143f32d8b2ca7a"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667018:49",
+          "method_token": 100667018,
+          "il_offset": 49,
+          "instruction_ordinal": 17,
+          "method_il_sha256": "bbb4c03dc500b1820f1024a80c252995b074c370ba41b2b46e75a06cbcdf61d1",
+          "source_sha256": "3deaaf6b111fc234d25c455763a4e9e98b6a6ff49616f59d7b96707ceee42111"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667025:10",
+          "method_token": 100667025,
+          "il_offset": 10,
+          "instruction_ordinal": 5,
+          "method_il_sha256": "3b172ef65a4b7c867b7ba07198ebdcacaa3153c5a1199efa0f0cc11bfd25da3e",
+          "source_sha256": "efd63f112443ea21bc2c75f76092f7218f2f66cef2aa5ad6ebb26053ae272e28"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667025:21",
+          "method_token": 100667025,
+          "il_offset": 21,
+          "instruction_ordinal": 8,
+          "method_il_sha256": "3b172ef65a4b7c867b7ba07198ebdcacaa3153c5a1199efa0f0cc11bfd25da3e",
+          "source_sha256": "3b9c7641665c5c02f26897803c0b11e178f073ae65dab0bb9c9e66d5933b68c0"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667027:21",
+          "method_token": 100667027,
+          "il_offset": 21,
+          "instruction_ordinal": 8,
+          "method_il_sha256": "f3e094a97b21987d7df623c35101db65e03a5288deed4209d586ca452e2c2257",
+          "source_sha256": "816547e071d1aac27bd6e3192e1aa219f059cf992d697dbe24e58e81a396215b"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667027:41",
+          "method_token": 100667027,
+          "il_offset": 41,
+          "instruction_ordinal": 15,
+          "method_il_sha256": "f3e094a97b21987d7df623c35101db65e03a5288deed4209d586ca452e2c2257",
+          "source_sha256": "043a718774c572bd8a25adbeb1bfcd5c0256ae11cecf9f9c3f925d0e52beaf89"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667028:28",
+          "method_token": 100667028,
+          "il_offset": 28,
+          "instruction_ordinal": 14,
+          "method_il_sha256": "99677bea334dcf62eadc350c163cf43dcc348da897fed7fa5b4ef52e961592b3",
+          "source_sha256": "5b2a6a4a242e486e5d651ad67a5920cd34e166589609a2ce947c83bb29d5172a"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667029:28",
+          "method_token": 100667029,
+          "il_offset": 28,
+          "instruction_ordinal": 14,
+          "method_il_sha256": "9964ae6596d21058cd942a9a701d2dadc0b64e0956d7fae3197fe1b9c9d7b2af",
+          "source_sha256": "9cd324558e6bd389440f1ddc28c69ae9384588ca3a27458cab1ab55c6947d636"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667031:111",
+          "method_token": 100667031,
+          "il_offset": 111,
+          "instruction_ordinal": 37,
+          "method_il_sha256": "939fed22452e401c971615c9576947c760b545d59f64a5ce839ccec8ee8fcf1f",
+          "source_sha256": "3f0880f7f7898ba7829160eb91d703be0881430285e03acdb4900ee278259afa"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667031:170",
+          "method_token": 100667031,
+          "il_offset": 170,
+          "instruction_ordinal": 59,
+          "method_il_sha256": "939fed22452e401c971615c9576947c760b545d59f64a5ce839ccec8ee8fcf1f",
+          "source_sha256": "759ae9177e5e3ca7aa74b1437469635c9d068bb84e66241b1bbf7410d1364cf7"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667031:181",
+          "method_token": 100667031,
+          "il_offset": 181,
+          "instruction_ordinal": 62,
+          "method_il_sha256": "939fed22452e401c971615c9576947c760b545d59f64a5ce839ccec8ee8fcf1f",
+          "source_sha256": "265fda17a34611b1533d8a281ff680dc5791b0ce0a11c25b35e11c8e75685509"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667032:26",
+          "method_token": 100667032,
+          "il_offset": 26,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "8d7b18a7ffc5defd1dbf63e675e686c96d5a676c3bfe024703976cbc51ff88f3",
+          "source_sha256": "ef736dfa989a9d522fdc72ee8d8605b1d054cabaa08a28791fd178e2f077d2c1"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667033:37",
+          "method_token": 100667033,
+          "il_offset": 37,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "c28c0cda255d72b8d5b198e440c553b185038e7c115e64508ea238828ad4f3fa",
+          "source_sha256": "1c9555ac3d566517858cc0c7f6878aa0ce47a4232f59757d65b97f088dbf61c6"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667034:26",
+          "method_token": 100667034,
+          "il_offset": 26,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "07ef7a9e3d74bd1992fcce1d4ec0b59792bdca996890049c78f93ccf8b99d6c7",
+          "source_sha256": "361ae7910ab20ec69176174dfe094c5fc587fa78a34d82e8371522b80a1687ff"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667035:37",
+          "method_token": 100667035,
+          "il_offset": 37,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "ed2b3802b0800243cc3c2af8225415dd887f5a26ba3377483a866b7c4a2edc6f",
+          "source_sha256": "eabcaede8293748f8e903b5781da2bce109459ee4e6f1543717aa4ffedb9e344"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667036:38",
+          "method_token": 100667036,
+          "il_offset": 38,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "9325be6e4ad76a10e219b3026e657c0402a141f9117c7295f6213d54a991a33f",
+          "source_sha256": "d3150495ce4f5d1a27bf576f5f42621ffbd6a6e2e22f7d4ce331b8d0d6674bf7"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667036:69",
+          "method_token": 100667036,
+          "il_offset": 69,
+          "instruction_ordinal": 21,
+          "method_il_sha256": "9325be6e4ad76a10e219b3026e657c0402a141f9117c7295f6213d54a991a33f",
+          "source_sha256": "2e1cfa82b035c26cbbbdae632cea070514eb8b773f616aaeaf668e2f0be8f10d"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667036:119",
+          "method_token": 100667036,
+          "il_offset": 119,
+          "instruction_ordinal": 37,
+          "method_il_sha256": "9325be6e4ad76a10e219b3026e657c0402a141f9117c7295f6213d54a991a33f",
+          "source_sha256": "0a07f659461970d8d8dcefe4fff96a1745599810dc7d47391e95c803b7b2072c"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667042:35",
+          "method_token": 100667042,
+          "il_offset": 35,
+          "instruction_ordinal": 13,
+          "method_il_sha256": "47be1ab87dd5f3e9662feba679f9cb51dd566d44c1066b43a2e263b63df4ce79",
+          "source_sha256": "db2d473b5a35aeec8f2c873f0f6194fa6e646d6f444dc53d5a64060276bd57e7"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667042:51",
+          "method_token": 100667042,
+          "il_offset": 51,
+          "instruction_ordinal": 17,
+          "method_il_sha256": "47be1ab87dd5f3e9662feba679f9cb51dd566d44c1066b43a2e263b63df4ce79",
+          "source_sha256": "73ef48a540d91166049bd7fb59b405c85794d3d5e0ad824e2b6d23409bfeb04f"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667042:88",
+          "method_token": 100667042,
+          "il_offset": 88,
+          "instruction_ordinal": 29,
+          "method_il_sha256": "47be1ab87dd5f3e9662feba679f9cb51dd566d44c1066b43a2e263b63df4ce79",
+          "source_sha256": "9196a941ceb3173b9ce2ecaf144b47cabf49e23fd550f8127d94c87d68710f94"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667043:36",
+          "method_token": 100667043,
+          "il_offset": 36,
+          "instruction_ordinal": 14,
+          "method_il_sha256": "29c6fd6dd22f9bbc734acb0a9ddc4b851b2b909ce21e1242040d0fcd3aff8f66",
+          "source_sha256": "363ccd62e199557a294b7ebecd82690300888704026324c5a11d4bc74a06c564"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667043:42",
+          "method_token": 100667043,
+          "il_offset": 42,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "29c6fd6dd22f9bbc734acb0a9ddc4b851b2b909ce21e1242040d0fcd3aff8f66",
+          "source_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667043:88",
+          "method_token": 100667043,
+          "il_offset": 88,
+          "instruction_ordinal": 32,
+          "method_il_sha256": "29c6fd6dd22f9bbc734acb0a9ddc4b851b2b909ce21e1242040d0fcd3aff8f66",
+          "source_sha256": "3d0458ca765b1a2dd4c7d80888e555af5c41141c9c5af0ca8a55e0bd35c775f6"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667043:153",
+          "method_token": 100667043,
+          "il_offset": 153,
+          "instruction_ordinal": 55,
+          "method_il_sha256": "29c6fd6dd22f9bbc734acb0a9ddc4b851b2b909ce21e1242040d0fcd3aff8f66",
+          "source_sha256": "96c11b2d74e80d9151da4b4969fe38a0f87a44f72603175605a27298bab57f5d"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667043:203",
+          "method_token": 100667043,
+          "il_offset": 203,
+          "instruction_ordinal": 72,
+          "method_il_sha256": "29c6fd6dd22f9bbc734acb0a9ddc4b851b2b909ce21e1242040d0fcd3aff8f66",
+          "source_sha256": "7deee07ebb26e3110e9462b45d3291d9c64ae62d4b615f12b6101a33ed84991b"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667044:76",
+          "method_token": 100667044,
+          "il_offset": 76,
+          "instruction_ordinal": 25,
+          "method_il_sha256": "63ee934bd09c98ee608761a6ba02a9022321b9963038283286b4526b64bf83f2",
+          "source_sha256": "7f489fa8be94179363f639b38207af0df3a2bc8781fbd54447487f133a25b0ec"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667044:117",
+          "method_token": 100667044,
+          "il_offset": 117,
+          "instruction_ordinal": 40,
+          "method_il_sha256": "63ee934bd09c98ee608761a6ba02a9022321b9963038283286b4526b64bf83f2",
+          "source_sha256": "363ccd62e199557a294b7ebecd82690300888704026324c5a11d4bc74a06c564"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667044:123",
+          "method_token": 100667044,
+          "il_offset": 123,
+          "instruction_ordinal": 42,
+          "method_il_sha256": "63ee934bd09c98ee608761a6ba02a9022321b9963038283286b4526b64bf83f2",
+          "source_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667044:216",
+          "method_token": 100667044,
+          "il_offset": 216,
+          "instruction_ordinal": 71,
+          "method_il_sha256": "63ee934bd09c98ee608761a6ba02a9022321b9963038283286b4526b64bf83f2",
+          "source_sha256": "f21b56fe7f800274480728e732f022ba74da89445bb4fa25916ce2f5d33d8084"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667044:282",
+          "method_token": 100667044,
+          "il_offset": 282,
+          "instruction_ordinal": 94,
+          "method_il_sha256": "63ee934bd09c98ee608761a6ba02a9022321b9963038283286b4526b64bf83f2",
+          "source_sha256": "d34453fa755f207804ea9d35468572e71a32894c6a529600d574a2d27827e9ca"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667045:36",
+          "method_token": 100667045,
+          "il_offset": 36,
+          "instruction_ordinal": 14,
+          "method_il_sha256": "4fcb193bfd7e0d417628c29a29716c47065706b807f0755efd41093617c30572",
+          "source_sha256": "6cb9928fbe73d533c5c85582e7522ad02ff1205f17674d510448ceed1153d300"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667045:42",
+          "method_token": 100667045,
+          "il_offset": 42,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "4fcb193bfd7e0d417628c29a29716c47065706b807f0755efd41093617c30572",
+          "source_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667045:106",
+          "method_token": 100667045,
+          "il_offset": 106,
+          "instruction_ordinal": 40,
+          "method_il_sha256": "4fcb193bfd7e0d417628c29a29716c47065706b807f0755efd41093617c30572",
+          "source_sha256": "c3584861383d0643c2a77393206e1bcbb1d7b74f6e08fc31439fe54de88dda43"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667045:112",
+          "method_token": 100667045,
+          "il_offset": 112,
+          "instruction_ordinal": 42,
+          "method_il_sha256": "4fcb193bfd7e0d417628c29a29716c47065706b807f0755efd41093617c30572",
+          "source_sha256": "871618c5f2e406049f24e303d09f39271f8cac25b75fb6802daefed9cff8a711"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667045:175",
+          "method_token": 100667045,
+          "il_offset": 175,
+          "instruction_ordinal": 63,
+          "method_il_sha256": "4fcb193bfd7e0d417628c29a29716c47065706b807f0755efd41093617c30572",
+          "source_sha256": "5ec709d465b5cd6f32cefd2436f3bc288daaf7fe0a29e24f3ed096e640719bbb"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667045:209",
+          "method_token": 100667045,
+          "il_offset": 209,
+          "instruction_ordinal": 76,
+          "method_il_sha256": "4fcb193bfd7e0d417628c29a29716c47065706b807f0755efd41093617c30572",
+          "source_sha256": "46053c532d07100674a0cba77c3fdd921acb28dc1ed4af10c21983ba60c3a9ac"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667045:215",
+          "method_token": 100667045,
+          "il_offset": 215,
+          "instruction_ordinal": 78,
+          "method_il_sha256": "4fcb193bfd7e0d417628c29a29716c47065706b807f0755efd41093617c30572",
+          "source_sha256": "5a165023cab48a95c242c1ba234c9e7b6afd41d9dcfd4812400a10e8f3dfa8ce"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667046:68",
+          "method_token": 100667046,
+          "il_offset": 68,
+          "instruction_ordinal": 25,
+          "method_il_sha256": "35639fd9cc3f956091b71e1e8c61f532bf19ba0b37d6ff1d75819ced6690009f",
+          "source_sha256": "35838ab0cba56966932ccf5369b3beb50d1305807a6f089b3b1e0322b426a058"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667046:109",
+          "method_token": 100667046,
+          "il_offset": 109,
+          "instruction_ordinal": 40,
+          "method_il_sha256": "35639fd9cc3f956091b71e1e8c61f532bf19ba0b37d6ff1d75819ced6690009f",
+          "source_sha256": "6cb9928fbe73d533c5c85582e7522ad02ff1205f17674d510448ceed1153d300"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667046:115",
+          "method_token": 100667046,
+          "il_offset": 115,
+          "instruction_ordinal": 42,
+          "method_il_sha256": "35639fd9cc3f956091b71e1e8c61f532bf19ba0b37d6ff1d75819ced6690009f",
+          "source_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667046:192",
+          "method_token": 100667046,
+          "il_offset": 192,
+          "instruction_ordinal": 67,
+          "method_il_sha256": "35639fd9cc3f956091b71e1e8c61f532bf19ba0b37d6ff1d75819ced6690009f",
+          "source_sha256": "7987b3fc3b3d5e6c973b4b52880df868b99abd9e840db24757cac15e91ae7139"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667046:333",
+          "method_token": 100667046,
+          "il_offset": 333,
+          "instruction_ordinal": 113,
+          "method_il_sha256": "35639fd9cc3f956091b71e1e8c61f532bf19ba0b37d6ff1d75819ced6690009f",
+          "source_sha256": "99c5511306dba272d572aaf619d425e7530aa8deae1415c01df9755d6861dfe2"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667047:114",
+          "method_token": 100667047,
+          "il_offset": 114,
+          "instruction_ordinal": 34,
+          "method_il_sha256": "163a698448260b6eed5ac5be98ef9f8ff19ff6a3a37076b8aff5b4adc1716b09",
+          "source_sha256": "95399bff2ea0d2fc3b57ca1dc3e549dd4c3833baa06a45d397ab633c351ccd49"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667047:120",
+          "method_token": 100667047,
+          "il_offset": 120,
+          "instruction_ordinal": 36,
+          "method_il_sha256": "163a698448260b6eed5ac5be98ef9f8ff19ff6a3a37076b8aff5b4adc1716b09",
+          "source_sha256": "506ac62112e8bb3f6e4559de4975bb82d2e7e4877990e94f70426664634e7d47"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667047:148",
+          "method_token": 100667047,
+          "il_offset": 148,
+          "instruction_ordinal": 45,
+          "method_il_sha256": "163a698448260b6eed5ac5be98ef9f8ff19ff6a3a37076b8aff5b4adc1716b09",
+          "source_sha256": "4a552198473863dcbd74c4338e06265ab2721bacb703e3d5d2321791410dcf68"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667047:225",
+          "method_token": 100667047,
+          "il_offset": 225,
+          "instruction_ordinal": 68,
+          "method_il_sha256": "163a698448260b6eed5ac5be98ef9f8ff19ff6a3a37076b8aff5b4adc1716b09",
+          "source_sha256": "f7e6d53e73cfcbddaa5c2af38792e3dcf6f881faf17df039f51edd69e96a6465"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667047:231",
+          "method_token": 100667047,
+          "il_offset": 231,
+          "instruction_ordinal": 70,
+          "method_il_sha256": "163a698448260b6eed5ac5be98ef9f8ff19ff6a3a37076b8aff5b4adc1716b09",
+          "source_sha256": "bb7208bc9b5d7c04f1236a82a0093a5e33f40423d5ba8d4266f7092c3ba43b62"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667048:15",
+          "method_token": 100667048,
+          "il_offset": 15,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "442e29ffd114042c4f1a4f738149ae63bd1e2023f1d7cef4660326e37b570d4b",
+          "source_sha256": "f500fc159e5f5e7fa3ae751f06e732db773cd8d67ccc2de4abe70bcc47b76106"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667048:27",
+          "method_token": 100667048,
+          "il_offset": 27,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "442e29ffd114042c4f1a4f738149ae63bd1e2023f1d7cef4660326e37b570d4b",
+          "source_sha256": "16a1c237d08d165b78dabc7b8b18897882439b44ada575dab674067f934af3b5"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667048:34",
+          "method_token": 100667048,
+          "il_offset": 34,
+          "instruction_ordinal": 11,
+          "method_il_sha256": "442e29ffd114042c4f1a4f738149ae63bd1e2023f1d7cef4660326e37b570d4b",
+          "source_sha256": "6942919eb9823153ae30bd80d26edbb7e3f07b0e3e675dabf7568fbb8377409f"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667049:15",
+          "method_token": 100667049,
+          "il_offset": 15,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "980f7e629a78f2e014d4bc109ea6c8929f16399e816474c2a09dc304d981742a",
+          "source_sha256": "291e847fe7c564125f2743e7880514795ad71cba9386f0a2abd6939304d0f72d"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667049:27",
+          "method_token": 100667049,
+          "il_offset": 27,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "980f7e629a78f2e014d4bc109ea6c8929f16399e816474c2a09dc304d981742a",
+          "source_sha256": "54ae9eac63980e298a9cd73515d5d308e8c056015d243aa34ee7124872ab1896"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667049:34",
+          "method_token": 100667049,
+          "il_offset": 34,
+          "instruction_ordinal": 11,
+          "method_il_sha256": "980f7e629a78f2e014d4bc109ea6c8929f16399e816474c2a09dc304d981742a",
+          "source_sha256": "bc16f5825a9dafc8c245dc7cd93f4e671a9885035a73e6ef29c04f2d3863bfab"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667049:39",
+          "method_token": 100667049,
+          "il_offset": 39,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "980f7e629a78f2e014d4bc109ea6c8929f16399e816474c2a09dc304d981742a",
+          "source_sha256": "f9347e2a01c7459f35b57c35ce2bb3a57ed967c01fad593c15aeaa11ac7c6a7d"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667051:7",
+          "method_token": 100667051,
+          "il_offset": 7,
+          "instruction_ordinal": 3,
+          "method_il_sha256": "7ab3a8e1be8ebb4c233a9cdaeb3aa144c44aec89251f72f5243144db15f44c8b",
+          "source_sha256": "d0c2fc58a1a9ce6e78a58450714b94224b820edde3d864b0e04a902bac8a38bc"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667051:52",
+          "method_token": 100667051,
+          "il_offset": 52,
+          "instruction_ordinal": 20,
+          "method_il_sha256": "7ab3a8e1be8ebb4c233a9cdaeb3aa144c44aec89251f72f5243144db15f44c8b",
+          "source_sha256": "d3150495ce4f5d1a27bf576f5f42621ffbd6a6e2e22f7d4ce331b8d0d6674bf7"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667051:106",
+          "method_token": 100667051,
+          "il_offset": 106,
+          "instruction_ordinal": 39,
+          "method_il_sha256": "7ab3a8e1be8ebb4c233a9cdaeb3aa144c44aec89251f72f5243144db15f44c8b",
+          "source_sha256": "27a3ca171ddcda9cb3715c81dbbe6611a22e351ea029a80286f6dd926c72d07a"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667051:127",
+          "method_token": 100667051,
+          "il_offset": 127,
+          "instruction_ordinal": 47,
+          "method_il_sha256": "7ab3a8e1be8ebb4c233a9cdaeb3aa144c44aec89251f72f5243144db15f44c8b",
+          "source_sha256": "a00644508de97e85263c9d0cd67e63d3c3b5d733bcaddc65b110e501ad5a7b73"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667052:50",
+          "method_token": 100667052,
+          "il_offset": 50,
+          "instruction_ordinal": 21,
+          "method_il_sha256": "5aca73d679a4d919299e31c81e81996221f60555d0f377f761e39bef865f7f6f",
+          "source_sha256": "7be54bfdeaa4d4063913796cb32f9c793cc7f9616d23464c0d89b21f263e133b"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667053:25",
+          "method_token": 100667053,
+          "il_offset": 25,
+          "instruction_ordinal": 8,
+          "method_il_sha256": "0b8213f782c54411b3d59881d002058e45abac336433481601bd05cbeac3f3ca",
+          "source_sha256": "bd661cc62185e9e5362a77814f6669ebd5e196ce5ddfada5f79543fd19dd2841"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667054:15",
+          "method_token": 100667054,
+          "il_offset": 15,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "80bd757da6e9d3a6a27bfba6b544b026525f34589b692feece2d90e8dfba9423",
+          "source_sha256": "c70dc19191e27f0400d9a12004931a85dd4ec7bf72ca80dc525e05848a12285b"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667055:15",
+          "method_token": 100667055,
+          "il_offset": 15,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "a526f49d5a5ce51f15042aa7868f8e401b96c9b07bb02bd7089f92e3345180f5",
+          "source_sha256": "fbb10a88c70ebeda7f69623994358a22be797472e2c5bdfe3a3a9122d66469c6"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667056:104",
+          "method_token": 100667056,
+          "il_offset": 104,
+          "instruction_ordinal": 38,
+          "method_il_sha256": "4e368c22cfea96d6bb8b3d6d1e65ef12e6de5894f5f50f48f0f865657df659de",
+          "source_sha256": "275b7af56f8fa52ace206c24a0d525ea7d247ef78ff4db20c2e8bcbcb683feaf"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667057:104",
+          "method_token": 100667057,
+          "il_offset": 104,
+          "instruction_ordinal": 38,
+          "method_il_sha256": "4d1b1ff57bafff1f05b7cf6b8b5609a9cfebbc55fda03389f6ac299e33289920",
+          "source_sha256": "65be32fb1fa0d2bcf2ba28893b96e631f7761e5e33650f559d9c1506683a6f6f"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667058:27",
+          "method_token": 100667058,
+          "il_offset": 27,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "73a35eaff057165565a92878bdb9211d5f3f6e7225b396133e1ae04bd67bddb7",
+          "source_sha256": "cbdcf0663fb8a1409323cfb5726e5cef3f5263b4a82ba2140721198204ef766d"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667058:33",
+          "method_token": 100667058,
+          "il_offset": 33,
+          "instruction_ordinal": 14,
+          "method_il_sha256": "73a35eaff057165565a92878bdb9211d5f3f6e7225b396133e1ae04bd67bddb7",
+          "source_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667059:16",
+          "method_token": 100667059,
+          "il_offset": 16,
+          "instruction_ordinal": 7,
+          "method_il_sha256": "f807771d92e60e0fa34b8dcb276b79a47934a8d58d70995f78039dc08caf7742",
+          "source_sha256": "a7880755e6489c73daa52fd38476a409fced0b95fed9661d4b0926f21ea748bf"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100667059:28",
+          "method_token": 100667059,
+          "il_offset": 28,
+          "instruction_ordinal": 10,
+          "method_il_sha256": "f807771d92e60e0fa34b8dcb276b79a47934a8d58d70995f78039dc08caf7742",
+          "source_sha256": "c92f00b196e2fb020317afd79909f3894536d631a3366d77c9653176e12a5c4f"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100668914:106",
+          "method_token": 100668914,
+          "il_offset": 106,
+          "instruction_ordinal": 30,
+          "method_il_sha256": "fdf2b3d87d20a9c5b316886f4bc0dda7036c8c2d453664cae027339347009810",
+          "source_sha256": "3a248121f424cc0a746107f0335b680594241bff84e1310f4afcefc4e039fdd7"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100668937:6",
+          "method_token": 100668937,
+          "il_offset": 6,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "16bafd1429d1be28d747e92e1787decbb29c3accd6c85d4962873c1d8903a3d6",
+          "source_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100668947:12",
+          "method_token": 100668947,
+          "il_offset": 12,
+          "instruction_ordinal": 4,
+          "method_il_sha256": "c94b101f3ed78f50e01886790512e2a3b9e48e8ff7f4a7113588340cf5037b65",
+          "source_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100668947:28",
+          "method_token": 100668947,
+          "il_offset": 28,
+          "instruction_ordinal": 8,
+          "method_il_sha256": "c94b101f3ed78f50e01886790512e2a3b9e48e8ff7f4a7113588340cf5037b65",
+          "source_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100668992:25",
+          "method_token": 100668992,
+          "il_offset": 25,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "2fb8d427b90922e558d14ea5869f05a2f4940d64c8c4c99d9ce527a87e8c4dd3",
+          "source_sha256": "77ffe26ad050bc70ec6984c6cce7ae634e18a2678caaaefed666dcd9f04e512a"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100668992:63",
+          "method_token": 100668992,
+          "il_offset": 63,
+          "instruction_ordinal": 19,
+          "method_il_sha256": "2fb8d427b90922e558d14ea5869f05a2f4940d64c8c4c99d9ce527a87e8c4dd3",
+          "source_sha256": "77ffe26ad050bc70ec6984c6cce7ae634e18a2678caaaefed666dcd9f04e512a"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100668992:84",
+          "method_token": 100668992,
+          "il_offset": 84,
+          "instruction_ordinal": 24,
+          "method_il_sha256": "2fb8d427b90922e558d14ea5869f05a2f4940d64c8c4c99d9ce527a87e8c4dd3",
+          "source_sha256": "77ffe26ad050bc70ec6984c6cce7ae634e18a2678caaaefed666dcd9f04e512a"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100669003:48",
+          "method_token": 100669003,
+          "il_offset": 48,
+          "instruction_ordinal": 15,
+          "method_il_sha256": "36c266177d06da933f08e7bdd56e728d622616169fcc6e0b611aa2c01147ce4c",
+          "source_sha256": "db59d4d6dcc550fb632a4d836b9a97b11fdd359dce07a61c1ebe57d6c22427f4"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100669129:31",
+          "method_token": 100669129,
+          "il_offset": 31,
+          "instruction_ordinal": 10,
+          "method_il_sha256": "0e1c600850bc951c3affbb58a4d497ac23fc34081c84a7d0893928cf9307e323",
+          "source_sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100669131:176",
+          "method_token": 100669131,
+          "il_offset": 176,
+          "instruction_ordinal": 51,
+          "method_il_sha256": "b95b06b83cdb0fa0b382db5b4c5cd4a56db0ffbaab9b24ce5b94489e5c96a86a",
+          "source_sha256": "e6f36eec2093006bbf6bbc44f8ec977484c54a5de9d810ebd450fb4a63646468"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100669131:194",
+          "method_token": 100669131,
+          "il_offset": 194,
+          "instruction_ordinal": 56,
+          "method_il_sha256": "b95b06b83cdb0fa0b382db5b4c5cd4a56db0ffbaab9b24ce5b94489e5c96a86a",
+          "source_sha256": "a00644508de97e85263c9d0cd67e63d3c3b5d733bcaddc65b110e501ad5a7b73"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100669148:66",
+          "method_token": 100669148,
+          "il_offset": 66,
+          "instruction_ordinal": 29,
+          "method_il_sha256": "1df564d527ed06ebdb07663076d2bafdab448c394e80a43af56fd0d44d08e797",
+          "source_sha256": "e7ac0786668e0ff0f02b62bd04f45ff636fd82db63b1104601c975dc005f3a67"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100669228:6",
+          "method_token": 100669228,
+          "il_offset": 6,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "27af968c070d8068f7402bbd482c1d3c4c3f187bfd922b9b8d1f1d4331890b54",
+          "source_sha256": "6c04e61698da54fccef7126481d0c9b207a9332d79cdced5ed99a639530ca1a2"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100669302:222",
+          "method_token": 100669302,
+          "il_offset": 222,
+          "instruction_ordinal": 67,
+          "method_il_sha256": "5d91dbd6117384e470c6fd2a80ed784d17d243c2bc304160eb2592548d4dda9b",
+          "source_sha256": "4b204f29b4b9389a120fa26766a1c2bd84d78d08445dc43f72a0285404721543"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100669302:260",
+          "method_token": 100669302,
+          "il_offset": 260,
+          "instruction_ordinal": 79,
+          "method_il_sha256": "5d91dbd6117384e470c6fd2a80ed784d17d243c2bc304160eb2592548d4dda9b",
+          "source_sha256": "a9860b1dd0232230b79c635d0ab085a642208ea15a1c26a95a7ef4ee6b046191"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100669302:340",
+          "method_token": 100669302,
+          "il_offset": 340,
+          "instruction_ordinal": 109,
+          "method_il_sha256": "5d91dbd6117384e470c6fd2a80ed784d17d243c2bc304160eb2592548d4dda9b",
+          "source_sha256": "ea8b598e2fe2eac2797208be6a1380317aa28655121e78576506b20e889dbbc2"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100669302:353",
+          "method_token": 100669302,
+          "il_offset": 353,
+          "instruction_ordinal": 113,
+          "method_il_sha256": "5d91dbd6117384e470c6fd2a80ed784d17d243c2bc304160eb2592548d4dda9b",
+          "source_sha256": "a9263aa25f03d18b294727318791db84991dd5ddc5c7167b2de6393cd283fb3e"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100669302:369",
+          "method_token": 100669302,
+          "il_offset": 369,
+          "instruction_ordinal": 117,
+          "method_il_sha256": "5d91dbd6117384e470c6fd2a80ed784d17d243c2bc304160eb2592548d4dda9b",
+          "source_sha256": "fb33b672a748bf4a746b5a79c5e06fcd5d04ff8630069a5d86ae2b7c8082c05b"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100669302:450",
+          "method_token": 100669302,
+          "il_offset": 450,
+          "instruction_ordinal": 144,
+          "method_il_sha256": "5d91dbd6117384e470c6fd2a80ed784d17d243c2bc304160eb2592548d4dda9b",
+          "source_sha256": "6eccf2521bd4f0e77b4ff69f03624b5419958df437e7961f8da4a9b044a4e879"
+        },
+        {
+          "id": "unity:managed_literal:HDRP/Beholder3_Data/Managed/Beholder3.dll:100670083:65",
+          "method_token": 100670083,
+          "il_offset": 65,
+          "instruction_ordinal": 31,
+          "method_il_sha256": "438ff448dd091b33bb1daab4e1599d010f1512947abf79216b5c61894062f538",
+          "source_sha256": "e7ac0786668e0ff0f02b62bd04f45ff636fd82db63b1104601c975dc005f3a67"
+        }
+      ]
+    },
+    {
+      "variant": "URP",
+      "assembly_file": "Beholder3.dll",
+      "assembly_sha256": "0ccb2e48e0ecced556b2aee4811ae70f9fd3105b3fc13d88b36d28fa16e31581",
+      "mvid": "fda768d2-86a2-4767-95d0-b4a225ead08f",
+      "targets": [
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100663402:62",
+          "method_token": 100663402,
+          "il_offset": 62,
+          "instruction_ordinal": 21,
+          "method_il_sha256": "7c797b541fec7ee8d5eb51384c236de5a4197eddf79618ed954519ec56327897",
+          "source_sha256": "5f057314586216dbe2770cd8256d890b739ed8ba106f5061795c30582c492981"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100663404:51",
+          "method_token": 100663404,
+          "il_offset": 51,
+          "instruction_ordinal": 22,
+          "method_il_sha256": "b4dec658ce9c72c1fb1d3c6655630a360420deef1afcf139f4407d036e73843c",
+          "source_sha256": "c4ebc7684be8c9fd10cbabab302aef0d8c21904d4ab91478ff0c14ddb2c71f08"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100663404:67",
+          "method_token": 100663404,
+          "il_offset": 67,
+          "instruction_ordinal": 30,
+          "method_il_sha256": "b4dec658ce9c72c1fb1d3c6655630a360420deef1afcf139f4407d036e73843c",
+          "source_sha256": "cfae0d4248f7142f7b17f826cd7a519280e312577690e957830d23dcf35a3fff"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100663516:213",
+          "method_token": 100663516,
+          "il_offset": 213,
+          "instruction_ordinal": 63,
+          "method_il_sha256": "4f6faed3c8ce58d0e38d43624613c0593dcb3f412edf755e78f555a40d4a6025",
+          "source_sha256": "09e641f60f25d0017864e162e1b656ef28e599aa4c68fa15cb0b329854ae86c8"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100663612:62",
+          "method_token": 100663612,
+          "il_offset": 62,
+          "instruction_ordinal": 18,
+          "method_il_sha256": "f51efb2040005c52c18e22a51f09bf254b5eb0c3f238988d852c674cded2e577",
+          "source_sha256": "876fec6974a4bf9c51f8bf3aaa0cfb667881d4e97d185bc1a91bcd14bed6f270"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100663661:25",
+          "method_token": 100663661,
+          "il_offset": 25,
+          "instruction_ordinal": 11,
+          "method_il_sha256": "da08a587d4166de1ec400b91257556988cd73df18759383eada8067489fef22f",
+          "source_sha256": "e86dd77a7ee765ea10ff34e3886eac5b21673b5809c242e96b376ed76c28e48c"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100663661:32",
+          "method_token": 100663661,
+          "il_offset": 32,
+          "instruction_ordinal": 13,
+          "method_il_sha256": "da08a587d4166de1ec400b91257556988cd73df18759383eada8067489fef22f",
+          "source_sha256": "dd425feef83c5d3c5a19ad203460d56f9a65950707d36191f082f876bde43328"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100663667:31",
+          "method_token": 100663667,
+          "il_offset": 31,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "07601c86a35509609cb774222490a194f46870a24c59f8e4b82e7b6198c5f4f6",
+          "source_sha256": "1380d301ca70426ed46bbf9a38ef1cb6da7a4dd11619eb917c58c659bc175e06"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100663672:6",
+          "method_token": 100663672,
+          "il_offset": 6,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "5d18cdc194c880b84cee1afac2ac5a084eddb6736d34e6d200150d648f998df3",
+          "source_sha256": "7759896fe756cf88188a08717523aaf2091d5c921e746677cfc05d93262d7304"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100663672:17",
+          "method_token": 100663672,
+          "il_offset": 17,
+          "instruction_ordinal": 5,
+          "method_il_sha256": "5d18cdc194c880b84cee1afac2ac5a084eddb6736d34e6d200150d648f998df3",
+          "source_sha256": "bc7a3877dbbef9c2fd9fe6739a2e1d20f579273250565b78a317c2056aef7a49"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100664363:29",
+          "method_token": 100664363,
+          "il_offset": 29,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "d4e27cddbc478cd4354cc3abaf7bef7e1bce0857799645318037d2f1f67f358c",
+          "source_sha256": "410196c8fdc090bdf87b5f5e3e8874b74ad4664d1dd4ae8675ef08f47faba017"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100664525:105",
+          "method_token": 100664525,
+          "il_offset": 105,
+          "instruction_ordinal": 39,
+          "method_il_sha256": "86d5aa0608e21600c2e015d9794290f4630544d739630a684c797958a56f7cf4",
+          "source_sha256": "d98ee0e5f9399db9381014c9f890f896d3fcb272c2a7a521d0a13aa23085a284"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100664525:162",
+          "method_token": 100664525,
+          "il_offset": 162,
+          "instruction_ordinal": 59,
+          "method_il_sha256": "86d5aa0608e21600c2e015d9794290f4630544d739630a684c797958a56f7cf4",
+          "source_sha256": "d98ee0e5f9399db9381014c9f890f896d3fcb272c2a7a521d0a13aa23085a284"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666021:27",
+          "method_token": 100666021,
+          "il_offset": 27,
+          "instruction_ordinal": 10,
+          "method_il_sha256": "6b8bce66dc9fd6e71fa6a5becafc134f538aa416dacc4686fedc24cdd161358b",
+          "source_sha256": "5d4fc22aa9a950c5cedc95d6106426903a9c7346f02c5f90cd5fc2bccf6e0c26"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666837:26",
+          "method_token": 100666837,
+          "il_offset": 26,
+          "instruction_ordinal": 5,
+          "method_il_sha256": "bb824e249fb65a8aa6f483f0c05aba34a4e73018ea209052b9433d916b927de6",
+          "source_sha256": "a6ff4ed2aef148fbce3d41ddcfc6affb47875b3e4fd3cb2b783e349b30786270"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666837:32",
+          "method_token": 100666837,
+          "il_offset": 32,
+          "instruction_ordinal": 7,
+          "method_il_sha256": "bb824e249fb65a8aa6f483f0c05aba34a4e73018ea209052b9433d916b927de6",
+          "source_sha256": "429cc58e5b129b4014d1244ada2000d6bc188db6458efd943072f639d882a8aa"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666837:38",
+          "method_token": 100666837,
+          "il_offset": 38,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "bb824e249fb65a8aa6f483f0c05aba34a4e73018ea209052b9433d916b927de6",
+          "source_sha256": "559f8465af61c4b6968549ab4c2215ce3709263d21c593d374aae8346daa083c"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666973:101",
+          "method_token": 100666973,
+          "il_offset": 101,
+          "instruction_ordinal": 43,
+          "method_il_sha256": "a611cebc23d1cd2a2a8b4aed57ee2cc4e54fd92f8607bdf8a3dafa4228bcc64b",
+          "source_sha256": "9e0b272fe89cb78e343442c63d40355e77ae8ad06134eb07153e6020efaa0274"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666973:112",
+          "method_token": 100666973,
+          "il_offset": 112,
+          "instruction_ordinal": 46,
+          "method_il_sha256": "a611cebc23d1cd2a2a8b4aed57ee2cc4e54fd92f8607bdf8a3dafa4228bcc64b",
+          "source_sha256": "c89e3a6e8da7fa84bfdadf3026996f844a885bb028916604018149dffa4abd0d"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666986:8",
+          "method_token": 100666986,
+          "il_offset": 8,
+          "instruction_ordinal": 4,
+          "method_il_sha256": "7ac4913b77ba6ca9fe42f4572df68b11bb1bab658868a9f9eb590824aca25533",
+          "source_sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666986:23",
+          "method_token": 100666986,
+          "il_offset": 23,
+          "instruction_ordinal": 10,
+          "method_il_sha256": "7ac4913b77ba6ca9fe42f4572df68b11bb1bab658868a9f9eb590824aca25533",
+          "source_sha256": "37cdbfd6ebafa0b38d3b0dba35582383e5b7e073cba43e051fcd1ed5d34e4f83"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666986:39",
+          "method_token": 100666986,
+          "il_offset": 39,
+          "instruction_ordinal": 14,
+          "method_il_sha256": "7ac4913b77ba6ca9fe42f4572df68b11bb1bab658868a9f9eb590824aca25533",
+          "source_sha256": "3df072d429f19e1d9e31c653c0363db4dbd6b28a5886028153c28421092dcf19"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666987:56",
+          "method_token": 100666987,
+          "il_offset": 56,
+          "instruction_ordinal": 19,
+          "method_il_sha256": "b4c0d3e2509c85607bce800a3b039448a7c325ef945e7c00c3b520721bfc8b17",
+          "source_sha256": "abc5544c2a96b99a4960de651ff16e028a144bb6935c75f166196802aaf42e5e"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666987:72",
+          "method_token": 100666987,
+          "il_offset": 72,
+          "instruction_ordinal": 23,
+          "method_il_sha256": "b4c0d3e2509c85607bce800a3b039448a7c325ef945e7c00c3b520721bfc8b17",
+          "source_sha256": "a48fa9b1864847fff7ca553ee39e257360724b451523ac95f364cdd5a5f54ff8"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666988:56",
+          "method_token": 100666988,
+          "il_offset": 56,
+          "instruction_ordinal": 19,
+          "method_il_sha256": "c8cc5b716493b9601d2f05a81079443b641f4a2e6e7d90398187d25b1f90e3a1",
+          "source_sha256": "76247ebdcb86b9d2e133a43d028cb8fa19e4e0170d136bec0c3f74f8bba8bcb3"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666988:72",
+          "method_token": 100666988,
+          "il_offset": 72,
+          "instruction_ordinal": 23,
+          "method_il_sha256": "c8cc5b716493b9601d2f05a81079443b641f4a2e6e7d90398187d25b1f90e3a1",
+          "source_sha256": "12a2143d05436c1b9152c51dae0946aebd6dcddef9f3816a2849fa4a6440309d"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666989:10",
+          "method_token": 100666989,
+          "il_offset": 10,
+          "instruction_ordinal": 5,
+          "method_il_sha256": "7552294aa44db2e8d60b2ca2d6b5eae17f043e2c86ee54b4e295852ea45f1fdd",
+          "source_sha256": "dfc0d2be0d386fae5a6855bf3102d2cbcfc697c7108a61ee8211b469456e2164"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666989:26",
+          "method_token": 100666989,
+          "il_offset": 26,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "7552294aa44db2e8d60b2ca2d6b5eae17f043e2c86ee54b4e295852ea45f1fdd",
+          "source_sha256": "dfc0d2be0d386fae5a6855bf3102d2cbcfc697c7108a61ee8211b469456e2164"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666990:53",
+          "method_token": 100666990,
+          "il_offset": 53,
+          "instruction_ordinal": 19,
+          "method_il_sha256": "c92499cc13958d47368ed9bd52b06389b77583ce09052d63eb87fc83974c3a95",
+          "source_sha256": "88ecebd440e9ff8f219dbb18e860360af607ff88b2e08d9a10a962737485e8a7"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666990:69",
+          "method_token": 100666990,
+          "il_offset": 69,
+          "instruction_ordinal": 23,
+          "method_il_sha256": "c92499cc13958d47368ed9bd52b06389b77583ce09052d63eb87fc83974c3a95",
+          "source_sha256": "d1a0b329a72b8f16ab138cee622d18ab7ead8b870b0202439d2699cb5348711c"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666991:33",
+          "method_token": 100666991,
+          "il_offset": 33,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "65592552bc849df9332b9a8464cfa1ab9e0e4acf0ae29b4b8a6e0ed4e3c30d77",
+          "source_sha256": "068dd63c4cf09df56167e6fd4d6c5e9f08f2469961b1e20b1421fc56dfb04a6c"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666991:49",
+          "method_token": 100666991,
+          "il_offset": 49,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "65592552bc849df9332b9a8464cfa1ab9e0e4acf0ae29b4b8a6e0ed4e3c30d77",
+          "source_sha256": "068dd63c4cf09df56167e6fd4d6c5e9f08f2469961b1e20b1421fc56dfb04a6c"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666992:33",
+          "method_token": 100666992,
+          "il_offset": 33,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "3dc742a220b375d8e28837ffd5eec8821c317c844d90590bfa51c8eb9c79adc8",
+          "source_sha256": "a4c0c22062385fb5923c6591625dec5aed77d129a31529e3764d5e07499587c9"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666992:49",
+          "method_token": 100666992,
+          "il_offset": 49,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "3dc742a220b375d8e28837ffd5eec8821c317c844d90590bfa51c8eb9c79adc8",
+          "source_sha256": "a4c0c22062385fb5923c6591625dec5aed77d129a31529e3764d5e07499587c9"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666993:33",
+          "method_token": 100666993,
+          "il_offset": 33,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "f114dfff3b3e5dd7c917021f5f1e3e135a8e9d964271916f8d8fd3621348425c",
+          "source_sha256": "c5647b49e6b264499040141adf977b8170d87d80224c268b7311365aeb7d61cf"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666993:49",
+          "method_token": 100666993,
+          "il_offset": 49,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "f114dfff3b3e5dd7c917021f5f1e3e135a8e9d964271916f8d8fd3621348425c",
+          "source_sha256": "be9bbdc437ecefa6afcf0dcdbe1f5035aff9c051a57c96e72b5aff13f532e6b3"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666994:33",
+          "method_token": 100666994,
+          "il_offset": 33,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "52ed383b3ad291d99b2f13c069df371f865e7760ad5a81438cd7400e75704662",
+          "source_sha256": "faf41282b12dcd5eb63f4d8c3383c0c532125749f3be9547a964eb746a8a4cb3"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666994:49",
+          "method_token": 100666994,
+          "il_offset": 49,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "52ed383b3ad291d99b2f13c069df371f865e7760ad5a81438cd7400e75704662",
+          "source_sha256": "b15612afc2dbda412261678802ccfe60775936440eb3d73bc6f8b00cd6f9c1c8"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666995:26",
+          "method_token": 100666995,
+          "il_offset": 26,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "c8ae1801fdaeb1d195e794c49524ad780475ebed140c6b042affd7737ef6fc54",
+          "source_sha256": "f1d868816849ad98d5a756f1c5a43cf4c9e2889dd84f84e419e51d19f6a19ec9"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666996:30",
+          "method_token": 100666996,
+          "il_offset": 30,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "cf6c41ddb181aaa7c2cb02410286dc299fd2bfa6fa21f6b54770a76635115eaa",
+          "source_sha256": "fcd15d4246fc193f9837f9548f4f13ec04d09e4958be71da5b989c7bc12781eb"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666996:46",
+          "method_token": 100666996,
+          "il_offset": 46,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "cf6c41ddb181aaa7c2cb02410286dc299fd2bfa6fa21f6b54770a76635115eaa",
+          "source_sha256": "5ff7cac1a68c68addef6329f00c7b505bc98046c4cdd6b35387a3f27c7c6a24a"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666997:26",
+          "method_token": 100666997,
+          "il_offset": 26,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "7d460a1f50d2a5399e2d91180e2428adbd6ec16d768ea16efe00f64ba5e0a153",
+          "source_sha256": "d22985d39a49f019af4be673af61e68d0797b0754cae2e68ee0875caf29c5e56"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666998:30",
+          "method_token": 100666998,
+          "il_offset": 30,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "46ef0473ab961589c75cd6b572fcd920202f8b0f7b69f505e53d08fd4ab34db6",
+          "source_sha256": "3ac81aff19bb1d0d600575dfa13b9e004a4651fd264bf776e07ad557143e4a25"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666998:46",
+          "method_token": 100666998,
+          "il_offset": 46,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "46ef0473ab961589c75cd6b572fcd920202f8b0f7b69f505e53d08fd4ab34db6",
+          "source_sha256": "6497871db1cadfe7f6eb7a36289445c290aad62b5104a3de6827b311aaf12806"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666999:10",
+          "method_token": 100666999,
+          "il_offset": 10,
+          "instruction_ordinal": 5,
+          "method_il_sha256": "614785d36850b741c6208b44ef657677b942bdc2e2759caf15ccc79f1e6258af",
+          "source_sha256": "6dd119e1b3b8375d8137120f0670a0e191fcc0f5dcd0946d789dad20e9278963"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100666999:26",
+          "method_token": 100666999,
+          "il_offset": 26,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "614785d36850b741c6208b44ef657677b942bdc2e2759caf15ccc79f1e6258af",
+          "source_sha256": "2cc11c415a1d8aba0a5d1b82ece6e475abd283879df27e00468ae6bdd97573e2"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667000:33",
+          "method_token": 100667000,
+          "il_offset": 33,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "dc817f4cb9b355228d48a95e3c183e10a260e7ca6acef8b39ae00a15905a1d46",
+          "source_sha256": "9ed95c44fc1e6af11c47161fc3af7b0ad1a95368ea2dd4958ba92bfe0730d902"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667000:49",
+          "method_token": 100667000,
+          "il_offset": 49,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "dc817f4cb9b355228d48a95e3c183e10a260e7ca6acef8b39ae00a15905a1d46",
+          "source_sha256": "9ed95c44fc1e6af11c47161fc3af7b0ad1a95368ea2dd4958ba92bfe0730d902"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667001:30",
+          "method_token": 100667001,
+          "il_offset": 30,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "64f30200ad8606e0b86bbe52dda21c476253f6fd7e83ecf5292b34b67720a216",
+          "source_sha256": "4a0c4a3750217f0fd2c8b174662f2da3a6e691baaf8ca89b332b5c8b5eac11c4"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667001:46",
+          "method_token": 100667001,
+          "il_offset": 46,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "64f30200ad8606e0b86bbe52dda21c476253f6fd7e83ecf5292b34b67720a216",
+          "source_sha256": "aa85f181565401201f249efea01a33db9112a53854b6c9e266442f2c9dce9a57"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667002:53",
+          "method_token": 100667002,
+          "il_offset": 53,
+          "instruction_ordinal": 19,
+          "method_il_sha256": "fab416c92e51167858f64433736c6e79d7e4e83bfaa714b92dc827af5fdfdefc",
+          "source_sha256": "062cbde0ab7633f3a9d9c1646326a9f1fe3c97f2062f95fcdc5042d2ed982d03"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667002:69",
+          "method_token": 100667002,
+          "il_offset": 69,
+          "instruction_ordinal": 23,
+          "method_il_sha256": "fab416c92e51167858f64433736c6e79d7e4e83bfaa714b92dc827af5fdfdefc",
+          "source_sha256": "5887ddeed6464774fb42877ba1205fe581c1a3552cb4d32aae7d669a7d529855"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667003:30",
+          "method_token": 100667003,
+          "il_offset": 30,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "cdc2d06ca18b6f8463d7bd7506204e7927345f62d5d76e685f0ebc930d9833d5",
+          "source_sha256": "2d339d95fff6b34980223f023411dae3231f46030b79ba6bb65f0d162c998de5"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667003:46",
+          "method_token": 100667003,
+          "il_offset": 46,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "cdc2d06ca18b6f8463d7bd7506204e7927345f62d5d76e685f0ebc930d9833d5",
+          "source_sha256": "a3efb8d6fac821840effc4e00584d3b1f5885f5581fdecb012df11632da33ec0"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667004:53",
+          "method_token": 100667004,
+          "il_offset": 53,
+          "instruction_ordinal": 19,
+          "method_il_sha256": "b2090ff04bd037d30290ca40429b2541aba4a26c19714266e1f4bcf79cfdb7cc",
+          "source_sha256": "e5af73b5301fdd22c24bcedbd99a53db870797142d983980cc552013e854173a"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667004:69",
+          "method_token": 100667004,
+          "il_offset": 69,
+          "instruction_ordinal": 23,
+          "method_il_sha256": "b2090ff04bd037d30290ca40429b2541aba4a26c19714266e1f4bcf79cfdb7cc",
+          "source_sha256": "647960695ed8822eab37530843ac65c069260e321a5d60132e67b660d71f887b"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667005:30",
+          "method_token": 100667005,
+          "il_offset": 30,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "0bf142ac8958412c97738ed031022a3897c14171b441dc28e1b423f5c6102901",
+          "source_sha256": "c63e82d1444e7e878142a93c014ef9ed888b309f82b7d4d4da056439a7c8889f"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667005:46",
+          "method_token": 100667005,
+          "il_offset": 46,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "0bf142ac8958412c97738ed031022a3897c14171b441dc28e1b423f5c6102901",
+          "source_sha256": "97c167366391005653dde7663b552ccc0563d77dea88fd3d5495e12c0fb88fb6"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667006:3",
+          "method_token": 100667006,
+          "il_offset": 3,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "f3dc6e7a5f73387f6ab47d0ea9ab728d50ba2776e89e2c048977321d3679ce67",
+          "source_sha256": "538a25e58a1bc7cc68f9f7024e175613ca8cf7669451cdfb5932f19cfc83eddc"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667006:23",
+          "method_token": 100667006,
+          "il_offset": 23,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "f3dc6e7a5f73387f6ab47d0ea9ab728d50ba2776e89e2c048977321d3679ce67",
+          "source_sha256": "9713ccd2f250fb2026c7198738102b173634395972569e4d7b4c456e5b22fe46"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667007:3",
+          "method_token": 100667007,
+          "il_offset": 3,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "c168f9c3e81e8e4493d43a3b59205285e837fe48460d519ae4a3cb060df4e251",
+          "source_sha256": "da57f94ce1b1cca294a06e5f7cd924b0ca50428a527f25a2e4bff30768adfafa"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667007:23",
+          "method_token": 100667007,
+          "il_offset": 23,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "c168f9c3e81e8e4493d43a3b59205285e837fe48460d519ae4a3cb060df4e251",
+          "source_sha256": "447fc2061ed4e30fa2ca8ba7ecc9668768ac41909fd9e3f4dd51c271b29e484c"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667008:26",
+          "method_token": 100667008,
+          "il_offset": 26,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "9f115799482f75c417451bf8411d00c0f9eb490eb2ac95537a6960854d24e3c2",
+          "source_sha256": "72a333e05bb24aefaebfc45efd967246606d7a02ab80545dcf3f5569aad8eca1"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667009:26",
+          "method_token": 100667009,
+          "il_offset": 26,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "aa6c0acb3ef401c5e08343c226ac7eb733a45d2519b293dbf49b8cf42fe04f89",
+          "source_sha256": "41eea72127d703ded11b1c121a27790f4dfe29106d8f023b2d1d2af49bb86afa"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667010:56",
+          "method_token": 100667010,
+          "il_offset": 56,
+          "instruction_ordinal": 19,
+          "method_il_sha256": "907e872d98d03ae14cf8b339a10866ceb7b1f91111eef1ea5feea2eb56417af9",
+          "source_sha256": "05863ec2c378927634badbb44e31103dc47f0a0f4df78ae2fcbcc4d915899f5e"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667010:72",
+          "method_token": 100667010,
+          "il_offset": 72,
+          "instruction_ordinal": 23,
+          "method_il_sha256": "907e872d98d03ae14cf8b339a10866ceb7b1f91111eef1ea5feea2eb56417af9",
+          "source_sha256": "05863ec2c378927634badbb44e31103dc47f0a0f4df78ae2fcbcc4d915899f5e"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667011:3",
+          "method_token": 100667011,
+          "il_offset": 3,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "2f20aaf03068bf771d1f884cb9d856cde2d38d73e2dec9d29fdd89e3bd16e5ea",
+          "source_sha256": "f1e61bd0ab6de920cfeb2e9a2fe0299b0462a202477ee05fe69da15b57c12c1b"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667011:23",
+          "method_token": 100667011,
+          "il_offset": 23,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "2f20aaf03068bf771d1f884cb9d856cde2d38d73e2dec9d29fdd89e3bd16e5ea",
+          "source_sha256": "cacd3fe53c5955c1b1e94efd8905e52adf9054bae02e03ec93213372766ef557"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667012:3",
+          "method_token": 100667012,
+          "il_offset": 3,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "68a61a08a53fa42a9332307adfe51dd0ead8aa67f7ad54283f61c5fd40552603",
+          "source_sha256": "0fbb9c985e7f08cbdeecbf241f99c1a9efc48fb7e46018cbe4f57c03b2ad1032"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667012:23",
+          "method_token": 100667012,
+          "il_offset": 23,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "68a61a08a53fa42a9332307adfe51dd0ead8aa67f7ad54283f61c5fd40552603",
+          "source_sha256": "661cf490181712f6d72c684af51486170da6d8dbfc35a1dce9eec33f355983c4"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667013:3",
+          "method_token": 100667013,
+          "il_offset": 3,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "888f3768bcd149265970372d61a8fa302ac4b0b927c361b3b265fb074044e1ef",
+          "source_sha256": "0213cd595d1731d2a91d8fad37db8fdee0870c13e41b3339109b7d3b6dfd77ea"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667013:23",
+          "method_token": 100667013,
+          "il_offset": 23,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "888f3768bcd149265970372d61a8fa302ac4b0b927c361b3b265fb074044e1ef",
+          "source_sha256": "a6653150ce252f1a5e5e5a33c38539f356f45e885d505d1ac0316884f5582630"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667014:3",
+          "method_token": 100667014,
+          "il_offset": 3,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "50ea8f1342c474996f5e6a433ffcc27933c6073a4b771d30a072142ef887b5b6",
+          "source_sha256": "6cd368677ec210e96edcfbea6050ca1eb0dfff1852eb8a0e340a6184b5f61af0"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667014:23",
+          "method_token": 100667014,
+          "il_offset": 23,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "50ea8f1342c474996f5e6a433ffcc27933c6073a4b771d30a072142ef887b5b6",
+          "source_sha256": "4270eede857c3f5ad8dbdae851f879d4194286359df5f602973333332f04cc2b"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667015:3",
+          "method_token": 100667015,
+          "il_offset": 3,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "ca7f5e7dfb11f1c7fb370dde7c52958fa260d8000454fa2469928a73f9a5d12c",
+          "source_sha256": "c17df83cc5f2a39fc530c4be32a83239820d8b5029ccb90bed26ae7f20701b47"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667015:23",
+          "method_token": 100667015,
+          "il_offset": 23,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "ca7f5e7dfb11f1c7fb370dde7c52958fa260d8000454fa2469928a73f9a5d12c",
+          "source_sha256": "f4f42a677f367370c615f47b680730e7ea2375dea24190d9f7561c45b396804f"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667016:30",
+          "method_token": 100667016,
+          "il_offset": 30,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "2c85ef93503c4b049bc6a57c6b886522defe547ecfeb412556923692ff0853b8",
+          "source_sha256": "6f51761e240621c738121e87ca499d5129db0e3b3adb77e832cd0e9fed4b4ff5"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667016:46",
+          "method_token": 100667016,
+          "il_offset": 46,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "2c85ef93503c4b049bc6a57c6b886522defe547ecfeb412556923692ff0853b8",
+          "source_sha256": "6f51761e240621c738121e87ca499d5129db0e3b3adb77e832cd0e9fed4b4ff5"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667017:33",
+          "method_token": 100667017,
+          "il_offset": 33,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "3dc511e78705a53e7aa9aa022392338e4d0859146cd010e638a7ee0448d0894a",
+          "source_sha256": "6cfb05e735d85b147b040f3761b5ad61c8c127f32072efadbbae54f1b68ff12e"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667017:49",
+          "method_token": 100667017,
+          "il_offset": 49,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "3dc511e78705a53e7aa9aa022392338e4d0859146cd010e638a7ee0448d0894a",
+          "source_sha256": "7b04793a467bb5410891e72f4cd15384822f4706076839366e656aedc054112e"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667018:36",
+          "method_token": 100667018,
+          "il_offset": 36,
+          "instruction_ordinal": 13,
+          "method_il_sha256": "6dce51b220769b655e59238380c4f9c60482ab5b5e8a5d7c2452e34fc9ebe187",
+          "source_sha256": "24fc47d3aba345c6fc7c11313c9f3613791124c628527610b2143f32d8b2ca7a"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667018:49",
+          "method_token": 100667018,
+          "il_offset": 49,
+          "instruction_ordinal": 17,
+          "method_il_sha256": "6dce51b220769b655e59238380c4f9c60482ab5b5e8a5d7c2452e34fc9ebe187",
+          "source_sha256": "3deaaf6b111fc234d25c455763a4e9e98b6a6ff49616f59d7b96707ceee42111"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667025:10",
+          "method_token": 100667025,
+          "il_offset": 10,
+          "instruction_ordinal": 5,
+          "method_il_sha256": "9801e3d7b8f2d3501bee25293edab678449faebdfee4e08652c44d712d45ddcf",
+          "source_sha256": "efd63f112443ea21bc2c75f76092f7218f2f66cef2aa5ad6ebb26053ae272e28"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667025:21",
+          "method_token": 100667025,
+          "il_offset": 21,
+          "instruction_ordinal": 8,
+          "method_il_sha256": "9801e3d7b8f2d3501bee25293edab678449faebdfee4e08652c44d712d45ddcf",
+          "source_sha256": "3b9c7641665c5c02f26897803c0b11e178f073ae65dab0bb9c9e66d5933b68c0"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667027:21",
+          "method_token": 100667027,
+          "il_offset": 21,
+          "instruction_ordinal": 8,
+          "method_il_sha256": "e8afe1b6f5595d19eed5833715f7af23252a914633fdd8581a4124e823039703",
+          "source_sha256": "816547e071d1aac27bd6e3192e1aa219f059cf992d697dbe24e58e81a396215b"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667027:41",
+          "method_token": 100667027,
+          "il_offset": 41,
+          "instruction_ordinal": 15,
+          "method_il_sha256": "e8afe1b6f5595d19eed5833715f7af23252a914633fdd8581a4124e823039703",
+          "source_sha256": "043a718774c572bd8a25adbeb1bfcd5c0256ae11cecf9f9c3f925d0e52beaf89"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667028:28",
+          "method_token": 100667028,
+          "il_offset": 28,
+          "instruction_ordinal": 14,
+          "method_il_sha256": "bab11878452a1095666a2429031ce4ae1c4958cb32eea21f092b7d84c2bb6b38",
+          "source_sha256": "5b2a6a4a242e486e5d651ad67a5920cd34e166589609a2ce947c83bb29d5172a"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667029:28",
+          "method_token": 100667029,
+          "il_offset": 28,
+          "instruction_ordinal": 14,
+          "method_il_sha256": "7559b23598c8d80213bde214150051c4f004783135237bf2763166191a385061",
+          "source_sha256": "9cd324558e6bd389440f1ddc28c69ae9384588ca3a27458cab1ab55c6947d636"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667031:111",
+          "method_token": 100667031,
+          "il_offset": 111,
+          "instruction_ordinal": 37,
+          "method_il_sha256": "0a7be1927d38bc7049f6cffd716849b3bd849a5742c04c4eea0229ca9969325d",
+          "source_sha256": "3f0880f7f7898ba7829160eb91d703be0881430285e03acdb4900ee278259afa"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667031:170",
+          "method_token": 100667031,
+          "il_offset": 170,
+          "instruction_ordinal": 59,
+          "method_il_sha256": "0a7be1927d38bc7049f6cffd716849b3bd849a5742c04c4eea0229ca9969325d",
+          "source_sha256": "759ae9177e5e3ca7aa74b1437469635c9d068bb84e66241b1bbf7410d1364cf7"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667031:181",
+          "method_token": 100667031,
+          "il_offset": 181,
+          "instruction_ordinal": 62,
+          "method_il_sha256": "0a7be1927d38bc7049f6cffd716849b3bd849a5742c04c4eea0229ca9969325d",
+          "source_sha256": "265fda17a34611b1533d8a281ff680dc5791b0ce0a11c25b35e11c8e75685509"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667032:26",
+          "method_token": 100667032,
+          "il_offset": 26,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "f78b05c979fa14fa58a598759158bc8ea837577aa3f9279be778f8393d70e12c",
+          "source_sha256": "ef736dfa989a9d522fdc72ee8d8605b1d054cabaa08a28791fd178e2f077d2c1"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667033:37",
+          "method_token": 100667033,
+          "il_offset": 37,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "428641c514c6bc98e2a9e67fbc71c903c6911cfc7de2bb5f9010fe88cf69bdb6",
+          "source_sha256": "1c9555ac3d566517858cc0c7f6878aa0ce47a4232f59757d65b97f088dbf61c6"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667034:26",
+          "method_token": 100667034,
+          "il_offset": 26,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "06cae382fadbcbcd493f137e20ee003899491a930767ac504e941ba5c6e40d70",
+          "source_sha256": "361ae7910ab20ec69176174dfe094c5fc587fa78a34d82e8371522b80a1687ff"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667035:37",
+          "method_token": 100667035,
+          "il_offset": 37,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "2c73579309585ef37a80e4be310790636e54bdd30805abd93347fb7d34278acc",
+          "source_sha256": "eabcaede8293748f8e903b5781da2bce109459ee4e6f1543717aa4ffedb9e344"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667036:38",
+          "method_token": 100667036,
+          "il_offset": 38,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "ca7f5de9b438d881bcdf0cdf1c64c4395ce677bf6bc74f91198f876b5ebe9a83",
+          "source_sha256": "d3150495ce4f5d1a27bf576f5f42621ffbd6a6e2e22f7d4ce331b8d0d6674bf7"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667036:69",
+          "method_token": 100667036,
+          "il_offset": 69,
+          "instruction_ordinal": 21,
+          "method_il_sha256": "ca7f5de9b438d881bcdf0cdf1c64c4395ce677bf6bc74f91198f876b5ebe9a83",
+          "source_sha256": "2e1cfa82b035c26cbbbdae632cea070514eb8b773f616aaeaf668e2f0be8f10d"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667036:119",
+          "method_token": 100667036,
+          "il_offset": 119,
+          "instruction_ordinal": 37,
+          "method_il_sha256": "ca7f5de9b438d881bcdf0cdf1c64c4395ce677bf6bc74f91198f876b5ebe9a83",
+          "source_sha256": "0a07f659461970d8d8dcefe4fff96a1745599810dc7d47391e95c803b7b2072c"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667042:35",
+          "method_token": 100667042,
+          "il_offset": 35,
+          "instruction_ordinal": 13,
+          "method_il_sha256": "df1a889771dffbcf9cc9741973db7fd7ae30d1e956cad676f8a9d386f72eaa8d",
+          "source_sha256": "db2d473b5a35aeec8f2c873f0f6194fa6e646d6f444dc53d5a64060276bd57e7"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667042:51",
+          "method_token": 100667042,
+          "il_offset": 51,
+          "instruction_ordinal": 17,
+          "method_il_sha256": "df1a889771dffbcf9cc9741973db7fd7ae30d1e956cad676f8a9d386f72eaa8d",
+          "source_sha256": "73ef48a540d91166049bd7fb59b405c85794d3d5e0ad824e2b6d23409bfeb04f"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667042:88",
+          "method_token": 100667042,
+          "il_offset": 88,
+          "instruction_ordinal": 29,
+          "method_il_sha256": "df1a889771dffbcf9cc9741973db7fd7ae30d1e956cad676f8a9d386f72eaa8d",
+          "source_sha256": "9196a941ceb3173b9ce2ecaf144b47cabf49e23fd550f8127d94c87d68710f94"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667043:36",
+          "method_token": 100667043,
+          "il_offset": 36,
+          "instruction_ordinal": 14,
+          "method_il_sha256": "72e370d0b6732e9380caad95dcb8fed11c5e0528bb3a745ac73dc2c8366a52e7",
+          "source_sha256": "363ccd62e199557a294b7ebecd82690300888704026324c5a11d4bc74a06c564"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667043:42",
+          "method_token": 100667043,
+          "il_offset": 42,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "72e370d0b6732e9380caad95dcb8fed11c5e0528bb3a745ac73dc2c8366a52e7",
+          "source_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667043:88",
+          "method_token": 100667043,
+          "il_offset": 88,
+          "instruction_ordinal": 32,
+          "method_il_sha256": "72e370d0b6732e9380caad95dcb8fed11c5e0528bb3a745ac73dc2c8366a52e7",
+          "source_sha256": "3d0458ca765b1a2dd4c7d80888e555af5c41141c9c5af0ca8a55e0bd35c775f6"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667043:153",
+          "method_token": 100667043,
+          "il_offset": 153,
+          "instruction_ordinal": 55,
+          "method_il_sha256": "72e370d0b6732e9380caad95dcb8fed11c5e0528bb3a745ac73dc2c8366a52e7",
+          "source_sha256": "96c11b2d74e80d9151da4b4969fe38a0f87a44f72603175605a27298bab57f5d"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667043:203",
+          "method_token": 100667043,
+          "il_offset": 203,
+          "instruction_ordinal": 72,
+          "method_il_sha256": "72e370d0b6732e9380caad95dcb8fed11c5e0528bb3a745ac73dc2c8366a52e7",
+          "source_sha256": "7deee07ebb26e3110e9462b45d3291d9c64ae62d4b615f12b6101a33ed84991b"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667044:76",
+          "method_token": 100667044,
+          "il_offset": 76,
+          "instruction_ordinal": 25,
+          "method_il_sha256": "12d87af0f23aace3cd1de43671636ebf3de29f7d94e3fd1b3fa6563dd70e45ba",
+          "source_sha256": "7f489fa8be94179363f639b38207af0df3a2bc8781fbd54447487f133a25b0ec"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667044:117",
+          "method_token": 100667044,
+          "il_offset": 117,
+          "instruction_ordinal": 40,
+          "method_il_sha256": "12d87af0f23aace3cd1de43671636ebf3de29f7d94e3fd1b3fa6563dd70e45ba",
+          "source_sha256": "363ccd62e199557a294b7ebecd82690300888704026324c5a11d4bc74a06c564"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667044:123",
+          "method_token": 100667044,
+          "il_offset": 123,
+          "instruction_ordinal": 42,
+          "method_il_sha256": "12d87af0f23aace3cd1de43671636ebf3de29f7d94e3fd1b3fa6563dd70e45ba",
+          "source_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667044:216",
+          "method_token": 100667044,
+          "il_offset": 216,
+          "instruction_ordinal": 71,
+          "method_il_sha256": "12d87af0f23aace3cd1de43671636ebf3de29f7d94e3fd1b3fa6563dd70e45ba",
+          "source_sha256": "f21b56fe7f800274480728e732f022ba74da89445bb4fa25916ce2f5d33d8084"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667044:282",
+          "method_token": 100667044,
+          "il_offset": 282,
+          "instruction_ordinal": 94,
+          "method_il_sha256": "12d87af0f23aace3cd1de43671636ebf3de29f7d94e3fd1b3fa6563dd70e45ba",
+          "source_sha256": "d34453fa755f207804ea9d35468572e71a32894c6a529600d574a2d27827e9ca"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667045:36",
+          "method_token": 100667045,
+          "il_offset": 36,
+          "instruction_ordinal": 14,
+          "method_il_sha256": "5130ccdd2d909738877dda386f8081bf3da2205ce8a5d405da59d5d874bd8587",
+          "source_sha256": "6cb9928fbe73d533c5c85582e7522ad02ff1205f17674d510448ceed1153d300"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667045:42",
+          "method_token": 100667045,
+          "il_offset": 42,
+          "instruction_ordinal": 16,
+          "method_il_sha256": "5130ccdd2d909738877dda386f8081bf3da2205ce8a5d405da59d5d874bd8587",
+          "source_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667045:106",
+          "method_token": 100667045,
+          "il_offset": 106,
+          "instruction_ordinal": 40,
+          "method_il_sha256": "5130ccdd2d909738877dda386f8081bf3da2205ce8a5d405da59d5d874bd8587",
+          "source_sha256": "c3584861383d0643c2a77393206e1bcbb1d7b74f6e08fc31439fe54de88dda43"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667045:112",
+          "method_token": 100667045,
+          "il_offset": 112,
+          "instruction_ordinal": 42,
+          "method_il_sha256": "5130ccdd2d909738877dda386f8081bf3da2205ce8a5d405da59d5d874bd8587",
+          "source_sha256": "871618c5f2e406049f24e303d09f39271f8cac25b75fb6802daefed9cff8a711"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667045:175",
+          "method_token": 100667045,
+          "il_offset": 175,
+          "instruction_ordinal": 63,
+          "method_il_sha256": "5130ccdd2d909738877dda386f8081bf3da2205ce8a5d405da59d5d874bd8587",
+          "source_sha256": "5ec709d465b5cd6f32cefd2436f3bc288daaf7fe0a29e24f3ed096e640719bbb"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667045:209",
+          "method_token": 100667045,
+          "il_offset": 209,
+          "instruction_ordinal": 76,
+          "method_il_sha256": "5130ccdd2d909738877dda386f8081bf3da2205ce8a5d405da59d5d874bd8587",
+          "source_sha256": "46053c532d07100674a0cba77c3fdd921acb28dc1ed4af10c21983ba60c3a9ac"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667045:215",
+          "method_token": 100667045,
+          "il_offset": 215,
+          "instruction_ordinal": 78,
+          "method_il_sha256": "5130ccdd2d909738877dda386f8081bf3da2205ce8a5d405da59d5d874bd8587",
+          "source_sha256": "5a165023cab48a95c242c1ba234c9e7b6afd41d9dcfd4812400a10e8f3dfa8ce"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667046:68",
+          "method_token": 100667046,
+          "il_offset": 68,
+          "instruction_ordinal": 25,
+          "method_il_sha256": "45b8b3339f2b2927320009417af6b7a104e09c7ae8372a449035e2ff30ea3b22",
+          "source_sha256": "35838ab0cba56966932ccf5369b3beb50d1305807a6f089b3b1e0322b426a058"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667046:109",
+          "method_token": 100667046,
+          "il_offset": 109,
+          "instruction_ordinal": 40,
+          "method_il_sha256": "45b8b3339f2b2927320009417af6b7a104e09c7ae8372a449035e2ff30ea3b22",
+          "source_sha256": "6cb9928fbe73d533c5c85582e7522ad02ff1205f17674d510448ceed1153d300"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667046:115",
+          "method_token": 100667046,
+          "il_offset": 115,
+          "instruction_ordinal": 42,
+          "method_il_sha256": "45b8b3339f2b2927320009417af6b7a104e09c7ae8372a449035e2ff30ea3b22",
+          "source_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667046:192",
+          "method_token": 100667046,
+          "il_offset": 192,
+          "instruction_ordinal": 67,
+          "method_il_sha256": "45b8b3339f2b2927320009417af6b7a104e09c7ae8372a449035e2ff30ea3b22",
+          "source_sha256": "7987b3fc3b3d5e6c973b4b52880df868b99abd9e840db24757cac15e91ae7139"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667046:333",
+          "method_token": 100667046,
+          "il_offset": 333,
+          "instruction_ordinal": 113,
+          "method_il_sha256": "45b8b3339f2b2927320009417af6b7a104e09c7ae8372a449035e2ff30ea3b22",
+          "source_sha256": "99c5511306dba272d572aaf619d425e7530aa8deae1415c01df9755d6861dfe2"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667047:114",
+          "method_token": 100667047,
+          "il_offset": 114,
+          "instruction_ordinal": 34,
+          "method_il_sha256": "aaa1105cd3fce97e632a3a06b34de1bd206858967078155dfc56141fe3f4239a",
+          "source_sha256": "95399bff2ea0d2fc3b57ca1dc3e549dd4c3833baa06a45d397ab633c351ccd49"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667047:120",
+          "method_token": 100667047,
+          "il_offset": 120,
+          "instruction_ordinal": 36,
+          "method_il_sha256": "aaa1105cd3fce97e632a3a06b34de1bd206858967078155dfc56141fe3f4239a",
+          "source_sha256": "506ac62112e8bb3f6e4559de4975bb82d2e7e4877990e94f70426664634e7d47"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667047:148",
+          "method_token": 100667047,
+          "il_offset": 148,
+          "instruction_ordinal": 45,
+          "method_il_sha256": "aaa1105cd3fce97e632a3a06b34de1bd206858967078155dfc56141fe3f4239a",
+          "source_sha256": "4a552198473863dcbd74c4338e06265ab2721bacb703e3d5d2321791410dcf68"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667047:225",
+          "method_token": 100667047,
+          "il_offset": 225,
+          "instruction_ordinal": 68,
+          "method_il_sha256": "aaa1105cd3fce97e632a3a06b34de1bd206858967078155dfc56141fe3f4239a",
+          "source_sha256": "f7e6d53e73cfcbddaa5c2af38792e3dcf6f881faf17df039f51edd69e96a6465"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667047:231",
+          "method_token": 100667047,
+          "il_offset": 231,
+          "instruction_ordinal": 70,
+          "method_il_sha256": "aaa1105cd3fce97e632a3a06b34de1bd206858967078155dfc56141fe3f4239a",
+          "source_sha256": "bb7208bc9b5d7c04f1236a82a0093a5e33f40423d5ba8d4266f7092c3ba43b62"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667048:15",
+          "method_token": 100667048,
+          "il_offset": 15,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "698b855f2d69168dae7b48fd68fd85a80500b6acad1c057a61c74e8eb087d948",
+          "source_sha256": "f500fc159e5f5e7fa3ae751f06e732db773cd8d67ccc2de4abe70bcc47b76106"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667048:27",
+          "method_token": 100667048,
+          "il_offset": 27,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "698b855f2d69168dae7b48fd68fd85a80500b6acad1c057a61c74e8eb087d948",
+          "source_sha256": "16a1c237d08d165b78dabc7b8b18897882439b44ada575dab674067f934af3b5"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667048:34",
+          "method_token": 100667048,
+          "il_offset": 34,
+          "instruction_ordinal": 11,
+          "method_il_sha256": "698b855f2d69168dae7b48fd68fd85a80500b6acad1c057a61c74e8eb087d948",
+          "source_sha256": "6942919eb9823153ae30bd80d26edbb7e3f07b0e3e675dabf7568fbb8377409f"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667049:15",
+          "method_token": 100667049,
+          "il_offset": 15,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "ac871ee858de9731623b663125c9e252b04e99af48fa079aff907330f690799b",
+          "source_sha256": "291e847fe7c564125f2743e7880514795ad71cba9386f0a2abd6939304d0f72d"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667049:27",
+          "method_token": 100667049,
+          "il_offset": 27,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "ac871ee858de9731623b663125c9e252b04e99af48fa079aff907330f690799b",
+          "source_sha256": "54ae9eac63980e298a9cd73515d5d308e8c056015d243aa34ee7124872ab1896"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667049:34",
+          "method_token": 100667049,
+          "il_offset": 34,
+          "instruction_ordinal": 11,
+          "method_il_sha256": "ac871ee858de9731623b663125c9e252b04e99af48fa079aff907330f690799b",
+          "source_sha256": "bc16f5825a9dafc8c245dc7cd93f4e671a9885035a73e6ef29c04f2d3863bfab"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667049:39",
+          "method_token": 100667049,
+          "il_offset": 39,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "ac871ee858de9731623b663125c9e252b04e99af48fa079aff907330f690799b",
+          "source_sha256": "f9347e2a01c7459f35b57c35ce2bb3a57ed967c01fad593c15aeaa11ac7c6a7d"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667051:7",
+          "method_token": 100667051,
+          "il_offset": 7,
+          "instruction_ordinal": 3,
+          "method_il_sha256": "12febcf70e95b069421afe99960dd87643c07a8bf203dced2837408936f7c59d",
+          "source_sha256": "d0c2fc58a1a9ce6e78a58450714b94224b820edde3d864b0e04a902bac8a38bc"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667051:52",
+          "method_token": 100667051,
+          "il_offset": 52,
+          "instruction_ordinal": 20,
+          "method_il_sha256": "12febcf70e95b069421afe99960dd87643c07a8bf203dced2837408936f7c59d",
+          "source_sha256": "d3150495ce4f5d1a27bf576f5f42621ffbd6a6e2e22f7d4ce331b8d0d6674bf7"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667051:106",
+          "method_token": 100667051,
+          "il_offset": 106,
+          "instruction_ordinal": 39,
+          "method_il_sha256": "12febcf70e95b069421afe99960dd87643c07a8bf203dced2837408936f7c59d",
+          "source_sha256": "27a3ca171ddcda9cb3715c81dbbe6611a22e351ea029a80286f6dd926c72d07a"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667051:127",
+          "method_token": 100667051,
+          "il_offset": 127,
+          "instruction_ordinal": 47,
+          "method_il_sha256": "12febcf70e95b069421afe99960dd87643c07a8bf203dced2837408936f7c59d",
+          "source_sha256": "a00644508de97e85263c9d0cd67e63d3c3b5d733bcaddc65b110e501ad5a7b73"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667052:50",
+          "method_token": 100667052,
+          "il_offset": 50,
+          "instruction_ordinal": 21,
+          "method_il_sha256": "1007342ce5442d5b364539ce5b303338a0b5c7e0609644b483bdcbed94ef2cd1",
+          "source_sha256": "7be54bfdeaa4d4063913796cb32f9c793cc7f9616d23464c0d89b21f263e133b"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667053:25",
+          "method_token": 100667053,
+          "il_offset": 25,
+          "instruction_ordinal": 8,
+          "method_il_sha256": "c0767449523a2d8bddba649486c127c4cd1610aec7ba51187f0efe23aaf6190e",
+          "source_sha256": "bd661cc62185e9e5362a77814f6669ebd5e196ce5ddfada5f79543fd19dd2841"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667054:15",
+          "method_token": 100667054,
+          "il_offset": 15,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "f28f4b78f74dd0d8d145bea302ec2eca2d7ab3ad5227296d4d230473dfee507a",
+          "source_sha256": "c70dc19191e27f0400d9a12004931a85dd4ec7bf72ca80dc525e05848a12285b"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667055:15",
+          "method_token": 100667055,
+          "il_offset": 15,
+          "instruction_ordinal": 6,
+          "method_il_sha256": "81826dfbbcbfce8e9d29f2af0279c59ac6ddf0d73753ff27a284270420d078c0",
+          "source_sha256": "fbb10a88c70ebeda7f69623994358a22be797472e2c5bdfe3a3a9122d66469c6"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667056:104",
+          "method_token": 100667056,
+          "il_offset": 104,
+          "instruction_ordinal": 38,
+          "method_il_sha256": "bf1e5d4d138d79c17e18f757b099bd5742c992638e41438d1a673b4ec62f2887",
+          "source_sha256": "275b7af56f8fa52ace206c24a0d525ea7d247ef78ff4db20c2e8bcbcb683feaf"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667057:104",
+          "method_token": 100667057,
+          "il_offset": 104,
+          "instruction_ordinal": 38,
+          "method_il_sha256": "f5f3130f820eb751c3e5806b1c8499dfa81866ee9d04cbba0a2440baf9309bc5",
+          "source_sha256": "65be32fb1fa0d2bcf2ba28893b96e631f7761e5e33650f559d9c1506683a6f6f"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667058:27",
+          "method_token": 100667058,
+          "il_offset": 27,
+          "instruction_ordinal": 12,
+          "method_il_sha256": "cf032cdd985d59b524435a44d62bc6b3867ef9f9b50a1870590093b621614ef2",
+          "source_sha256": "cbdcf0663fb8a1409323cfb5726e5cef3f5263b4a82ba2140721198204ef766d"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667058:33",
+          "method_token": 100667058,
+          "il_offset": 33,
+          "instruction_ordinal": 14,
+          "method_il_sha256": "cf032cdd985d59b524435a44d62bc6b3867ef9f9b50a1870590093b621614ef2",
+          "source_sha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667059:16",
+          "method_token": 100667059,
+          "il_offset": 16,
+          "instruction_ordinal": 7,
+          "method_il_sha256": "435c92ab0002e151ccbb6b21c79096a609e2f9b6bd0c8fb6dac74aa7e15681f8",
+          "source_sha256": "a7880755e6489c73daa52fd38476a409fced0b95fed9661d4b0926f21ea748bf"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100667059:28",
+          "method_token": 100667059,
+          "il_offset": 28,
+          "instruction_ordinal": 10,
+          "method_il_sha256": "435c92ab0002e151ccbb6b21c79096a609e2f9b6bd0c8fb6dac74aa7e15681f8",
+          "source_sha256": "c92f00b196e2fb020317afd79909f3894536d631a3366d77c9653176e12a5c4f"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100668914:106",
+          "method_token": 100668914,
+          "il_offset": 106,
+          "instruction_ordinal": 30,
+          "method_il_sha256": "3f737b71ad227554c23daf90741d4256e118e236211b10a1ab636b1f00be39fd",
+          "source_sha256": "3a248121f424cc0a746107f0335b680594241bff84e1310f4afcefc4e039fdd7"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100668937:6",
+          "method_token": 100668937,
+          "il_offset": 6,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "d5cb334063ca6a9d5fd8d3daa3da15b2a1e7630f301823273e549d0ed01c6b32",
+          "source_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100668947:12",
+          "method_token": 100668947,
+          "il_offset": 12,
+          "instruction_ordinal": 4,
+          "method_il_sha256": "d1b53998f8003b0628738b8450d595463017ed6094760477489ca530d114e0b8",
+          "source_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100668947:28",
+          "method_token": 100668947,
+          "il_offset": 28,
+          "instruction_ordinal": 8,
+          "method_il_sha256": "d1b53998f8003b0628738b8450d595463017ed6094760477489ca530d114e0b8",
+          "source_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100668992:25",
+          "method_token": 100668992,
+          "il_offset": 25,
+          "instruction_ordinal": 9,
+          "method_il_sha256": "375b1b25f8ac8c49945c0538d6a3edcde92bd9de859f3395101a063310672945",
+          "source_sha256": "77ffe26ad050bc70ec6984c6cce7ae634e18a2678caaaefed666dcd9f04e512a"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100668992:63",
+          "method_token": 100668992,
+          "il_offset": 63,
+          "instruction_ordinal": 19,
+          "method_il_sha256": "375b1b25f8ac8c49945c0538d6a3edcde92bd9de859f3395101a063310672945",
+          "source_sha256": "77ffe26ad050bc70ec6984c6cce7ae634e18a2678caaaefed666dcd9f04e512a"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100668992:84",
+          "method_token": 100668992,
+          "il_offset": 84,
+          "instruction_ordinal": 24,
+          "method_il_sha256": "375b1b25f8ac8c49945c0538d6a3edcde92bd9de859f3395101a063310672945",
+          "source_sha256": "77ffe26ad050bc70ec6984c6cce7ae634e18a2678caaaefed666dcd9f04e512a"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100669003:48",
+          "method_token": 100669003,
+          "il_offset": 48,
+          "instruction_ordinal": 15,
+          "method_il_sha256": "930fb5b74b800a38f5c0ee594c5f80e98a808180bcafa38b3d82c7afa0332c1f",
+          "source_sha256": "db59d4d6dcc550fb632a4d836b9a97b11fdd359dce07a61c1ebe57d6c22427f4"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100669129:31",
+          "method_token": 100669129,
+          "il_offset": 31,
+          "instruction_ordinal": 10,
+          "method_il_sha256": "842fdaf9d851132c5488f9272341d565c9837868af53d0e6f16a20840d858eb7",
+          "source_sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100669131:176",
+          "method_token": 100669131,
+          "il_offset": 176,
+          "instruction_ordinal": 51,
+          "method_il_sha256": "70cbe970066498da6a77b1c6025893688dd2be1c0cd4fd4e144e0aac03282c65",
+          "source_sha256": "e6f36eec2093006bbf6bbc44f8ec977484c54a5de9d810ebd450fb4a63646468"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100669131:194",
+          "method_token": 100669131,
+          "il_offset": 194,
+          "instruction_ordinal": 56,
+          "method_il_sha256": "70cbe970066498da6a77b1c6025893688dd2be1c0cd4fd4e144e0aac03282c65",
+          "source_sha256": "a00644508de97e85263c9d0cd67e63d3c3b5d733bcaddc65b110e501ad5a7b73"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100669148:66",
+          "method_token": 100669148,
+          "il_offset": 66,
+          "instruction_ordinal": 29,
+          "method_il_sha256": "81f4fa10cf91edfa137978524bd37ee6e35d01edb46773e4c076bc97d7dc5a75",
+          "source_sha256": "e7ac0786668e0ff0f02b62bd04f45ff636fd82db63b1104601c975dc005f3a67"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100669228:6",
+          "method_token": 100669228,
+          "il_offset": 6,
+          "instruction_ordinal": 2,
+          "method_il_sha256": "7f8b8bfe0ba53a7fcfbde571cafd656d03cc3bc84eb4826c4860e28fea06fe64",
+          "source_sha256": "6c04e61698da54fccef7126481d0c9b207a9332d79cdced5ed99a639530ca1a2"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100669302:222",
+          "method_token": 100669302,
+          "il_offset": 222,
+          "instruction_ordinal": 67,
+          "method_il_sha256": "aa4c5fa9b0f61846890396c3d04a8835b2e911d98db9d6c0dcac8d89ac05a29e",
+          "source_sha256": "4b204f29b4b9389a120fa26766a1c2bd84d78d08445dc43f72a0285404721543"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100669302:260",
+          "method_token": 100669302,
+          "il_offset": 260,
+          "instruction_ordinal": 79,
+          "method_il_sha256": "aa4c5fa9b0f61846890396c3d04a8835b2e911d98db9d6c0dcac8d89ac05a29e",
+          "source_sha256": "a9860b1dd0232230b79c635d0ab085a642208ea15a1c26a95a7ef4ee6b046191"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100669302:340",
+          "method_token": 100669302,
+          "il_offset": 340,
+          "instruction_ordinal": 109,
+          "method_il_sha256": "aa4c5fa9b0f61846890396c3d04a8835b2e911d98db9d6c0dcac8d89ac05a29e",
+          "source_sha256": "ea8b598e2fe2eac2797208be6a1380317aa28655121e78576506b20e889dbbc2"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100669302:353",
+          "method_token": 100669302,
+          "il_offset": 353,
+          "instruction_ordinal": 113,
+          "method_il_sha256": "aa4c5fa9b0f61846890396c3d04a8835b2e911d98db9d6c0dcac8d89ac05a29e",
+          "source_sha256": "a9263aa25f03d18b294727318791db84991dd5ddc5c7167b2de6393cd283fb3e"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100669302:369",
+          "method_token": 100669302,
+          "il_offset": 369,
+          "instruction_ordinal": 117,
+          "method_il_sha256": "aa4c5fa9b0f61846890396c3d04a8835b2e911d98db9d6c0dcac8d89ac05a29e",
+          "source_sha256": "fb33b672a748bf4a746b5a79c5e06fcd5d04ff8630069a5d86ae2b7c8082c05b"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100669302:450",
+          "method_token": 100669302,
+          "il_offset": 450,
+          "instruction_ordinal": 144,
+          "method_il_sha256": "aa4c5fa9b0f61846890396c3d04a8835b2e911d98db9d6c0dcac8d89ac05a29e",
+          "source_sha256": "6eccf2521bd4f0e77b4ff69f03624b5419958df437e7961f8da4a9b044a4e879"
+        },
+        {
+          "id": "unity:managed_literal:URP/Beholder3_Data/Managed/Beholder3.dll:100670081:65",
+          "method_token": 100670081,
+          "il_offset": 65,
+          "instruction_ordinal": 31,
+          "method_il_sha256": "93f186151585f9e28b5b4948be9c589d7729ca2fa367e4a86aeea3af9f30aa6f",
+          "source_sha256": "e7ac0786668e0ff0f02b62bd04f45ff636fd82db63b1104601c975dc005f3a67"
+        }
+      ]
+    }
+  ]
+}

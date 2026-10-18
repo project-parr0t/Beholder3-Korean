@@ -1,0 +1,11 @@
+param([string]$Assembly,[string]$Output)
+Add-Type -TypeDefinition @"
+using System;using System.IO;using System.Linq;using System.Reflection;using System.Reflection.Emit;using System.Reflection.Metadata;using System.Reflection.Metadata.Ecma335;using System.Reflection.PortableExecutable;using System.Text.Json;using System.Collections.Generic;using System.Security.Cryptography;
+public static class ManagedLiteralAudit {
+static Dictionary<ushort,OpCode> ops=new Dictionary<ushort,OpCode>();
+static ManagedLiteralAudit(){foreach(var f in typeof(OpCodes).GetFields(BindingFlags.Public|BindingFlags.Static)){if(f.GetValue(null)is OpCode o)ops[unchecked((ushort)o.Value)]=o;}}
+static string Hash(byte[] b){using(var s=SHA256.Create())return BitConverter.ToString(s.ComputeHash(b)).Replace("-","").ToLowerInvariant();}
+public static void Run(string path,string output){using(var fs=File.OpenRead(path))using(var pe=new PEReader(fs)){if(!pe.HasMetadata)throw new Exception("MANAGED_METADATA_REQUIRED");var r=pe.GetMetadataReader();var rows=new List<object>();foreach(var h in r.MethodDefinitions){var m=r.GetMethodDefinition(h);if(m.RelativeVirtualAddress==0)continue;var b=pe.GetMethodBody(m.RelativeVirtualAddress).GetILBytes();var ins=new List<object>();for(int p=0;p<b.Length;){int offset=p;ushort v=b[p++];if(v==254)v=(ushort)(0xfe00|b[p++]);var op=ops[v];int len=0;switch(op.OperandType){case OperandType.InlineNone:break;case OperandType.ShortInlineI:case OperandType.ShortInlineVar:case OperandType.ShortInlineBrTarget:len=1;break;case OperandType.InlineVar:len=2;break;case OperandType.InlineI8:case OperandType.InlineR:len=8;break;case OperandType.InlineSwitch:len=4+4*BitConverter.ToInt32(b,p);break;default:len=4;break;}string literal=null;if(op==OpCodes.Ldstr)literal=r.GetUserString(MetadataTokens.UserStringHandle(BitConverter.ToInt32(b,p)&0xffffff));ins.Add(new{offset,opcode=unchecked((short)op.Value),literal});p+=len;}if(ins.Count>0)rows.Add(new{token=MetadataTokens.GetToken(h),name=r.GetString(m.Name),il_sha256=Hash(b),instructions=ins});}File.WriteAllText(output,JsonSerializer.Serialize(new{assembly_name=r.GetString(r.GetAssemblyDefinition().Name),mvid=r.GetGuid(r.GetModuleDefinition().Mvid).ToString(),methods=rows}));}}
+}
+"@
+[ManagedLiteralAudit]::Run($Assembly,$Output)

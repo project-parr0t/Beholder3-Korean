@@ -1,0 +1,60 @@
+{
+  "asset": {
+    "bytes": 107856801,
+    "format": "parr0t-steam-package/v4",
+    "manifest_sha256": "a16a552d2751d8df71ace2b6fadec56f2951352188f3177c994f58c45d415347",
+    "name": "Beholder3-Korean-v1.0.0-Windows-x64-SteamBuild16599828.zip",
+    "sha256": "41033581bf5abc7ccf47926ebc0118c322cdda41abe1b5eeda9b8775fcd3bc8c"
+  },
+  "checkpoint": {
+    "bytes": 26636830,
+    "schema": "parr0t.release-checkpoint/v1",
+    "sha256": "5f11125624cc27916da41e0ee2342c8d8eae1495f0ad3234d19c53cd7353456f"
+  },
+  "commits": {
+    "sdk": "63c1be3cf2288eacbd3deeaf486d1e7d6c42e2ca",
+    "translation_source": null
+  },
+  "display_name": "Beholder 3",
+  "glue_paths": [
+    "native/BUILD-NATIVE.md",
+    "native/build_native.py",
+    "native/native-build.json",
+    "runtime/BUILD.md",
+    "runtime/FontPlugin.cs",
+    "runtime/FontRendererHooks.cs",
+    "runtime/KoreanFontSupport.cs",
+    "runtime/ManagedLiteralPlugin.cs",
+    "runtime/build-font-bundle.py",
+    "runtime/build-runtime.py",
+    "runtime/inspect-managed.ps1",
+    "runtime/managed-callsite-bindings.json",
+    "runtime/runtime-build-inputs.json",
+    "runtime/third-party-runtime-inputs.json"
+  ],
+  "patch_id": "paintbucket-ko",
+  "patch_version": "v1.0.0",
+  "readme": {
+    "base_commit": "ed3774466b26bf63f2a8663ecfe55415c1c115af",
+    "mode": "append_only"
+  },
+  "release_id": "r1",
+  "release_title": "Beholder 3 Patch v1.0.0 (Game Version Steam Build 16599828)",
+  "schema": "parr0t.instance-release/v1",
+  "supported_game_builds": [
+    {
+      "display_version": "Steam Build 16599828",
+      "id": "beholder3-steam-16599828-hdrp"
+    },
+    {
+      "display_version": "Steam Build 16599828",
+      "id": "beholder3-steam-16599828-urp"
+    }
+  ],
+  "tag": "v1.0.0",
+  "target": {
+    "architecture": "x64",
+    "os": "windows",
+    "prerequisites": []
+  }
+}
