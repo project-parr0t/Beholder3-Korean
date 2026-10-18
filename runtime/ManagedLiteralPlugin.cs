@@ -60,10 +60,12 @@ namespace Parr0t.PrivateManagedLiterals {
     [BepInProcess("Beholder3.exe")]
     [BepInDependency("parr0t.private.ko-font-support", BepInDependency.DependencyFlags.HardDependency)]
     public sealed class ManagedLiteralPlugin : BaseUnityPlugin {
+        private void OnDestroy() { ReportNameSupport.Stop(); }
         private void Awake() {
             if(!UnityEngine.Application.unityVersion.StartsWith("2021.1.",StringComparison.Ordinal))throw new InvalidOperationException("MANAGED_UNITY_VERSION");
             string dir=Path.GetDirectoryName(Info.Location);var plans=LiteralEngine.Read(Path.Combine(dir,"managed-literals.bin"),PayloadBinding.Digest);
             int count=LiteralEngine.Apply(Path.Combine(UnityEngine.Application.dataPath,"Managed"),plans);
+            ReportNameSupport.Initialize();
             Logger.LogInfo("MANAGED_LITERAL_TARGETS_APPLIED="+count);
         }
     }

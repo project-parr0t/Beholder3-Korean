@@ -1,0 +1,328 @@
+{
+  "bindings": [
+    {
+      "key": "HANS_MEINHARDT",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009122492416",
+      "source_sha256": "facfd4a69e66a90890233bc09b465b526d8584f417316f66156ff070cfcf0698"
+    },
+    {
+      "key": "SIBYLLE_STEIN",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009156046848",
+      "source_sha256": "4b39e1e5b4dc14464835e590ca418ab8a2a9c4b2ef070739d4a60b21e11a2856"
+    },
+    {
+      "key": "CHANTALLE_SIEBOLDT",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009160241152",
+      "source_sha256": "19eaa021736c8dbdfac8a8aab8df42f98744c2144ccb18f5eb698b3d2e17c178"
+    },
+    {
+      "key": "WILHELM_WUERGER",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009164435456",
+      "source_sha256": "2c183c040b31f4a9e19456027b5868fd1ab0a8d89fa9736e461bacb8fcbd98c6"
+    },
+    {
+      "key": "SUSANNE_BEINERT",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009172824064",
+      "source_sha256": "a93a33189b3c3fc191cd59bc0e4de6d30698d771bb33b86c2e7cb594a907ce55"
+    },
+    {
+      "key": "LOTTE_ALTMANN",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009177018368",
+      "source_sha256": "e9981149d9b5396f18eb983ab14b7a23369a679a72bc469a2759864dc84909ca"
+    },
+    {
+      "key": "THE_PORTER",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009181212672",
+      "source_sha256": "b4053fbdf55448e8ac66387f14362bb3cb05a7d54177df37475b0eb8727c0003"
+    },
+    {
+      "key": "STEPHEN_HUBERTS",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009185406976",
+      "source_sha256": "cde87f6735ffd25873e8f07afb109ae8a33720af108ff710c9e256845aed088a"
+    },
+    {
+      "key": "ERNST_MUELLER",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009193795584",
+      "source_sha256": "e2815f23af9e016288d1d8efe45adcae0775a6859bb8a06deccccc55bbcdf7aa"
+    },
+    {
+      "key": "EMMA_GRUNDIG",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009197989888",
+      "source_sha256": "dbab418539dfa36a17ef0e62ee03e556b27e923e99c9cf09e87e1a4ff22f0d46"
+    },
+    {
+      "key": "GUNTHER_BEISLAUS",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009202184192",
+      "source_sha256": "d9b94bb40944786ddd262714a904db6678b24b462e325ee9ee6cc6a60b8ada06"
+    },
+    {
+      "key": "MIRIAM_STOCKER",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009206378496",
+      "source_sha256": "ff85c4fb0b29e102f1b7de6985637d7d45a82afbe1fdb8e039940fbbf0bf5823"
+    },
+    {
+      "key": "BRUNO_ZWEIG",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009214767104",
+      "source_sha256": "2063c39d7a9ee7c13a5c0081e577703f05dc66cb0c44b084e6598bf0e9b25a2a"
+    },
+    {
+      "key": "PHILIPP_RUECKERT",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009218961408",
+      "source_sha256": "7fb2f5305d0e36561ae9f1f1ef31d0619dd1b334690c91b6c3349045afdb1d49"
+    },
+    {
+      "key": "ARMIN_KREINERT",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009227350016",
+      "source_sha256": "d6d2155e22263bca2194dceb8874f4c8908d2d6c3bd00e268315eee98c5a9945"
+    },
+    {
+      "key": "YVONNE_SEELERS",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009231544320",
+      "source_sha256": "ca49c092c1b6a03894b2d91284875f8ff6c1226028e6a6177e547ad712288c23"
+    },
+    {
+      "key": "THOMAS_NOLLER",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009235738624",
+      "source_sha256": "3234ae478c61190348253af5edea2891bafb4d2b3ff01154f6cc314ace938f5b"
+    },
+    {
+      "key": "KARSTEN_SINGER",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009244127232",
+      "source_sha256": "04ef533334185c309ba4af86f19ca5eddb33df36ccfb590a0f4d02b7cb7704ab"
+    },
+    {
+      "key": "ALEXANDER_SCHWARZ",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009248321536",
+      "source_sha256": "6be0d2a85cdc0b91050407207d9488e35fa4c7469ea9f803973acc7815db8194"
+    },
+    {
+      "key": "ALFRED_WECKERT",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009252515840",
+      "source_sha256": "6853fc3c4fd398dccdf19a9df9be6e6fca807137ff02270615711a10c66e0d03"
+    },
+    {
+      "key": "ELISABETH_WECKERT",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009256710144",
+      "source_sha256": "51b5404de1e1c476e531d501a363836b9346d80e1cc69716f4ce16c5b3f788f5"
+    },
+    {
+      "key": "FRANZ_HANAU",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009256710145",
+      "source_sha256": "568643c9c3c1db4b83479c0e71395a5921ceb5af13ef11a900dfa90f4a5eaabb"
+    },
+    {
+      "key": "IDA_WECKERT",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009260904448",
+      "source_sha256": "80fbf67d444c343525ec171cb02712a23e1dfa3199b970884ebad2c1b68fa163"
+    },
+    {
+      "key": "KIM_SCHWARZ",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009265098752",
+      "source_sha256": "c43a84a19fc229c92b5d4a5828c823aae800eef1e5a76a5ccadc4982ae9aeed9"
+    },
+    {
+      "key": "MAGNUS_HERMANN",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009269293056",
+      "source_sha256": "07f292bd72be0b22252614bd5bdc1a2075fdaf0405a2cad17d8b5167ca3a109a"
+    },
+    {
+      "key": "SABINE_SCHWARZ",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009277681664",
+      "source_sha256": "2d85cd1796c0aa2013c98600070604ac93c754cb10104f05265bbc33ddf4aef5"
+    },
+    {
+      "key": "ULRIKE_WEINERTS",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009277681665",
+      "source_sha256": "037d62361a74ab1bb122646c3a6fcf413140e88168501d408013c3d22267dfdb"
+    },
+    {
+      "key": "WALTER_BULLHAUSER",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009281875968",
+      "source_sha256": "f1c8cbc93a23f55bc79ca4ad7957e7c85c34e00d0b9a11cb2380c9fa1a25681b"
+    },
+    {
+      "key": "WOLF_HENKER",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009286070272",
+      "source_sha256": "e1452fd375efd74f671eeb246bbd2486d432c97902b0c70f5a51192d85df4cbe"
+    },
+    {
+      "key": "NORA_HELM",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009290264576",
+      "source_sha256": "ef6c4aae88d86d67ec832c4fa3004db6765362257766bfb6c6e49a4994de05cd"
+    },
+    {
+      "key": "PETER_PRANGER",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009290264577",
+      "source_sha256": "a4a86c9a737a42abd9b1d504efab122389b430ae639dae5db8ba3385f908a687"
+    },
+    {
+      "key": "LUKAS_SCHMOLKE",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009294458880",
+      "source_sha256": "6cf6a3bcbeededc44675b31063ce9577ba858a95b80948f18f541ff8330134a9"
+    },
+    {
+      "key": "FRIEDERIKE_FEINBEIN",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009298653184",
+      "source_sha256": "e6df25407e55202ad76674ed8a2812ee9446a365a87b5045b0f1e959c2080c47"
+    },
+    {
+      "key": "CHRISTIAN_SUHLINGER",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009302847488",
+      "source_sha256": "bd82b9e9340167df89062fcb9d53d84d6a2ecf321967d9805427678e773da198"
+    },
+    {
+      "key": "ALBERT_BUEHLOW",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009307041792",
+      "source_sha256": "99bccfc45ce93a4116f51791a5b9dce2d215713080f04a5a600d9c0eb277a094"
+    },
+    {
+      "key": "ANNEMARIE_PINKERT",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009311236096",
+      "source_sha256": "b059ca63b55480ddb3e1c077ff4b2c2a895fb6ab93d4e7ed0ed7a55a45985562"
+    },
+    {
+      "key": "GERHARDT_GUENZEL",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009311236097",
+      "source_sha256": "5915cfb4a1f1a69db41f3e4d37ed59672dbfdf6c752ed13066d8b1504b93f299"
+    },
+    {
+      "key": "MARIA_GUENZEL",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009315430400",
+      "source_sha256": "d0a6b28cda7e7bfde0c2759a0d12d09da18bd7ae139c217fe8a30e8e8861df90"
+    },
+    {
+      "key": "TIM_GUENZEL",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009319624704",
+      "source_sha256": "104154015fa8a926091450dca20ae0a783bd88ba230a2da9622ea6a193ad2ef2"
+    },
+    {
+      "key": "TINA_GUENZEL",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009319624705",
+      "source_sha256": "a794f2cc337abeb878af8b0ede01d6395508d45986618dc3b18020a4457b8f17"
+    },
+    {
+      "key": "JULIA_HARSCHBERGER",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009323819008",
+      "source_sha256": "95f6ae32d7ed1a57a0686197cc0418634fc1388cc4965e6ca891268116beb573"
+    },
+    {
+      "key": "FRANK_SCHWARZ",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009374150656",
+      "source_sha256": "db605e8f71913d1f3966ad908d78b8a8084f5047122037b2b91a7192b598a9ad"
+    },
+    {
+      "key": "ANTI_TERROR_POLICE_2",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009411899392",
+      "source_sha256": "02ce407401a220e54c9eb610d0d13c29a92fc22ca8638e7d720086aa62d9fc45"
+    },
+    {
+      "key": "POLICE_CAR_TUTORIAL",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009458036736",
+      "source_sha256": "5bcda4e4f6c33d0764e6061aa5be88fff3d963f2b3cae67f912a3edd41a7c5b9"
+    },
+    {
+      "key": "POLICE_GUY2",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009508368384",
+      "source_sha256": "2efeeeb01318ac942d6a2624ab92358a969937c33ea86ed8416e906ac272529c"
+    },
+    {
+      "key": "POLICE_GUY_TUTORIAL",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009546117120",
+      "source_sha256": "02ce407401a220e54c9eb610d0d13c29a92fc22ca8638e7d720086aa62d9fc45"
+    },
+    {
+      "key": "POLICE_GUY",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009554505728",
+      "source_sha256": "02ce407401a220e54c9eb610d0d13c29a92fc22ca8638e7d720086aa62d9fc45"
+    },
+    {
+      "key": "ANTI_TERROR_POLICE",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009592254464",
+      "source_sha256": "02ce407401a220e54c9eb610d0d13c29a92fc22ca8638e7d720086aa62d9fc45"
+    },
+    {
+      "key": "POLICE_ENFORCER",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009600643072",
+      "source_sha256": "bb186757b4bf06e91c82130526462b62c5240dc78d86d9111d84d5e103e27e04"
+    },
+    {
+      "key": "UNKNOWN_CALLER",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009613225984",
+      "source_sha256": "0f6218c0c51be73ead4cf11a27678b76cb44df2b594190c1e65ac59365d78bb1"
+    },
+    {
+      "key": "BLACK_MARKET_TRADER",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009650974720",
+      "source_sha256": "4fd951916f8e9f1e513baea9d64616192cd45485954fe0c1f36a62c9b2a0db7e"
+    },
+    {
+      "key": "LUNCH_LADY",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009684529152",
+      "source_sha256": "b2944334c85cb33249fb851823773d9ea03f97fdeebbb53ae4f198182c8e6f94"
+    },
+    {
+      "key": "KIOSK",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124968009692917760",
+      "source_sha256": "7afc4153b1e8cbbfbdac785cd6a1c47ec762c909c469b3cc66b5dc5a9029fa4b"
+    },
+    {
+      "key": "DOOR_TO_ROOFTOP",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124995878376747011",
+      "source_sha256": "6224bdd3823beb87d871fdebd3616bda6ad6ee24032c82e8b9748fda8cd4e35f"
+    },
+    {
+      "key": "LOTTES_MIC",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124995879727312899",
+      "source_sha256": "f3f36165df6eda4ee94d29001ca1c45e79b043946b6025ace821006b5dc8849c"
+    },
+    {
+      "key": "STEPHENS_MIC",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124995881061101571",
+      "source_sha256": "f3f36165df6eda4ee94d29001ca1c45e79b043946b6025ace821006b5dc8849c"
+    },
+    {
+      "key": "WOLFS_GUITAR",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124995882399084547",
+      "source_sha256": "c5050e5bca7862b3c140001e92eb328448104e1e0516b37bf89cc3eba2b4cf04"
+    },
+    {
+      "key": "JANITORS_CABINET",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124995883737067523",
+      "source_sha256": "9b58923185ab7e798eb08d5b4b6dc01b3f1381b59883e76b598d6b341b01ff9f"
+    },
+    {
+      "key": "SERVER",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124995885079244800",
+      "source_sha256": "9d80df634989faa61839c692c8509d8a7f22e3c9e40eb0c908925242c745b0e7"
+    },
+    {
+      "key": "Ntt_047AB6AC",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:124995886450782211",
+      "source_sha256": "210e51e019366706681f12e78b4f8396fb598b04074eb44faf0a8ad6a6930a70"
+    },
+    {
+      "key": "PHONE",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:125017098412187650",
+      "source_sha256": "63dceb8800b2dd4af9567a1f54f03b7c3dbdc27fac4799091ebfcc4928899ee5"
+    },
+    {
+      "key": "FRANKS_DESK",
+      "id": "unity:string_table:539980877fde24b47bb65d55a7a84c20:125017098437353475",
+      "source_sha256": "210e51e019366706681f12e78b4f8396fb598b04074eb44faf0a8ad6a6930a70"
+    }
+  ],
+  "variants": [
+    {
+      "variant": "HDRP",
+      "assembly_name": "Beholder3",
+      "method_token": 100668932,
+      "method_sha256": "17bace84ad80b5c0ea5a70d5ce3d0217754a57b3c808df86201d5bbcab4422fe"
+    },
+    {
+      "variant": "URP",
+      "assembly_name": "Beholder3",
+      "method_token": 100668932,
+      "method_sha256": "add253a12d611ca62098ed541e8eab406041e4f5ee453c2993690ef764edba61"
+    }
+  ]
+}

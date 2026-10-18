@@ -29,7 +29,7 @@ ChatGPT Codex를 기반으로 ChatGPT 6.1 Luna 서브에이전트를 통해 번�
 
 ## 다운로드 및 설치
 
-[한국어 패치 v1.0.0 다운로드](https://github.com/project-parr0t/Beholder3-Korean/releases/download/v1.0.0/Beholder3-Korean-v1.0.0-Windows-x64-SteamBuild16599828.zip)
+[한국어 패치 r3 다운로드](https://github.com/project-parr0t/Beholder3-Korean/releases/download/r3/Beholder-3-Korean-r3.zip)
 
 지원 환경: Windows x64, Steam Build **16599828**의 **HDRP·URP** 버전.
 
@@ -41,4 +41,4 @@ ChatGPT Codex를 기반으로 ChatGPT 6.1 Luna 서브에이전트를 통해 번�
 
 원본으로 되돌리려면 같은 설치 프로그램에서 **2. 복원**, 적용 상태를 확인하려면 **3. 설치 상태 확인**을 선택합니다.
 
-다운로드 파일의 SHA-256: `41033581bf5abc7ccf47926ebc0118c322cdda41abe1b5eeda9b8775fcd3bc8c`
+다운로드 파일의 SHA-256: `cfa42833464fc03fd74c18f1283b252b2f73f43a126823c23cb9270265f851ce`

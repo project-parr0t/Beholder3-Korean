@@ -8,7 +8,7 @@ Inputs
 - The supported player's original `HDRP` and `URP` managed assemblies supply metadata and compiler references. Their exact hashes are listed in `runtime-build-inputs.json`. Original game files and extracted source text are not repository inputs.
 - Use the unmodified BepInEx Windows x64 5.4.23.5 core files declared in `third-party-runtime-inputs.json`.
 - Use the declared Microsoft .NET Framework C# compiler for the original compile recipe. The recipe records its hash, version, reference hashes, flags, source hashes, and the exact published output hashes.
-- Python 3 and PowerShell 7 are developer tools for the metadata-only bridge. The font bundle recipe additionally uses UnityPy 1.23.0 and lz4 4.4.5. The selected Parr0t Unity SDK reference is `63c1be3cf2288eacbd3deeaf486d1e7d6c42e2ca`; no SDK tree is copied here.
+- Python 3 and PowerShell 7 are developer tools for the metadata-only bridge. The font bundle recipe additionally uses UnityPy 1.23.0 and lz4 4.4.5. The selected Parr0t Unity SDK reference is `2826c6624cb52dff6d20050838d753d00a3e2dd6`; no SDK tree is copied here.
 
 Managed mapping and compilation
 
@@ -20,7 +20,7 @@ From an arbitrary directory, supply paths of your choice:
 python -B runtime/build-runtime.py --checkpoint parr0t-release-checkpoint.json --checkpoint-sha256 CHECKPOINT_SHA256 --game ORIGINAL_GAME_DIRECTORY --loader-core BEPINEX_CORE_DIRECTORY --compiler CSC_EXECUTABLE --output BUILD_DIRECTORY
 ```
 
-This produces the two managed mapping files, required-character files, and four plugin DLLs. `PayloadBinding.cs` is generated from the mapping digest. The mapping's historical candidate-header digest is an explicit declared input in the binding file; it is not claimed to be the canonical checkpoint file digest. The resulting mapping digest must equal the corresponding released-file digest in `runtime-build-inputs.json`.
+This produces the two managed mapping files, required-character files, and four plugin DLLs. `PayloadBinding.cs` is generated from the mapping digest. The mapping header binds the canonical checkpoint SHA-256 declared in the binding file. Its map digest determines the generated PayloadBinding.cs guard. The resulting mapping digest must equal the corresponding released-file digest in `runtime-build-inputs.json`.
 
 For a read-only comparison with an extracted release's `payload` directory, use `--verify-existing PAYLOAD_DIRECTORY` instead of `--output`, `--compiler`, and `--loader-core`. This compares generated mappings in memory without writing a replacement payload or compiling DLLs.
 

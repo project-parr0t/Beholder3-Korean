@@ -88768,11 +88768,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/274/dialogueEntries/8/fields/18/value",
       "location_fingerprint": "07f4c449fbee3f0745e606d8fe4080cf727258a365f0b043ba6d1347957155f6",
-      "review_fingerprint": "0388dd4a1c999aaceb51ac48e64f9f9bd9ec07761f9ba042f1c39b3b5383462c",
+      "review_fingerprint": "e194ab92120b921779995953305c4ac3443fd5713c057d41ccf7b3345562c3e6",
       "source_sha256": "ba2f0ab0cf894e2ddc0882fad2fb1d9bfb631d9acfc250e6181ca120000de987",
       "status": "reviewed",
-      "target": "Ernst Müller 씨 앞으로 온 서류가 있어요. 제가 드려도 될까요?",
-      "target_sha256": "b622b8f16ffecb8b2eb8e3d1465201fca4eb811d912f2ac4ec23de04e17eb15e"
+      "target": "에른스트 뮐러 씨 앞으로 온 서류가 있어요. 제가 드려도 될까요?",
+      "target_sha256": "3f62c0233c668c8bff250629580e6ad30d38c7925f7c7709e4edaa52489bd648"
     },
     {
       "dependencies": [],
@@ -88790,11 +88790,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/275/dialogueEntries/3/fields/18/value",
       "location_fingerprint": "f47de88eb33923817028f208b38b41c4b8def57399703a984da331dcdaf85579",
-      "review_fingerprint": "a6e30f292ef957ed3be8477a2b4483ba6242d6f01bd2fa8463c1b9e049d3bb29",
+      "review_fingerprint": "ab62a4ec8ff87de95f34271b206d192b7cf7e334d56964b8a4cc0e79be7c7a7c",
       "source_sha256": "05f5643a3d834a0becc1a99a59ab4ea03bc93e6f55dd91df92f3c4e2519ea142",
       "status": "reviewed",
-      "target": "안녕하세요, Schwarz 씨!",
-      "target_sha256": "1244171dc414ac33344d87de992e27417017a7e9ead3e7b140fcc56dbf36dea1"
+      "target": "안녕하세요, 슈바르츠 씨!",
+      "target_sha256": "bfe37bfec489a97412de3f6f8fd0ca7ecede76d96ad73760f87618fd155d708f"
     },
     {
       "dependencies": [],
@@ -88834,22 +88834,22 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/275/dialogueEntries/12/fields/18/value",
       "location_fingerprint": "c8aaadfbcc09fbcd4f5195500da4fb74358863695a56199f3b47395bbb93276e",
-      "review_fingerprint": "338cf05ceb7d1b28652156d6b853246c3222ebf83681e4c3e9dee997b69fccef",
+      "review_fingerprint": "ebfd8a141f48ec669dbd93309ed9f74798cc27a8df395bd217f65faeb958f01a",
       "source_sha256": "1d4f622a4d359af61a3b32a9b9034937cd852dbbd14614914b7404b0d6d39f3b",
       "status": "reviewed",
-      "target": "안녕하세요, Schwarz 씨. 지금은 시간이 없으니 제 사무실로 와 주세요.",
-      "target_sha256": "03484baa1944371936a20b27cd8563bf7604c439849b9dd254cbcbc0912890de"
+      "target": "안녕하세요, 슈바르츠 씨. 지금은 시간이 없으니 제 사무실로 와 주세요.",
+      "target_sha256": "dd851b478a0062863addf34d478838529406108e25a18fa165508661d99a8291"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/276/dialogueEntries/3/fields/18/value",
       "location_fingerprint": "0a09f14fbfb12dbbeb334d088b12ebc204b64c87e06d13b73f490f4a082d09d0",
-      "review_fingerprint": "410c4797d7a0fda36cad2283ade314b4ee43c5a0afc9d10ee600a4c2836e10b4",
+      "review_fingerprint": "a351379c19b3144e3889bf46327cbcc92cbc4de84d4746f1c44a2f4bfb693150",
       "source_sha256": "f0d73118a4a2496b4d19bf84e4b53b02faaca0fd6ecc35ff3952be994e6be217",
       "status": "reviewed",
-      "target": "안녕하세요, 간단히 제 소개를 드리겠습니다. 제 이름은 Frank Schwarz입니다. 저는 Department I에서 막 근무를 시작했습니다.",
-      "target_sha256": "061826784693e002489ee5025e95026576539eadce1f1104d9b9f7eb4c3a1bc9"
+      "target": "안녕하세요, 간단히 제 소개를 드리겠습니다. 제 이름은 프랭크 슈바르츠입니다. 저는 Department I에서 막 근무를 시작했습니다.",
+      "target_sha256": "33d1ccb08e4da8d2a4c6cb7e7fdbede2c9a3076cd139e5e54963b3555302a258"
     },
     {
       "dependencies": [],
@@ -88867,11 +88867,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/276/dialogueEntries/5/fields/18/value",
       "location_fingerprint": "1ac0fa0dfbba622c81876bfe8b3f439e68935023d9be680fb01f09021b798b56",
-      "review_fingerprint": "3a9fe6ef65e9944df3fd274b6fda9d854404f6a3bb0fe9c1ae93991ee7a2f298",
+      "review_fingerprint": "0ddf6d619e0902f957a9ec946ee34882cb8086d064b0217de9bdfaa90c20604c",
       "source_sha256": "c68daa4c047ea8fc1446dae6bb2974a9b1c1bc3ee6511d5cb9160e77a215375e",
       "status": "reviewed",
-      "target": "제 이름은 Chantalle Sieboldt예요.",
-      "target_sha256": "dd4772197b2cee03c05c1946cb5e86d17b66711f874db9e0b8eb2b92532dee3d"
+      "target": "제 이름은 샹탈레 지볼트예요.",
+      "target_sha256": "845c30aa4281073c781aa1de77b2c8ef4405d6fa3dbb4f05aec21840169ba54c"
     },
     {
       "dependencies": [],
@@ -88911,11 +88911,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/277/dialogueEntries/4/fields/18/value",
       "location_fingerprint": "43e3736fdb484f6932055440c50c748a66a18298fdee3605d6872fb1a1c99f2c",
-      "review_fingerprint": "ec2c38ef27457e42d52caa3075c5242db5b6bfad3938f87b0785aa1f5db42810",
+      "review_fingerprint": "827cf43b6038fff4832141bf90f9246168849b44198bea8369f7935d5f17f16b",
       "source_sha256": "cb47d921442572b15ed121f7bc9e874fa5ed8e62f5571102b346eb39fe09204a",
       "status": "reviewed",
-      "target": "그럼요, Schwarz 씨. 물어봐 주셔서 고마워요.",
-      "target_sha256": "10d050f205617f58addc1fb4364d0f6f44f8d9a983e509dc50cbf3441920cc43"
+      "target": "그럼요, 슈바르츠 씨. 물어봐 주셔서 고마워요.",
+      "target_sha256": "5e549f1fd2cdd398d420904e623e4eee7860300c9e3845ed53c28fb89386f780"
     },
     {
       "dependencies": [],
@@ -98107,11 +98107,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/322/dialogueEntries/11/fields/18/value",
       "location_fingerprint": "af4d21a00c00f9ce98079e7ab827a784ba068e398e3b57f426d99986194ba63c",
-      "review_fingerprint": "855ae6d24ee19e6514f0ca96c2f537db044e8a29cfc0fbc3b32757c1507aa2eb",
+      "review_fingerprint": "9d4ca4152100217dd5b26204e30e3f1af279eab3bc3de4ac3de72e70755a52b1",
       "source_sha256": "45ba9cf7240acc2bd219a02d77a397031fc0affe78873e863a747a41803f7f57",
       "status": "reviewed",
-      "target": "정말 친절하시네요. 감사합니다, Schwarz 씨.",
-      "target_sha256": "aff5b90faaae50de250fdc86ab5d436f2be0f60f82761dc5a3255192b7c6ff66"
+      "target": "정말 친절하시네요. 감사합니다, 슈바르츠 씨.",
+      "target_sha256": "957395fb282171ad13371b08b5262cdd1857085140e2e2763f1f5a6569f30e2f"
     },
     {
       "dependencies": [],
@@ -103046,11 +103046,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/354/dialogueEntries/13/fields/18/value",
       "location_fingerprint": "1952ea062360e00063a3b87a694c76ba807da1391064af788bb3cc999c621f0c",
-      "review_fingerprint": "5de658eee9b6fa476151d5d8c702ac459ecb7fa9c28fb8ae14720f0ffa6d7f64",
+      "review_fingerprint": "bdf6d12e5e900868ba0e35281a303f89e8b7a4d8f27a8e1565a3577d0fd7d416",
       "source_sha256": "2b7370b7789b406fa35ce61399ce592094d47b5bbf6734c26cec7da90307b77f",
       "status": "reviewed",
-      "target": "그건 안타깝지만 당신 문제네요. Huberts 씨나 Altmann 부인의 명령 확인서가 없으면 들여보내 드릴 수 없습니다.",
-      "target_sha256": "c9a024091d3975daba05feef5c2679be5d29cd4c1c2a18e3ce6451859571a920"
+      "target": "그건 안타깝지만 당신 문제네요. 후베르츠 씨나 알트만 부인의 명령 확인서가 없으면 들여보내 드릴 수 없습니다.",
+      "target_sha256": "1895917c678d2904467b5b5fe0afc83f1dcd3d6097e0a8f95025a81a2efc0e19"
     },
     {
       "dependencies": [],
@@ -103079,11 +103079,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/354/dialogueEntries/16/fields/18/value",
       "location_fingerprint": "44459d6b7e3beba8f8c6d26d1a9db4b2c788c1a850b1491833dc01a153e76d92",
-      "review_fingerprint": "4c305cfa9b001b7d2cde71479d00eef9f6c10f44482d1eee888e9b59e68cf2c4",
+      "review_fingerprint": "1efc1cd2358225c330088a024a37865aa727fcaea50619651d8b63937cf16333",
       "source_sha256": "7dff1e8dc7a68fe6209ebfcf7e1ddc995eb378c827896997b147305a7fc1ed76",
       "status": "reviewed",
-      "target": "죄송합니다, Schwarz 씨. 제가 해드릴 수 있는 게 없습니다.",
-      "target_sha256": "3d846c08a7948c238a21047bb95d97ab32a44bb94cf6910188b92d60ca2b2352"
+      "target": "죄송합니다, 슈바르츠 씨. 제가 해드릴 수 있는 게 없습니다.",
+      "target_sha256": "5a710ea75b9936d971aefe4b0477d3d97651724033d11326fde50c1db61faca2"
     },
     {
       "dependencies": [],
@@ -111736,11 +111736,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/400/dialogueEntries/7/fields/18/value",
       "location_fingerprint": "8ffd467c4d208a879bb08d7cac7cc084c4bf259d8be16a7a927b14897b7b00a4",
-      "review_fingerprint": "06e4e4ad3d79ef3aa60da8765f0dac28cbc6bff3f4455e9f8c1a11238f2e1bcc",
+      "review_fingerprint": "1412df3098d0a99f431bb6a20a85b9896b2722ea90bfb2d8d0ccf81b436d6020",
       "source_sha256": "706e6893fc3b20deb1fcde7438557aadc1b1a8a6a1c36329193e9eff79fa8895",
       "status": "reviewed",
-      "target": "Frank, 내가 당신을 좋아하는 거 알잖아요. 그래도 아무것도 말해 줄 수 없어요.",
-      "target_sha256": "5b7abd23533d7212ba88c7d87e16df96d8b313b2fe8003dc237b49feeec75198"
+      "target": "프랭크, 내가 당신을 좋아하는 거 알잖아요. 그래도 아무것도 말해 줄 수 없어요.",
+      "target_sha256": "bc204b4de1fde071fd76e6455ec34fc65d76b26122840be228d8032c60c2a939"
     },
     {
       "dependencies": [],
@@ -111956,11 +111956,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/401/dialogueEntries/16/fields/18/value",
       "location_fingerprint": "84d6368a9d873251dcc4d64065d3fab6334a59a21186125a427fd7a0c52fa5d6",
-      "review_fingerprint": "406d6e40682d0eeb7d2366802641fe99aedd98f63f1bac16f7e7ec47b860c853",
+      "review_fingerprint": "fd323003bee1a97f63e4d642db903d80e712d46c8cbe5700ca0e0bd8b1fa4c3f",
       "source_sha256": "fbb91c682310329fd1cc70fd9cfb8125c9e763370b80e0de1b564ffce767de7c",
       "status": "reviewed",
-      "target": "불협화음의 반체제 인사들, 탈선한 예술가들, 그리고 선전용 프로판가스 실험까지 — 그건 모두 Yvonne Seelers 씨 소관이에요.",
-      "target_sha256": "6b7342f34ab21f1531c3040c57644e155f2b434d6b6fa4fc2bd9aa53de7b3dfa"
+      "target": "불협화음의 반체제 인사들, 탈선한 예술가들, 그리고 선전용 프로판가스 실험까지 — 그건 모두 이본 젤러스 씨 소관이에요.",
+      "target_sha256": "df96352fd4805b7b5b56c04c9b31af32b2eba842cdfa756bd9ddc7e7b6a52fc0"
     },
     {
       "dependencies": [],
@@ -143669,11 +143669,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/532/dialogueEntries/17/fields/18/value",
       "location_fingerprint": "eee187a40eaee7cce0e1fbaf24b7257c57f26440037c4e8cc0ee1642c5a3f0a8",
-      "review_fingerprint": "cf0a60ce47a8901d281c533967a0a3b15943609981e20fb4fb7eea737f230614",
+      "review_fingerprint": "f6cdb95d88bd34524bd7093a339e9ca12ce71aeadd22d23e5544980d00917dea",
       "source_sha256": "4101e7df70bd58596dc38e70d79121e0c0834c912c0969205e2e3c28690bd0ea",
       "status": "reviewed",
-      "target": "화내지 마, Frank!",
-      "target_sha256": "6cd4c96c85c2784262d66143c6d3aeb839fe655652c08ede26a3185993bd279f"
+      "target": "화내지 마, 프랭크!",
+      "target_sha256": "89171f97029c9424fb04f7e83fb2064c0bdc506b49287f2f1d5ee97d751f48b2"
     },
     {
       "dependencies": [],
@@ -143724,11 +143724,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/532/dialogueEntries/22/fields/18/value",
       "location_fingerprint": "464ac8a3f42a8ead073655605312edf9089e03b9053b15c391cc49f78ef31229",
-      "review_fingerprint": "7a4a6fdc10424429ade9bc06f7e96b0eec81d3d88ef76cd271618e08b0a62bbf",
+      "review_fingerprint": "8ecb242870f0016c5778f472653e7c38f268bda70b6b01cef0cf3819c75beb13",
       "source_sha256": "624a4071793a0c2d3185f062476dd11a279b5774d8365cab5666a1259b19de87",
       "status": "reviewed",
-      "target": "Alexander가 병원에 있어. 수술을 받아야 해!",
-      "target_sha256": "eb560897f6ed53af1af2100df6bad9fc45f654ab47f11bd13942a7ddeb8f6122"
+      "target": "알렉산더가 병원에 있어. 수술을 받아야 해!",
+      "target_sha256": "781c0a34597232b75127d9acf9db17294ecb2d3687cf4fd4438cff83b0f6df8a"
     },
     {
       "dependencies": [],
@@ -145407,11 +145407,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/536/dialogueEntries/24/fields/18/value",
       "location_fingerprint": "7c1b10a458c7671935543b1fef462adfeb5d5f99b73ba75968bc501a575be467",
-      "review_fingerprint": "aad243ea71d72dc6523d8b0023204ad80b29be1faaefee389a4d9b8bcb1a748a",
+      "review_fingerprint": "69f28376fe44d40094824539d19ffd585354aadfaa57a7a142714a09d29c7437",
       "source_sha256": "87a6e9c028f5be8049c19b3f32de1a4b32c4cfc08bd56a39500abc22041d6585",
       "status": "reviewed",
-      "target": "정신 차려, Frank! 그 여자한테 꼭두각시처럼 휘둘리고 있잖아!",
-      "target_sha256": "7c2594466f85951294071c09e8944fef5bcd64c9aafc4bf928bcaf0e6cb834f5"
+      "target": "정신 차려, 프랭크! 그 여자한테 꼭두각시처럼 휘둘리고 있잖아!",
+      "target_sha256": "8f31d09764534127c63765fe9255cee57ffbea0e6456aa09e445d471d4ef4d5a"
     },
     {
       "dependencies": [],
@@ -145429,11 +145429,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/537/dialogueEntries/2/fields/18/value",
       "location_fingerprint": "8f835fecada03911788d3eee1963a5dc0fc37529f6d6e016c103f37640e7433b",
-      "review_fingerprint": "457fe370f8ad58673fe77858f5a7e14442d9c6a9e912234181c7ca16bbc86974",
+      "review_fingerprint": "6f4f155cc3acf28a5e6d70412a844b7b03e0d8efca846eeb28e868ccdbd4fa18",
       "source_sha256": "f6b692c5ccab22acfff6913697591146b972343151cd374f5cfb870167edb9f8",
       "status": "reviewed",
-      "target": "Frank, Kim이랑 얘기 좀 해 줘.",
-      "target_sha256": "4e19ed995a7798debbe56ea3ff539963d0f4f60a1a2db1c6616c91a32cf0fcaa"
+      "target": "프랭크, 김이랑 얘기 좀 해 줘.",
+      "target_sha256": "2896ae05bfc2ad0c8c5eee140a1d061a67a8500390a825591629c54c5c9eafb9"
     },
     {
       "dependencies": [],
@@ -145539,11 +145539,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/537/dialogueEntries/13/fields/18/value",
       "location_fingerprint": "98e99ed6fb104f0c68b8b199b4b7558b688bd6fa6b45032032365de82d9e339a",
-      "review_fingerprint": "7cc0eada6f398e09ddd8366881ae138469bada2017bfcc5f548b874969d0a869",
+      "review_fingerprint": "8b9538ccd262bbd72ef6641f62f2ad10f88abf546e6dcead52ebd66719062c05",
       "source_sha256": "0ffaa4f7c2a5c2ba5f4ed281dada5ba80ae3daae5cb92a2c2d15850d18acf2d4",
       "status": "reviewed",
-      "target": "더는 못 하겠어, Frank. 내가 쳐다보기만 해도 Kim은 걸핏하면 토라져.",
-      "target_sha256": "bd9c8ae87b580ad5717f6e16e6e4843342bdaf10d5482b0525db93e564fdde6f"
+      "target": "더는 못 하겠어, 프랭크. 내가 쳐다보기만 해도 김은 걸핏하면 토라져.",
+      "target_sha256": "f1ec8706767ff20fb53fa3b502d76593ec149955adfdee7d27089b0892f9cb3c"
     },
     {
       "dependencies": [],
@@ -145572,11 +145572,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/537/dialogueEntries/16/fields/18/value",
       "location_fingerprint": "da5b33dfca6751110d0bf5639aba403c50382ed383f109f7c140bf46631d78fb",
-      "review_fingerprint": "00ad9778197d948363e93d88785574536ae8234f6d887644bef6db7d9f681d79",
+      "review_fingerprint": "016f075984b7a60039e66cd7cc2451460049a1da5334a77295a0650d9317b8b9",
       "source_sha256": "8a3767b67be0b4a9365ef3677150aeaa9b1fdd461bd70b1e683a3255c981594a",
       "status": "reviewed",
-      "target": "이제 Kim이 그러는 것도 내 탓이야?",
-      "target_sha256": "553b676062ad97af539287fc938bc2f133331a4fe0bdec75365a2a227d12eb36"
+      "target": "이제 김이 그러는 것도 내 탓이야?",
+      "target_sha256": "b4ed37476d40a6d9de92c58a4e4f8502ef62095956c9d51987f935f69337e596"
     },
     {
       "dependencies": [],
@@ -152986,11 +152986,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/571/dialogueEntries/24/fields/18/value",
       "location_fingerprint": "461d6951aaa904e083eb07bf598a16d7a85c042644713a63eee0472a8d426849",
-      "review_fingerprint": "8db7cb3ba9ad44d507cf2e9dbfe1ce7609ad9e8b8f3b200d5d4c43f474b92c0e",
+      "review_fingerprint": "b41385dc30deaa2d73db17f9d128505ffdef0f37c88e60a016992304e866d3f6",
       "source_sha256": "07837600229138ad569a42dc97727b3777e482e55af2c9c22beb23676543b575",
       "status": "reviewed",
-      "target": "우린 재편을 목전에 두고 있어, Schwarz.",
-      "target_sha256": "f6ad2933a7e5e827be50a506a69338439ceda47fa812467b619de51624779594"
+      "target": "우린 재편을 목전에 두고 있어, 슈바르츠.",
+      "target_sha256": "e33e95ad3f6192931acdf2806e7ecfe2d17cd0d15152acc2b93de2cc4a81b60c"
     },
     {
       "dependencies": [],
@@ -161599,11 +161599,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/601/dialogueEntries/81/fields/20/value",
       "location_fingerprint": "5e21b2d7c5b126f8c563b0c5eb0c387dbf0ceee47bd359d421db4d0d8e9f7236",
-      "review_fingerprint": "c7253a243db6bce2d7f778f3ad2384f9d3bf1fb35c719266fe421d2a479a63c8",
+      "review_fingerprint": "682291bba6271e8cce8d5805e5cedf098f8dbaca371fc8d4618aeaec88399082",
       "source_sha256": "836aa1c99afa5fecd278ecae8383625cae390576db68eeb60b51b5f718cd45b8",
       "status": "reviewed",
-      "target": "그건 못 하겠어요, Stephen! 무슨 얘긴지도 모르잖아요.",
-      "target_sha256": "bd3203e9ac767a8a33ddd07567a0dc82edc350f2c6bac856e5143b27121eccb1"
+      "target": "그건 못 하겠어요, 스티븐! 무슨 얘긴지도 모르잖아요.",
+      "target_sha256": "bf2da1bf5b820cf1be043f5057cf1ea69015e1e186d437da44a32277a88ded41"
     },
     {
       "dependencies": [],
@@ -161654,33 +161654,33 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/602/dialogueEntries/2/fields/18/value",
       "location_fingerprint": "824772a19e7a0be2bb6380c45fa2db9a1271b63edea4f9171c71d397736977b6",
-      "review_fingerprint": "f36af10c40176c9c48bb8ea22095ac5d871b984a793f2ba7eda94cc400e1d898",
+      "review_fingerprint": "36931f39c2d19001d0fbce43feca6199fc3ebfd8ad67f6eb4195c53898141905",
       "source_sha256": "655f7854f4d8705be6be2e6c4070ce77c9c38d1cc1b56d4e578febbf3c95fb2f",
       "status": "reviewed",
-      "target": "다시 여쭤보고 싶었는데요, Kim을 도와주실 수 있나요...",
-      "target_sha256": "d30b3223dd659c8dcc9baa3182b182ea0acf6efecffc43ec4d844ed3a3936375"
+      "target": "다시 여쭤보고 싶었는데요, 김을 도와주실 수 있나요...",
+      "target_sha256": "70da75c06e160fff8daa7d41a60240fb9a35760d59d61ec02a26bab5ebf13c7d"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/602/dialogueEntries/3/fields/18/value",
       "location_fingerprint": "8271cc221ac9810c055934b265e682e3a0f7406c8bb8239c225834be4640e107",
-      "review_fingerprint": "548335ed0f3038adc41a04f9591e3df23f3c03b69caa013274d68ba8b194e305",
+      "review_fingerprint": "e3bb30ed90bdd4cbd29fa0f28e3fd4c54763ed79f3fdc99afef7d4572cf21add",
       "source_sha256": "cae40be2503e8973ed5a31f09eb4c3b47f89c7ebb117564e5f0530e612f4f2ad",
       "status": "reviewed",
-      "target": "아, Frank! 안타깝지만 그건 도와드릴 수 없겠군요.",
-      "target_sha256": "4aa052932b5e03f6df5e4b8153bb8ad3766a870801226ec46f93b25acba474b7"
+      "target": "아, 프랭크! 안타깝지만 그건 도와드릴 수 없겠군요.",
+      "target_sha256": "d727d1e38bbfe816fa852d73ede9f90f08ff590569c3e2c344b826a56da3f130"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/602/dialogueEntries/4/fields/18/value",
       "location_fingerprint": "633fc564d7ce4ca6598f36661bd782e560c87cdba89b38ee4703c44d16cba179",
-      "review_fingerprint": "d21a69658ad8a793998d132c8b0eb03e3892b60d39f50aea62e86a835bdf4a57",
+      "review_fingerprint": "8f012044a89c525949168e05a990e487897a4eed19bfcfcf4539f4c71fd5e37c",
       "source_sha256": "17ccafb55bf842ffe761ca162c31acc034fa66070194507f806134f2f4891fdb",
       "status": "reviewed",
-      "target": "Schmolke 건은 정말 실망스러웠습니다. 이제 협력의 기반은 더 이상 남아 있지 않아요.",
-      "target_sha256": "46aee983af448b13ab8788c11e59846291967dc87879ed083835726ef8a4f4e1"
+      "target": "슈몰케 건은 정말 실망스러웠습니다. 이제 협력의 기반은 더 이상 남아 있지 않아요.",
+      "target_sha256": "df274c7e10350f8e5264d922c0bae8170b4d183ac6ad470eac00da2795042640"
     },
     {
       "dependencies": [],
@@ -176669,11 +176669,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/658/dialogueEntries/150/fields/18/value",
       "location_fingerprint": "cbb0794c60d3c8a07ab227785ffe475c39238b19116344b3908202d3b19dac99",
-      "review_fingerprint": "e8df2d37d53427d4563b08d8290197f5342a465fa8f73837900a6151f0bbaf4a",
+      "review_fingerprint": "d1161fdc526151cc24dada5ccddc4335123e82eaf877ca9cf94f6d4d06d48eb8",
       "source_sha256": "49647cbb03d1e03c6d80169b1dea40d326531dba321f1a7666b56651c45a40ec",
       "status": "reviewed",
-      "target": "음, 보아하니 Stephen에 대해 당신이 틀렸던 모양이군요....",
-      "target_sha256": "545884dc5dc3d835fb9bf42c7746dd668dd0a6900c0e1d52d1ac708b89ed64b2"
+      "target": "음, 보아하니 스티븐에 대해 당신이 틀렸던 모양이군요....",
+      "target_sha256": "ed7f7bc859a5fbfdaaaf42ef04012d7c904d6196a3808b64061dd1bd2dc3511d"
     },
     {
       "dependencies": [],
@@ -181168,11 +181168,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/668/dialogueEntries/63/fields/18/value",
       "location_fingerprint": "38b92e5f6c5557881454b921b7b80e3ce2512d47618e8a3af21b13bac05bf67e",
-      "review_fingerprint": "9c601cfa0d9e2712129dc3b7ba107f87d70925776d956c294e4e3adba270a813",
+      "review_fingerprint": "3f59f99aa0c80580fc6ec8d46b08ce00758f90a822e2e23c2e90cc37639c5ec4",
       "source_sha256": "da45ac77f58e6fe47d9f23c25c908cf31dd0ef1226136d6bcdf74fea4e1fb8d3",
       "status": "reviewed",
-      "target": "비밀 파일 프로젝트 인어. 위대한 연합, 1985년. 프로젝트 관리: Ernst Müller.",
-      "target_sha256": "bc2f988b7204cbc3c15133f43f73838faabebecb9ae1a1752f2719fe654d8d8e"
+      "target": "비밀 파일 프로젝트 인어. 위대한 연합, 1985년. 프로젝트 관리: 에른스트 뮐러.",
+      "target_sha256": "49f849aa7ca7990690ad03b372e9e4165ec5512a7005772e3f9501f178e71e49"
     },
     {
       "dependencies": [],
@@ -181234,44 +181234,44 @@
       "dependency_fingerprint": "f50cf0ce31f58d143c04be830de54e6d1faffad381df2126668fc067f549f817",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/668/dialogueEntries/70/fields/16/value",
       "location_fingerprint": "f13892fa73e51127245849e02bf10159fbc1596c09ee7423ac52061dfbf85e4f",
-      "review_fingerprint": "beac8a63d8c9333ca53305893df5dfa4bda5711ba6036c7186749b15fb635247",
+      "review_fingerprint": "b2181a6935fc65f00606b372799605d2ee9ffc13d276c43ba698f895de7d0f31",
       "source_sha256": "91105841649c97a1372b26b7142878953c6669cf023e312717620954195168ee",
       "status": "reviewed",
-      "target": "<i>Frank Schwarz</i>",
-      "target_sha256": "91105841649c97a1372b26b7142878953c6669cf023e312717620954195168ee"
+      "target": "<i>프랭크 슈바르츠</i>",
+      "target_sha256": "910086caa6e5b17577dd1e2bfe4a5537bf511aa4a2e4901d402a8532d965e8a5"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/668/dialogueEntries/70/fields/20/value",
       "location_fingerprint": "58a0ff0c184d4cab159a28091a01b533f1fa353176aa678868dfab94e5a9aee5",
-      "review_fingerprint": "ad2cd864257c8c1953fd08d430aa0240bb020b3f5d698219c7129a751bf230a0",
+      "review_fingerprint": "477c8a17a5b166856d2cedd565e1fd7642bf9873ba14eeeea88f892189540475",
       "source_sha256": "238f92e97f47039d8779856cd15d36c24055b8f01e8da94010c48158828b1947",
       "status": "reviewed",
-      "target": "(Frank Schwarz)",
-      "target_sha256": "238f92e97f47039d8779856cd15d36c24055b8f01e8da94010c48158828b1947"
+      "target": "(프랭크 슈바르츠)",
+      "target_sha256": "7672c9efec924b14b5548148fba210bd2614b42385f951bb7c4f816029d1502f"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "f50cf0ce31f58d143c04be830de54e6d1faffad381df2126668fc067f549f817",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/668/dialogueEntries/71/fields/16/value",
       "location_fingerprint": "a490a5dbb3960e9f12de20833d08417d8e26db0e2613ac094f7c0407c66c63b1",
-      "review_fingerprint": "5fc27baec10b64205e5dce9fb722170262f5371d5e0f0068d144d389880a281a",
+      "review_fingerprint": "89ddb430128d2ffccf5dd97f11579adedce33c52d0fe1076fa75de9afd6788ac",
       "source_sha256": "4056265f040e1ac6175f08084d8f5d1a163072f59339bbc66581009f4f5ec768",
       "status": "reviewed",
-      "target": "<i>Ernst Müller</i>",
-      "target_sha256": "4056265f040e1ac6175f08084d8f5d1a163072f59339bbc66581009f4f5ec768"
+      "target": "<i>에른스트 뮐러</i>",
+      "target_sha256": "eab4073c331c88fffaec63996417fdccf356471fea88d554ad5e157192e7fd51"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/668/dialogueEntries/71/fields/20/value",
       "location_fingerprint": "37e3f76606d2a9389c526320ba15b36587f2f68f94f8fc53feb9086ed605dc46",
-      "review_fingerprint": "30e64e69234dc7a2e191f7c20fff516cc6e9bde35b05e1c5c29ad2460d3bc1b3",
+      "review_fingerprint": "6109cf35dce844f6618746b88980c07074e7bf6685b5f1360422e03413c4b4a2",
       "source_sha256": "d43d62abecbf2237881171378b4ef81d6d27ac3288892cf4e5648c72fde0e987",
       "status": "reviewed",
-      "target": "(Ernst Müller)",
-      "target_sha256": "d43d62abecbf2237881171378b4ef81d6d27ac3288892cf4e5648c72fde0e987"
+      "target": "(에른스트 뮐러)",
+      "target_sha256": "5cb92a60f3e193b83d02217ac2673bd1c42c7e09022d0e0e62e12fbc9d2ad0ad"
     },
     {
       "dependencies": [],
@@ -181498,11 +181498,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/671/dialogueEntries/2/fields/6/value",
       "location_fingerprint": "82b7521b6474412a7351adc912b9add9422a0b3f44e47fe07f5ad22d34d6fc0c",
-      "review_fingerprint": "bb8f7abd37edba1b4a8a3303dc7911dfc8f465b95cc020c45a37e015c819a11f",
+      "review_fingerprint": "94c3010a4dac3ed3513969c81f12bb7ab7d93dd799efc34202c4f1f03095cea4",
       "source_sha256": "7218370f561e2e0b320f65c9da5f1280a3059ff851332783b0b8ffbd14bbbaec",
       "status": "reviewed",
-      "target": "Frank, 우리 얘기 좀 해.",
-      "target_sha256": "43523dda68985d0df2456f67686e12dce90975274dab243251954877615bd7c0"
+      "target": "프랭크, 우리 얘기 좀 해.",
+      "target_sha256": "b3f1a545a1813ddaa2800715db88466518258530ca70c0673d3e92b8a82d95eb"
     },
     {
       "dependencies": [],
@@ -181531,22 +181531,22 @@
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/671/dialogueEntries/5/fields/5/value",
       "location_fingerprint": "ddccb2d0c18f884422e5bf6b0ca61b864900c4f6aff437ec990cae37d013a75b",
-      "review_fingerprint": "35e32fa2947853b938660b3831b23cfe7d0450b01d0f03172474827dc16914b6",
+      "review_fingerprint": "330c13a6aa17bf03db4f348aac4d2b0be1dd8bf937eeaf9cf1b43c701d436764",
       "source_sha256": "19eb293e9d92ea86196df1e7e99e5726fd436bf3c06420021ee4b90b40ca431b",
       "status": "reviewed",
-      "target": "Kim 말인데...",
-      "target_sha256": "0b4ae64ee462c451e60c1e87ba4a560b96188e6e71a813483be482dbd76f7d5b"
+      "target": "김 말인데...",
+      "target_sha256": "7e4fe035da66de3d66f16123ce0279cc3a1e9efc36937e0526441efeeff334b3"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/671/dialogueEntries/6/fields/5/value",
       "location_fingerprint": "6d49752be95f466801945bfee980e4318c442735743b1a65860a858edc784d50",
-      "review_fingerprint": "a2f9ae3883a0dbb796df5f2fe145509bf616453fe3b5563acaf099302878a365",
+      "review_fingerprint": "b5148ad1462161d021872f9ef63b51374ce02eb211fdb1133e9152628adafc3f",
       "source_sha256": "0c1cf48b8eed8d6c4f13962e6c1e22e25b961c4a9c19be461664b60126501178",
       "status": "reviewed",
-      "target": "Alexander는 어때?",
-      "target_sha256": "0ce6746dbaf9ddb7986d7c2d1cce8788f6713f359095bcceaadb925cc470d5ee"
+      "target": "알렉산더는 어때?",
+      "target_sha256": "6bcd2a30d6b2af7dd3a9482e2ce2d33ec60b5d26df10799b15f1e18737ef0c4d"
     },
     {
       "dependencies": [],
@@ -186734,11 +186734,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/698/dialogueEntries/18/fields/6/value",
       "location_fingerprint": "5ccfbfba26d43a5c54c548959b01a702a52b56ccfc6c926d8d8d313e14f995a9",
-      "review_fingerprint": "79f4f4864892ea1d4042f86f0eb51554cf0028316a5c6bba3b27881ecc4f7879",
+      "review_fingerprint": "a25d71846edf7f89eed5ce3776083d3ed232071637f438fb31e906314687218d",
       "source_sha256": "c8d676eb0081c27721bcfddb31563e0f0227a0eb796c30a279301d9edb81d2d9",
       "status": "reviewed",
-      "target": "좋아요, 좋아요, 좋아요. 자, Frank, 잘 들으세요. 지금부터가 중요합니다:",
-      "target_sha256": "93fec829a0508acb043984b1f9efdae43914a952bc8be559fe2c150e92aeeb95"
+      "target": "좋아요, 좋아요, 좋아요. 자, 프랭크, 잘 들으세요. 지금부터가 중요합니다:",
+      "target_sha256": "26486091ab693ac52d2fcb401b5fe1863a55c2f50c2a85b2068b54166fc2f6fe"
     },
     {
       "dependencies": [],
@@ -186778,11 +186778,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/698/dialogueEntries/22/fields/6/value",
       "location_fingerprint": "3e2301b73722ae8101e71497817e869276263a53abcf5d6d89b9af8f50e0e73c",
-      "review_fingerprint": "4e44704f8fd5d816ea3a5ce652257d4c39fcb3a3223922d4d8d40147520d0357",
+      "review_fingerprint": "a9b5b1e8b142bbc0643e48452dbd480a589466ab249ab767e5b265c534836329",
       "source_sha256": "5a010fa34a36ff8006d114273ca23aa9d8ec18b1c5f691dfb00ed6de3b86b113",
       "status": "reviewed",
-      "target": "물론이죠. 모든 게 위대한 지도자의 아이디어이기도 합니다. 위대한 지도자께서는 정말 선견지명이 있으시죠. 정말입니다! 좋은 아이디어만 내시는 분이에요. Frank, 그분을 직접 만나 보신 적 있으십니까?",
-      "target_sha256": "8b03eaa1771ff938c2f285561c982dd5b7b2eaaaac0fbf53904566a24138c388"
+      "target": "물론이죠. 모든 게 위대한 지도자의 아이디어이기도 합니다. 위대한 지도자께서는 정말 선견지명이 있으시죠. 정말입니다! 좋은 아이디어만 내시는 분이에요. 프랭크, 그분을 직접 만나 보신 적 있으십니까?",
+      "target_sha256": "b27275899a5092a3d03af37587d2c74e22fb95a7265ee499306e05a831cfbef6"
     },
     {
       "dependencies": [],
@@ -186811,22 +186811,22 @@
       "dependency_fingerprint": "23b7b65581e38518b8c5fcdc7b716244bcf528664cefac4bacffab37099b0d1d",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/698/dialogueEntries/25/fields/6/value",
       "location_fingerprint": "e294212f40a6bab6f382e5d4c2e23e12e2a517d580e592a94fb2b0d1469cedaa",
-      "review_fingerprint": "1eed0843bd1fdd40c995f3be46ec503875ab7d56797f385d43b0c569b3ca7a29",
+      "review_fingerprint": "72232d2bcfb3f340853dfb965d2b3174e9ed1540ebfd223311b6557b48bc6c96",
       "source_sha256": "f21707ebf47c4fc7b064ca2efe8862edd47940c73a066d37059c172ded1257bf",
       "status": "reviewed",
-      "target": "나중에 전화드리겠습니다. 자, 이제 가세요, Frank, 가세요!<br/>시간이 곧 진보입니다!",
-      "target_sha256": "4f98891c4edd2b24e5c556b3f10de0d644fceab6eee85a52b507a9c51a6859d1"
+      "target": "나중에 전화드리겠습니다. 자, 이제 가세요, 프랭크, 가세요!<br/>시간이 곧 진보입니다!",
+      "target_sha256": "30bc7767313b694577375a3e839259ab3c9cd565e9cbcfa2578193bdca5ea4fa"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/698/dialogueEntries/26/fields/6/value",
       "location_fingerprint": "b6c5eae83fbb97f664528b72068d5dc4f251fa92c00ede01ba75eb81763fd38b",
-      "review_fingerprint": "86beeafd66222d20345ad8cd5dc0fd73b323192fd79f260544b1f49a1349a77b",
+      "review_fingerprint": "87434137f45ba9ae91694091f3529ae76056de90938fda3354bd27664689b5ad",
       "source_sha256": "487c414f9259b97ec5a018808719feb152661c01af89f2a9a14eea5f6e0d7ae5",
       "status": "reviewed",
-      "target": "아주 좋습니다, Frank. 이제 가장 중요한 부분입니다. 잘 들으세요:",
-      "target_sha256": "9460caa8d848d9e8e21edc4674353348ef4b042ea7ee43ddc7d2f5fda119cdcf"
+      "target": "아주 좋습니다, 프랭크. 이제 가장 중요한 부분입니다. 잘 들으세요:",
+      "target_sha256": "2949fccbafa21725030932d3ebbdda8a624f5a647aa4972079cb939e1720224f"
     },
     {
       "dependencies": [],
@@ -186855,11 +186855,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/698/dialogueEntries/29/fields/6/value",
       "location_fingerprint": "4ff1149c6c9b388d5702830be12b3996a49f64394753d636f3f52683a4821cb7",
-      "review_fingerprint": "dcd9ff63c895940fffe363555269abf6a3503d98979b436e90f2ae4111e5618e",
+      "review_fingerprint": "311b66d1cbbc5e58437b69d79ceae28464fd1e986257349ce811e958d68d156c",
       "source_sha256": "60646370c945e3d111d7405cef7932d7f55b4aafd12a295eedee5bd4a1142671",
       "status": "reviewed",
-      "target": "그러실 겁니다, Frank. 그러실 겁니다. 승진하신 뒤에는 제가 위대한 지도자께 소개해 드리도록 하겠습니다.",
-      "target_sha256": "3fb289648d4cc7048ca773c046cc972530d62789c165b1efc7b732dc1cec5c9f"
+      "target": "그러실 겁니다, 프랭크. 그러실 겁니다. 승진하신 뒤에는 제가 위대한 지도자께 소개해 드리도록 하겠습니다.",
+      "target_sha256": "8b01deed3390a699d16201e64b0496bcd4804653309d2657c7cfb4a5ea110630"
     },
     {
       "dependencies": [],
@@ -186954,11 +186954,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/698/dialogueEntries/38/fields/6/value",
       "location_fingerprint": "2b3f3c3f4f9980e21e48cab0ca027eec0b624cc394d99329e08bd665349dad16",
-      "review_fingerprint": "9742650248e42e74c699fbc83b232ac12f12da8d56ef331fab328c005de5775f",
+      "review_fingerprint": "e772871355fa2f286e5c90e785e342a1bf9b99236acdc1ac9b55047b9299b1bc",
       "source_sha256": "04e67395150a180ede6809e2fcbce0cb2c8e89a6f1799413cabe078086642316",
       "status": "reviewed",
-      "target": "Schmolke에게 이 말을 전하기 전에, 이렇게 말하세요. \"위대한 대변혁이 시작됩니다\"",
-      "target_sha256": "07964460755c7947f81ec39b7dceeab2b4208b5b3592fcfbf23ed414818e6c1c"
+      "target": "슈몰케에게 이 말을 전하기 전에, 이렇게 말하세요. \"위대한 대변혁이 시작됩니다\"",
+      "target_sha256": "6180fbd10f80c88160799bcae73a811e99692e07f06664b3e7024a252a610c23"
     },
     {
       "dependencies": [],
@@ -186987,11 +186987,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/698/dialogueEntries/41/fields/6/value",
       "location_fingerprint": "176fe26a991c635409da88cf93b1d23dabec781d35a52e57428c491edfe2cccf",
-      "review_fingerprint": "c3b3f4f44a3b7a78a08b8388bd503b495d3e0883ac58a32bf14deceb6bac9585",
+      "review_fingerprint": "88a51ba67b9f51cad041ef491017eb7370115ff57b329f88e495460567c846a0",
       "source_sha256": "b8de7994748cce743ecf49c4f58acc6f8b1c9ae79ea3d2a4a398857beb1f8994",
       "status": "reviewed",
-      "target": "그저 그래도 되는 게 아니라, 그래야 합니다. 내 GSBfdIM이 허름한 임대주택에 산다면 모양새가 어떻겠어요? 아니, 아니에요, Frank. 내 사람들은 잘 지낼 겁니다. 걱정 마세요. 하지만 그전에…",
-      "target_sha256": "513fb2ded91b63d489575de01c6e15579ffedb802f1df32fab327f7abcc8cdd1"
+      "target": "그저 그래도 되는 게 아니라, 그래야 합니다. 내 GSBfdIM이 허름한 임대주택에 산다면 모양새가 어떻겠어요? 아니, 아니에요, 프랭크. 내 사람들은 잘 지낼 겁니다. 걱정 마세요. 하지만 그전에…",
+      "target_sha256": "3cadc3bef8f1317d7793143226865fc752ff267b32b6b1b684fc2c422830dd11"
     },
     {
       "dependencies": [],
@@ -187031,11 +187031,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/698/dialogueEntries/45/fields/6/value",
       "location_fingerprint": "a6a4ae0fb1bcfb3c562794fd76ac9be22a44aa52d01f13f78a7a99114fdfd604",
-      "review_fingerprint": "9fe9c88652dc36d94cc9d25f4cb158b29bde96796683ce008e69d6de6177ed86",
+      "review_fingerprint": "2a65b1e77174582d91e4cc5d3087a301681e911c7f597f7a4f25db67b02b05ec",
       "source_sha256": "237ffc2669f4b1852013e8ef3213b833a35ebdf47bebc30f76cbdf9ef86bf3ac",
       "status": "reviewed",
-      "target": "먼저 Frank, 당신이 승진할 수 있도록 변화를 추진해야 합니다. 함께하시겠습니까? 제 편이 되어주시겠습니까?",
-      "target_sha256": "f2052764efe6681cc157028ef6cbe93178b4fc15db60ddd6aef64762a1025b46"
+      "target": "먼저 프랭크, 당신이 승진할 수 있도록 변화를 추진해야 합니다. 함께하시겠습니까? 제 편이 되어주시겠습니까?",
+      "target_sha256": "e92d7f2b5fc7738edcd5e7ee1f974091fbc77f96eb5a6dfd690fe9f7555f8a2f"
     },
     {
       "dependencies": [],
@@ -187064,11 +187064,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/698/dialogueEntries/48/fields/6/value",
       "location_fingerprint": "4cc0814695db84328cf7a72d2703f99df99c474435f35569eed443dbeacdbada",
-      "review_fingerprint": "b2e87dbc3eaccb719bc5789ae4d93a0e0a73d6215101e77f25c24e5c1f4c1f6b",
+      "review_fingerprint": "f02ff6cfc1942e18d39ff4ed5056372efd0919705df8a84f9d7adb4e24ed4e08",
       "source_sha256": "cfd9ad46d6030c2cdf19e6f3b86ebc8c874bd34c1661478c2818e637172ea253",
       "status": "reviewed",
-      "target": "Frank, 당신이라면 믿고 맡길 수 있다는 걸 알고 있었어요. 정말 훌륭합니다! ‘Mind Warp’의 대형 공연이 곧 열린다는 건 알고 계시죠.",
-      "target_sha256": "5ce803b05e663da88d12ea6de58540e15bc571172a343f24862e838453ec5cbc"
+      "target": "프랭크, 당신이라면 믿고 맡길 수 있다는 걸 알고 있었어요. 정말 훌륭합니다! ‘Mind Warp’의 대형 공연이 곧 열린다는 건 알고 계시죠.",
+      "target_sha256": "27d2dbc55d6263ac5f0fea481bd6561fbe1d956877c25b2759f7c19df9f392d8"
     },
     {
       "dependencies": [],
@@ -187097,11 +187097,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/698/dialogueEntries/51/fields/6/value",
       "location_fingerprint": "9e6386d1a43f27ca5f4475bb8744f24d8d859ca284375703de64460ebbb9d20d",
-      "review_fingerprint": "c927ba254b691b97a7c7d154e3a04f0c2dd669f26deeaf6d79267ca83ef22cc9",
+      "review_fingerprint": "4a0c01f8a8a227811b24f583dd46f6db2f4a3ab2fc722e94e264df1908a60b3d",
       "source_sha256": "3375608281851d15472eec91c06b07f2ce7e5df3df859b3bf1bc07297bbd3c77",
       "status": "reviewed",
-      "target": "하지만 Frank, 당신도 아시잖아요. 알고 계시죠, Frank. 당신은 진보를 추구하는 분이에요. 전 늘 그렇게 알고 있었습니다.",
-      "target_sha256": "de068126bd667e8ba5ee2ba6ba3c449e6b170fbdb5a585ca4494f0825bc2fb19"
+      "target": "하지만 프랭크, 당신도 아시잖아요. 알고 계시죠, 프랭크. 당신은 진보를 추구하는 분이에요. 전 늘 그렇게 알고 있었습니다.",
+      "target_sha256": "978cf75e718c90375095557cc69a704b5538c3d1f2cbcee089158b6915bb4fba"
     },
     {
       "dependencies": [],
@@ -187119,33 +187119,33 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/698/dialogueEntries/53/fields/6/value",
       "location_fingerprint": "2da3bea6d44f77ce2fdb8dabd905b3076c5b5b1d3b0d652fd08b80bcf382ce53",
-      "review_fingerprint": "f5e6391077c71fdba3899ff5bd733d7147b21a53fe0d6c7247146d6264a1bc2b",
+      "review_fingerprint": "b0ca893c7ec5bd8e4b374060d14d4de4614577badf0d303a412f027bd9a67df9",
       "source_sha256": "b412ba4056c5c1cc2360e0fa8cd73f7004c98f18aaaf010a2ec33f880669220b",
       "status": "reviewed",
-      "target": "그럴 필요까진 없습니다. 제가 바라는 건 이겁니다. 4부의 Miriam Stocker를 찾아가세요.",
-      "target_sha256": "45d892e154b66e80ad943695c2cd0e6881fca0a4d386de310ac0646f32a66327"
+      "target": "그럴 필요까진 없습니다. 제가 바라는 건 이겁니다. 4부의 미리암 슈토커를 찾아가세요.",
+      "target_sha256": "3f6bc8a3b051ce518d4cababf89e574e2a3992ab1fddc8027dcde00b6d143648"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/698/dialogueEntries/54/fields/6/value",
       "location_fingerprint": "a9afc9c77e9325e356a475ef172061ba4705a40363980380dd075ee273d2a72a",
-      "review_fingerprint": "2614cbf7b1d8427a44246baa6b94b0723cfec3e42e9fc4e77085c475bf488946",
+      "review_fingerprint": "32cdc0569753b8a5e2a6ec2d00dd12361e7f2ffec811038de14da03c23c6ae5c",
       "source_sha256": "324981dfba50a55b3eb77c688f835c2c8ebbb403cae810546994048ba6829a24",
       "status": "reviewed",
-      "target": "그리고 위대한 지도자가 연설하는 바로 그때 말입니다. 기억하시겠어요, Frank?",
-      "target_sha256": "a0d74c6ca45229a775c98a50de3edb6832791c882bca766070e6b18bd017b2c2"
+      "target": "그리고 위대한 지도자가 연설하는 바로 그때 말입니다. 기억하시겠어요, 프랭크?",
+      "target_sha256": "fe83c74d6bbeae740c30d178171a5f64955fa2e05d3afddf51cd4d1ac2036744"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/698/dialogueEntries/55/fields/6/value",
       "location_fingerprint": "620a475e868852cda69250f74570567452a36648315da7aeb7293cb8b65003e4",
-      "review_fingerprint": "77c24da3cb7566d07c650d00a4634e3169874572aab936b1c26a91cc01be13ea",
+      "review_fingerprint": "a562d3d020f170cd5b94f171b7c62c42681f57058999ee8560433b6e531cd870",
       "source_sha256": "c088210842649e680129d309fa4caaed43e31923ef47a4f8dbd4effdffe3153a",
       "status": "reviewed",
-      "target": "알아요, Frank. 압니다. 콘서트 자체만으로도 이미 대단한 일이고, 위대한 지도자의 개혁 계획에 큰 성공을 안겨줄 겁니다.",
-      "target_sha256": "d7be106ac25ebe92dd05f9055588b106f6ea4c3ad0119351e61b6bcb297f7c3b"
+      "target": "알아요, 프랭크. 압니다. 콘서트 자체만으로도 이미 대단한 일이고, 위대한 지도자의 개혁 계획에 큰 성공을 안겨줄 겁니다.",
+      "target_sha256": "964f076ec751e61ad78447b03f47859f8891d2c15df920ad83fa37c96980dd8d"
     },
     {
       "dependencies": [],
@@ -190133,11 +190133,11 @@
       "dependency_fingerprint": "e61356e8d02bd199a67bf28f87b047b1ce4f03a77e5e2dd9dfa0caa2cf046947",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/720/dialogueEntries/23/fields/6/value",
       "location_fingerprint": "e3db77812db28e37b65851931b4f7c68d0681a040ac404102f5e8dc85254b212",
-      "review_fingerprint": "4db7fe2300cdd58ab27b40cfc24eee425913e89ba7a835e44f9315dd8d723719",
+      "review_fingerprint": "0809ba9591c537f32f72dab19e3c65032baa6fc2cc1ee632b06e551cbb57a8c5",
       "source_sha256": "80e67aa322525432b9e877ea7d1cba52e29b2d11834e6e8c72f38ffb3b440a2f",
       "status": "reviewed",
-      "target": "Stephen이라면 당신 행동이 전혀 <i>쿨 </i>하지 않다고 하겠죠.",
-      "target_sha256": "cd12abd5162daf422e494984f0bc01660c249bc130e86c37b37731efaac1d628"
+      "target": "스티븐이라면 당신 행동이 전혀 <i>쿨 </i>하지 않다고 하겠죠.",
+      "target_sha256": "d0042a59610006a8936ecc1963e96e4909380e1130c4c9330f2602a3b20b0f2d"
     },
     {
       "dependencies": [],
@@ -191618,33 +191618,33 @@
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/736/dialogueEntries/9/fields/5/value",
       "location_fingerprint": "dfdb678a5f527adcb1d8d7f84997d4818a8df33f51eca8a379a1af5842fe6e1f",
-      "review_fingerprint": "01227b5492effcfe8636838a9811e8e1da1f4e4abe00d83d310f60a275117f81",
+      "review_fingerprint": "7a6944af7e825c3fcf4fd5cb8753f7d97417df3bdccfc3123f0e6ca2b5bdf708",
       "source_sha256": "ed03253ba75257fa7721f6c752197ecbc3c7b04129a4edb2b094fa7c6643f498",
       "status": "reviewed",
-      "target": "Grundig 부인, 당신 말인가요?",
-      "target_sha256": "c670d946dffc18a6d1f0ae383952304fc003ae1c234476f1c768873b7b0e33fa"
+      "target": "그룬디히 부인, 당신 말인가요?",
+      "target_sha256": "771d22b8971f85ac07af69bda671470a387a6d94470992655b4f019a1a457d0e"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/736/dialogueEntries/13/fields/5/value",
       "location_fingerprint": "262b75ef5c54dea713ea61f45e6c1ba6bb23108031dba329eb50b6640118f558",
-      "review_fingerprint": "1760cab38b56901b73c7a5dd1d65a0cc0aa189b792de74892d12e1bf802ddb2d",
+      "review_fingerprint": "9382ed056561b085df6cb5b5125ee63a4bae6877b5d3cf837e3971e613bf9112",
       "source_sha256": "9444682985e3d19c0be8566143854b3bb30107fa00f5315993a5880cd342af09",
       "status": "reviewed",
-      "target": "Beislaus 씨, 당신은 해고됐습니다.",
-      "target_sha256": "231b23767404e2e601336bf07e4646e0e32b4186ee6b7be87840b86ab7d26ea4"
+      "target": "바이스라우스 씨, 당신은 해고됐습니다.",
+      "target_sha256": "025c74d4fc9bd6dcc6eba8a02001051624bb0180f435949c1172dc7d62cc29f5"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/736/dialogueEntries/17/fields/5/value",
       "location_fingerprint": "d3891343082bb18dd85091f758278ef1a044e136efff38d1c5423fb48c94a967",
-      "review_fingerprint": "772bc92d6321553543957fa76433b99c5910e81d43cbe888815a1a5646f26004",
+      "review_fingerprint": "7e7a8df0cb28e67a6676a1a29794e54fb26cc8fdcc6265c0f2c8fe31480ce6ed",
       "source_sha256": "67a0ae2ea549dc4906bea89374c8010537eebb01d73a15fedde443deb01e4b2f",
       "status": "reviewed",
-      "target": "혹시 Stocker 부인은 어떻습니까?",
-      "target_sha256": "3804257471abd8b8e28d6fc6f9d743927b4730ffd4fbac19a5abf38365c035c3"
+      "target": "혹시 슈토커 부인은 어떻습니까?",
+      "target_sha256": "fa26276b946a3c36e750b7bc9ed641217dc4372d367c0b91c13e31476bb484d3"
     },
     {
       "dependencies": [],
@@ -191970,11 +191970,11 @@
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/737/dialogueEntries/13/fields/5/value",
       "location_fingerprint": "4da97fa40afb645d362d9f177da11a96e5fa516f51e0806d069f0075d9a081a8",
-      "review_fingerprint": "e8e565c144777bb4dfd0ff94cb42e3d38c2d8235f86a02b4235d62162d8406e5",
+      "review_fingerprint": "6293ecf71229c4069f9a5100f82e6e0604e602c4d307367830557813ebd4c7ef",
       "source_sha256": "0c6aef4e66c5decb5c1582c7e6746d3fba5ef55bd32e2d29365c647b6c15f6e3",
       "status": "reviewed",
-      "target": "Sibylle Fels, 당신은 체포되었습니다!",
-      "target_sha256": "8d90745d3e4563d5ba9257cc4fb0d49707a305d4ac1ccf22f91939408b4be70a"
+      "target": "지빌레 펠스, 당신은 체포되었습니다!",
+      "target_sha256": "38a4b237ebe1aa665b2ef1589f8c2f6e98ff5c9b09b827d4be6e0576c89eaaae"
     },
     {
       "dependencies": [],
@@ -191992,11 +191992,11 @@
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/737/dialogueEntries/21/fields/5/value",
       "location_fingerprint": "780e1453d43968ab7d15a8a1babaf5900f91b809ea230b319ae35fe1cfea6c36",
-      "review_fingerprint": "10fe533097d2a4c3879a71742e768b654e56d713040b250d9424b32f664fd754",
+      "review_fingerprint": "9e2f1172a6e72d342b372a552b8cbc8aa2f28de841f61ce5548edb8021416636",
       "source_sha256": "2358014140d5c8792511fe5e719328a24b1a054cd6a741a89a8de44a0f2d86ab",
       "status": "reviewed",
-      "target": "Thomas Noller, 당신은 체포되었습니다!",
-      "target_sha256": "fa836f4f2f0e469356b05f24d0333fe633c5d49f6125a57bc9d290139da8d1f9"
+      "target": "토마스 놀러, 당신은 체포되었습니다!",
+      "target_sha256": "1a02093b096e17e38fefdd9b2dea600e40fd5e0a25a6123a84a8a61181cb06e9"
     },
     {
       "dependencies": [],
@@ -192025,11 +192025,11 @@
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/737/dialogueEntries/33/fields/5/value",
       "location_fingerprint": "0cc0713ee963cd61049bc3284f9c45fc110aa7c684fac8513def2eae146e0c42",
-      "review_fingerprint": "2b814f54f3c38a4e0d66b7346aabbb886895e2c5446bbfe8e17741c2905e8764",
+      "review_fingerprint": "cbe656bcb51f0f0bcf25eb2e8cb13539e7e0b6a62ababa1195f1a114c97b97b1",
       "source_sha256": "3803d5ef3408a39bc8f3be0337073864d4bcd525ec036cca66eb581166062aac",
       "status": "reviewed",
-      "target": "Rückert 씨, 이제 끝입니다!",
-      "target_sha256": "4b77ce874cf1209b96076de2ea75dc90f0a5574e85debb2b5a1743619702b07e"
+      "target": "뤼커르트 씨, 이제 끝입니다!",
+      "target_sha256": "ea3a3655d5913fd5851da96bf46072fab64c4a11c5951c7fb5af64ca29ed911f"
     },
     {
       "dependencies": [],
@@ -192047,11 +192047,11 @@
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/737/dialogueEntries/41/fields/5/value",
       "location_fingerprint": "cd441f28524c226cc689a96d7e6ba5f5c87e2a0706652caf1ea0d318ec2cb1a1",
-      "review_fingerprint": "d62403df5370361452c0712e23637d390fd5b525ae81b5c4a0ebc90fbd83845e",
+      "review_fingerprint": "31204275bfe783b8bf516d7358447d882baaf9e4d34b9a7ccaf890c522c62ca2",
       "source_sha256": "eba668b41433a6de15750b48e9249138a884fe96e0858bcc6e0d178310b74ecf",
       "status": "reviewed",
-      "target": "Herr Beislaus, 당신은 체포되었습니다!",
-      "target_sha256": "a30dd00974bc560258d9527f2182c2d7eb303fc2dba303f4799334ca2f3f3981"
+      "target": "Herr 바이스라우스, 당신은 체포되었습니다!",
+      "target_sha256": "6b6188a6eba82e99dd647cc1ebadc96714fed9369a70b645bade6d93ecbb3eab"
     },
     {
       "dependencies": [],
@@ -192069,11 +192069,11 @@
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/737/dialogueEntries/49/fields/5/value",
       "location_fingerprint": "7a617b34639c9067c6408a536f7032e26ebed866b75c985c4dc401666fff57ca",
-      "review_fingerprint": "91b1b0e5107298975d1e9e8c0e59e5264c4839469fa0b1f5f692a2a2ccaa7cf3",
+      "review_fingerprint": "5438d62e30a3bbd874829843d1fee67d9135ce65b6834abd2329c12acc38f00a",
       "source_sha256": "fa2ff3b4db154657a15fc032b6211a49bc7a436fbaacd778ccf4f167619bb566",
       "status": "reviewed",
-      "target": "Herr Müller는 어떨까요?",
-      "target_sha256": "3c1742974919e8af1e0f23b77a18f7d1781cd00b190018cb8bd4ae076573349c"
+      "target": "Herr 뮐러는 어떨까요?",
+      "target_sha256": "542b7cfb9f11ef2150d74df8714985749ca34678ce19ec4c8f1c4dc2c46a2ca3"
     },
     {
       "dependencies": [],
@@ -192102,11 +192102,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/737/dialogueEntries/52/fields/6/value",
       "location_fingerprint": "27d5dd3d88bfccffd84ab30851ebe9e829ef5de3cb1c6928046672c18f4cfaa6",
-      "review_fingerprint": "d3aedd21112820d16cbca9710cb76dfd98571428c468ff74ddd9bb20c7acb0c0",
+      "review_fingerprint": "896ebc4cd54ebf7c119ebbbb27035cb2a943ec8f4e537e1816ab2e3e2f89fe89",
       "source_sha256": "dcb2cdc991244f748555a487e6653c23f82ce9add208f6e2a96ae32458ac70d6",
       "status": "reviewed",
-      "target": "Fels 부인, 이로써 당신은— 아, 가셨네요. 그럼 다음은…",
-      "target_sha256": "6a6d790988cab407bcc7aa461a85734aa59566d8f94892e3a4664f826050c53f"
+      "target": "펠스 부인, 이로써 당신은— 아, 가셨네요. 그럼 다음은…",
+      "target_sha256": "c7561b919f275586fa4d37e2502986c62b79e725c4d57741ef0b568312e94bb1"
     },
     {
       "dependencies": [],
@@ -192146,11 +192146,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:HDRP/Beholder3_Data/resources.assets:resources.assets:1163:/conversations/737/dialogueEntries/56/fields/6/value",
       "location_fingerprint": "3df240ccbb9624318a5a4cea31e34d8b1debc6e49253212350a1d88c52c44cf7",
-      "review_fingerprint": "3580db89420a89c6b92eb4ca4fc3daaf13bdcbcc157d9819fa319b6e1481a5b1",
+      "review_fingerprint": "5a93a156bfb199945da834bd9438448f04cadac2b22da3ad66f9f2c9fd4658b2",
       "source_sha256": "f51ceeb9bcaaf7ce5884c7af26023783561984ad197139e0761b1b081e3904a3",
       "status": "reviewed",
-      "target": "어, Kreinert 씨는 벌써 가셨나? 그럼 다음은...",
-      "target_sha256": "f15350fed7538721c6c47c4d21b568fde5802e617e4c2ce8c9740dd3aad50cb9"
+      "target": "어, 크라이네르트 씨는 벌써 가셨나? 그럼 다음은...",
+      "target_sha256": "ad7e304871da4de352daa4fae3451707abfdc6e27fac1ba3f791f652885559c1"
     },
     {
       "dependencies": [],
@@ -223177,88 +223177,88 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/4/dialogueEntries/3/fields/18/value",
       "location_fingerprint": "b45c27e0238cc228dd2a6ecfa8d033a9ca3378baf598889a33359ed761aa498d",
-      "review_fingerprint": "7ce29da5c0023feec9443cde55206dc494c32121bfe83b17f4035186f74e4498",
+      "review_fingerprint": "edc16753a028dfd24b0606aec08c1abd2426ccdc1b43f310478890d74f1b344a",
       "source_sha256": "b959bf92bfac2dbdd84ea99d6a0cf8d9c9983a8f7b58d8f328654edaeb5dc140",
       "status": "reviewed",
-      "target": "Frank! 들러 줘서 정말 반갑네!",
-      "target_sha256": "d54ce0694367a3a901d2dbaf5f2214d8544ce324731d82dedd15829ae7b7473f"
+      "target": "프랭크! 들러 줘서 정말 반갑네!",
+      "target_sha256": "8673e7aeb4fb278c2a561655e212eeaf89fe376899025f0397316a4204c7ac9a"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/4/dialogueEntries/4/fields/18/value",
       "location_fingerprint": "da8e1b8f4b3f0add63378765e9104ba0a49356802713a70585016b20e471077b",
-      "review_fingerprint": "b49cc0c9b18bbe8c7a0fb7276aabb390e0b2e39a508714671466ffe22c3abc48",
+      "review_fingerprint": "a7afa688be02cd5aaf66c7b95a92f183e3f39d1dc30ecd7b1bd886c55d47646a",
       "source_sha256": "f33a191eb5646a831742c4b7af7c25122df32fb11b0f8b055f80ade87a6d74b1",
       "status": "reviewed",
-      "target": "Frank, 정말 반갑다! 뭘 대접할까? 커피? 케이크? 아니면 든든한 음식이 좋겠어?",
-      "target_sha256": "4a19ac95a0e9a517227946a3a369d8a345f245a95c54ce0e392ed23ec0e3c6ef"
+      "target": "프랭크, 정말 반갑다! 뭘 대접할까? 커피? 케이크? 아니면 든든한 음식이 좋겠어?",
+      "target_sha256": "1e6e21b107367dc1b81b643650d68ca72f21800364b2622277e82bf22062050d"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/4/dialogueEntries/5/fields/18/value",
       "location_fingerprint": "419725e31c1be08aa60560903b713d4d5085398cabc3c7e6d75de550d043ae32",
-      "review_fingerprint": "fecbae921d7d98a42242a583fe8ad5596c6b7bb869afc856186be572dfd3d673",
+      "review_fingerprint": "a3ae7b1875625aad051fe765cab899757fd001ebb107bbb7af9cfe433d251eb9",
       "source_sha256": "89870da6dbc0d6130a3613d217abd71470cb64b3abe8e8e2787905e00fe8e243",
       "status": "reviewed",
-      "target": "Frank, 어서 와. 응접실로 들어오게!",
-      "target_sha256": "c87efd9f7ce4925b134d5e109c4b38ef36b6aa68ed82808b68daa5539cd2aea6"
+      "target": "프랭크, 어서 와. 응접실로 들어오게!",
+      "target_sha256": "9ae5d9586593c11da453898738df0d954999d36b9407748fced7ca8304918f0f"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/4/dialogueEntries/10/fields/18/value",
       "location_fingerprint": "bef67db307f957995143d271171d7af2857db2a08f5d077804e5bbab8a774d2b",
-      "review_fingerprint": "bfad08693c0af932bfbe8284148053055d6e85aa7472872274d77e96c3bc5a43",
+      "review_fingerprint": "648cd8e0ec5cda73c5cfecfffe9eee40fbb901888c8346c518b05782974b1c2c",
       "source_sha256": "7752587af6338604bf8c04b0b8927749624a54c2f651c0d26de86787f3c76aa2",
       "status": "reviewed",
-      "target": "이게 누구야, 오랜만에 보는 Frank잖아!",
-      "target_sha256": "a1ce1f0e2460348297d424789ade323f172a630b9733fce3b16ba2469198b935"
+      "target": "이게 누구야, 오랜만에 보는 프랭크잖아!",
+      "target_sha256": "c97ed005c9f479691d813928b5e646615c69d5490c4ca9f51a207d40aaa0b150"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/4/dialogueEntries/11/fields/18/value",
       "location_fingerprint": "10a8512e8066119468129b50f53fd90c6a275c996c350d594b78afeabf58d588",
-      "review_fingerprint": "f707e172f665276d71d99d3eebed5e59581714eb3d007740106d50f26fc071b8",
+      "review_fingerprint": "65cc40cccb348a1be7b718d34142db67268c43a76f8d003ea22bbfa69fcd3831",
       "source_sha256": "2e1162cca1350b2f329d733b19e297c77bd64b9a878594c9f60c264bb3745da4",
       "status": "reviewed",
-      "target": "Frank! 밖에서 다시 만나니 정말 반갑네!",
-      "target_sha256": "042c5e662d6105733b3637109b6e0255959114900c38745e79885d260f29e52a"
+      "target": "프랭크! 밖에서 다시 만나니 정말 반갑네!",
+      "target_sha256": "e180787f7e19ceac3736dea335ad8c991f45733412ec7aa5aa84d069e2dfb2c9"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/4/dialogueEntries/12/fields/18/value",
       "location_fingerprint": "9165b2b5ce17ac34d06f3f8aa0487846d2a8a9c37f762424ad5a78c0c5f6fd82",
-      "review_fingerprint": "111ba4e3989b1bf703ee36fc05d1706fd3483fd9d99174ade7b4f7bc6e8b6cd6",
+      "review_fingerprint": "aa6dc4150d8707b08ef6ad573615744565d7ccd613b6f8b421247526759c960a",
       "source_sha256": "d4edc97db8f7fb20e042c4d5f2091549125092f7a3b5ba7bc26cbba1fdc72d97",
       "status": "reviewed",
-      "target": "날씨 참 좋지, Frank?",
-      "target_sha256": "fb9b647fa76c8266ff9ea96bf1673bec333a1d2f1754838ea0913c272a634ab2"
+      "target": "날씨 참 좋지, 프랭크?",
+      "target_sha256": "522b9b51ed9f354b2ec3959d6196daa6f646fcde0e17c30fcce204112c2e49e8"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/4/dialogueEntries/20/fields/18/value",
       "location_fingerprint": "89b87e6ae6ff85a6b489285bf29e79673a48ca8d18fd92c6786954b12400c467",
-      "review_fingerprint": "2ddac9bd27137160c5b9bbc6cc2e62f3e5a1cbaebd442643879213d2b0a25b29",
+      "review_fingerprint": "62b7efe1900940600d5bdcb44e28f5f56d66354ede7cc9f431caea3c3805358b",
       "source_sha256": "559ed48e37e4d9c708e40a24ab73511a4127584aee45a086ae2485a544ea7b45",
       "status": "reviewed",
-      "target": "Frank, 지금은 안 돼! 짐을 싸야 해! 여행용 냄비가 어디 있지? 향신료 모음은 어디 뒀더라?",
-      "target_sha256": "2d7c484412609cf880bb582f4d8c08ef02d920477017665b5db53eb6732cf3b5"
+      "target": "프랭크, 지금은 안 돼! 짐을 싸야 해! 여행용 냄비가 어디 있지? 향신료 모음은 어디 뒀더라?",
+      "target_sha256": "fb8d849408d31be5e204fceb423a2b030f309c7255c1eca62e200c88eb6ea095"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/5/dialogueEntries/2/fields/18/value",
       "location_fingerprint": "1d67d7e563dd75ffe6b8100b005c4e27d4b09a93478875fdb50350e0dff58e35",
-      "review_fingerprint": "fa461f933ae0eb8d23526425e0af737fb299eefbec2d2fe98741cc880aafa1d0",
+      "review_fingerprint": "3c4328ad41882b4cb029d9e7d7f947bfd900da4a26f0a382c4acba4f01e414f6",
       "source_sha256": "cea48cbc9128b53ec9bf0acafe2f89df7e5563df62efd5e72d93182b9cfbbda4",
       "status": "reviewed",
-      "target": "Frank Schwarz! 그렇지! 아, 얼굴을 보니 알겠네!",
-      "target_sha256": "6fcb4187379bdf401b769d4b7f05aba1d8e9852bdf62d7da9a4ec51ed2dedf16"
+      "target": "프랭크 슈바르츠! 그렇지! 아, 얼굴을 보니 알겠네!",
+      "target_sha256": "f5088936dea3079071478e895282a36d78bc62e804085f4277af004870a43839"
     },
     {
       "dependencies": [],
@@ -243274,11 +243274,11 @@
       "dependency_fingerprint": "dc95b0ad1d930e7046916b67fdacb00e4cb8f93be1f738fc4d1d557ade54b86c",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/129/dialogueEntries/2/fields/18/value",
       "location_fingerprint": "a7e8a5dac6ba9e972b9d7039ca07ebb683f7620b57aa61af0e501c0607d02a87",
-      "review_fingerprint": "6a641caf30065ff58cc911c9f222b79bdb397c6e95c727a7ad83eeca8fd770f4",
+      "review_fingerprint": "785ac171515b0d3f99a78b1cc456360a01b00b96ec8befb3177eb301b9aee0ab",
       "source_sha256": "da59853c924e0ac9b7a734db1c775cca65f568c3338f2b45a2b5aec6537693d3",
       "status": "reviewed",
-      "target": "안녕하세요! [var=dialogue.apartmentnumber]호에 사시는 Tina Günzel 씨, 맞죠?",
-      "target_sha256": "2bbebcff9d5c7c17efda683e24807b5ea14e499203aa66429d4027f902e8e8d8"
+      "target": "안녕하세요! [var=dialogue.apartmentnumber]호에 사시는 티나 귄첼 씨, 맞죠?",
+      "target_sha256": "712dd8180107a1d3fbc1e7a7418bfd26475e932f74c975ee0e8aa75e500b74fd"
     },
     {
       "dependencies": [],
@@ -245430,11 +245430,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/144/dialogueEntries/6/fields/18/value",
       "location_fingerprint": "bf94e4700563ce99047fa559988a36627e53dff97b5308c7a61e3dbecdb72d23",
-      "review_fingerprint": "a60214ee586335ee7114290c16f68518996e17ad9ca73e0ef45f3e785bd6f7e6",
+      "review_fingerprint": "3cc64ade20d7ae4f3d6e60a5c6d9f05b4f0f79073047072ba9693b114d0e3ba2",
       "source_sha256": "74a7650d6de03303f2aebc8d9b38566321e16d9a08a4808773ce59d49f157472",
       "status": "reviewed",
-      "target": "그거 참... 어... 멋지구나, Tim! 콘서트에서 재미있게 놀아!",
-      "target_sha256": "787dd17c8258978011fcd6f3a2762e70287a3e69a83a1647737544cfb4d2b7e8"
+      "target": "그거 참... 어... 멋지구나, 팀! 콘서트에서 재미있게 놀아!",
+      "target_sha256": "c63ee9fef49e9651af4d88233f09dfd4751a167d48e5e7bfbb404ac4b7193ec7"
     },
     {
       "dependencies": [],
@@ -245507,11 +245507,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/145/dialogueEntries/9/fields/18/value",
       "location_fingerprint": "bd79b28a05eeb348a078dbfb3fe0c6b4a1d35326a2cf4380b49a0aa35d867a3b",
-      "review_fingerprint": "1a359d00e5c367e8233ff7a6ef711b73e45a06aa0968c4196095920d147abce1",
+      "review_fingerprint": "1d38c72e1b2164897240d5420544ee273e5d3e4c3eb2babb139cd5ff226c7f15",
       "source_sha256": "3659b01cdba2e3b5098c52c303130d8f3b605fb5ad97d8f7c3ffa89f879c96bd",
       "status": "reviewed",
-      "target": "Tina는 자기가 펑크 음악에 빠진 유일한 사람이니까, 그게 분명 뭔가 정말 특별한 거라고 생각하는 거예요.",
-      "target_sha256": "1174fc011a3ecf36e14d06210101702147669f3df3290256ea8b02d7d5a9a12b"
+      "target": "티나는 자기가 펑크 음악에 빠진 유일한 사람이니까, 그게 분명 뭔가 정말 특별한 거라고 생각하는 거예요.",
+      "target_sha256": "83e72e1d8434763bbeb2d2be3f0c83c13806da8f68ba45670d148a7ff3e6ac75"
     },
     {
       "dependencies": [],
@@ -249698,11 +249698,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/168/dialogueEntries/4/fields/18/value",
       "location_fingerprint": "fd7c977872efb0f68351a1aae4bb1d63bf2e3e37555a0d635e9c239ab8a801e8",
-      "review_fingerprint": "d174e6f4bc65638d64bfd79212ca5e22bcd7bb21ecbb1744a11b393bfc594de7",
+      "review_fingerprint": "63bc0b36b9de85ba0528566258d887ebe08f21d5a6c80d6e9641cfe5147740da",
       "source_sha256": "9b6ef5f354c2879aeceebd648f6f6342077532d23137ccebc83bece72558826a",
       "status": "reviewed",
-      "target": "그 외국인 Lukas Schmolke 말인데요. 지금 저희 집에 손님으로 와 있잖아요. 제가 누구 말하는지 아시겠어요?",
-      "target_sha256": "78b6a4346f3af8bf130f71545ffae7accbed2adff72c4bf3b5dfbdf71830145c"
+      "target": "그 외국인 루카스 슈몰케 말인데요. 지금 저희 집에 손님으로 와 있잖아요. 제가 누구 말하는지 아시겠어요?",
+      "target_sha256": "c658a0b3d2c959ad2fbac45b28ff47bf564ee4ab815dd9d9ef7b7802c80acb27"
     },
     {
       "dependencies": [],
@@ -270268,11 +270268,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/254/dialogueEntries/22/fields/18/value",
       "location_fingerprint": "9c04f4a61a51d74c7fa7edc8febb443c9eacfa125f83b4453a5a79f2c8c41c4a",
-      "review_fingerprint": "a906aef1bca5f3685f83f5b1da2ad5cac9fad95b8a0a9e79857cc7f1486038d1",
+      "review_fingerprint": "724c505ee12367e8facc574ec361782c381a3e893d5ce5148609e84df136ff51",
       "source_sha256": "8d511f413aba826928f64ec01ac8b8aa8d041952d402aeed4bd916bcc3de50f5",
       "status": "reviewed",
-      "target": "Stephen Huberts를 체포해.",
-      "target_sha256": "d594eba1be1cd2f36683b30a6624e1bf917e875a106075979bf8ed4f2b843f02"
+      "target": "슈테판 후베르츠를 체포해.",
+      "target_sha256": "d550139b2e13ac765b13d48f0ff6ead543bf74bb3b7cdba987ebf742da1f81a4"
     },
     {
       "dependencies": [],
@@ -278573,11 +278573,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/282/dialogueEntries/2/fields/18/value",
       "location_fingerprint": "1279d0675f455246ebee5e6bd6196ee147faceed4561eabb82a770da7a1f8d7a",
-      "review_fingerprint": "7370fcc5f323a6e99f4743310cfb56d6dd413ba7a78930e26d11e36880df391c",
+      "review_fingerprint": "e40ddba3d58ce5aaf35ebd153b2b203cf9c7e568160ddc2049f7674bc588084b",
       "source_sha256": "00c3bc5b83aaefbbaf9340451eec1c2f6585b39aa62b31a94df700ce6249e014",
       "status": "reviewed",
-      "target": "일에 대한 열의가 참 대단하군, Frank!",
-      "target_sha256": "a06ec00e3476268602d948afadbaa891994edb179854867541c50ef3a3db85b6"
+      "target": "일에 대한 열의가 참 대단하군, 프랭크!",
+      "target_sha256": "2b0c18e26867c36d294b18e097f371563dfe6c0f2576e02c766dd35a813c44d3"
     },
     {
       "dependencies": [],
@@ -278617,11 +278617,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/282/dialogueEntries/6/fields/18/value",
       "location_fingerprint": "0433eafa00a009664669862687540aa68749ec4a80dbf7b4bd979a120869ca51",
-      "review_fingerprint": "7eaedc008767bcd595f0c5a04259fdb563bb9f74f70be38f8fca8dd39f5b73a3",
+      "review_fingerprint": "fc6864987f2fcf9862032f3d322002d378894bb5d4899e386586257d7bea99ab",
       "source_sha256": "70067fd0fdecd3d3f00d250b6ad2e7f6058921640c0bcb1c86384d3afe6c3e5b",
       "status": "reviewed",
-      "target": "좋아요, Frank. 그래, 잘했어요.",
-      "target_sha256": "bc5aded88bb944ef2b95b1c7709d7d048e0a616a6812601d388b9eaa9b27b83e"
+      "target": "좋아요, 프랭크. 그래, 잘했어요.",
+      "target_sha256": "138e6e256b16463b2aef62213a8664d6bbafc0d17d82d74fcced429a104c4791"
     },
     {
       "dependencies": [],
@@ -278661,11 +278661,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/282/dialogueEntries/10/fields/18/value",
       "location_fingerprint": "57ae96a280e06dc548a4b288c7b656aeed17449cad6b0dcc193f038b40ddf3f4",
-      "review_fingerprint": "7d032ed416112352bcd076b4d5add79e708dff2665be529562d1bb9ea556892f",
+      "review_fingerprint": "a4791233c8bcb01ee86652f34772d9cf731d1d9e12aa4e62ba80ff3c9a67ce14",
       "source_sha256": "bfc5ddb610bf8e35c32c958e79ec55598ecc96fb7814b50fb0a2b07fdf4cea39",
       "status": "reviewed",
-      "target": "글쎄, Frank, 난 이해하네.",
-      "target_sha256": "45d6aa71a30ac42edb3954b7fb1790d6bf06938ef0399bda408eb3d001646a8e"
+      "target": "글쎄, 프랭크, 난 이해하네.",
+      "target_sha256": "665d911e3c5d120e3c1376d0d349437eaddedbab56904181eeaa3a02e8bd436c"
     },
     {
       "dependencies": [],
@@ -278760,22 +278760,22 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/283/dialogueEntries/8/fields/19/value",
       "location_fingerprint": "eb068a0f61ba4806a77487183fa3726453638b7fb9a3fc66b75b0abecd647af6",
-      "review_fingerprint": "539c129b6c698726c0daefad13676e51cca30f9dfb4d5c1ac76310b52fee6b12",
+      "review_fingerprint": "936bf4265669eb2ada468aa58436d41caf1cc9e8b4c44b4ba35ac61a8c9088b7",
       "source_sha256": "6af2e5dd4a0e84f8532b40921b29ae1a2470f0c8ed3242053f1193fc43a1b73c",
       "status": "reviewed",
-      "target": "Frank, 별일 없지?",
-      "target_sha256": "a6555bd54b46ef195f4324bfa073b9c0c1ab52377d8144f4269adc1943f4c340"
+      "target": "프랭크, 별일 없지?",
+      "target_sha256": "387c527a1e18ec83cadc94e8fc3b924f76e3d1ccfb89c3b488874189b6353081"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/283/dialogueEntries/9/fields/19/value",
       "location_fingerprint": "fa55f23434b638e82f39d1ca2ba69430d3d9629feb3f99070e00552fee434500",
-      "review_fingerprint": "33ffe1997981bbb03c77dd2145aea50250680c4189eb1d96fa8974b96e490cfc",
+      "review_fingerprint": "74e44f592713e9189268d805f995a572c12a2bd8e7a5ad37c6d73bfc5fd49fb7",
       "source_sha256": "78e966b505bfdfd2970054a707ba9aaf63897fe08dba14494a08f740bc4187df",
       "status": "reviewed",
-      "target": "그래, Frank? 잘 지내나?",
-      "target_sha256": "213a89b8215d08eea4d2353f5fa47c6140ee57077ef3564b70e2510998ccefbb"
+      "target": "그래, 프랭크? 잘 지내나?",
+      "target_sha256": "a508f93aa02ba77a946fe35f9c38cb4388314eff40c19bca2df0b29425fdba3b"
     },
     {
       "dependencies": [],
@@ -296283,11 +296283,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/380/dialogueEntries/17/fields/18/value",
       "location_fingerprint": "c2242e5c0b877102e29c6b6ce3b4a3e9df165848d0727ee164d50bb70f18943f",
-      "review_fingerprint": "61b6a6bea81f4a1ee5a91a17134f099aaf08eb57a26f67e307280410da3a5b27",
+      "review_fingerprint": "b2278b67a7a8bfecca9f13555d4c7bf43e97317f2d6cd3f848d8dbcf426de877",
       "source_sha256": "708738d6af75898122bdc9dfaf2c1473380437028e2ef7ed4e01bc71c706b820",
       "status": "reviewed",
-      "target": "제 부서를 그렇게 기웃거리시는 만큼, Schwarz...",
-      "target_sha256": "f721e0497803daeda837008e2be55d683e9ced54f9b99d22aa456d888d479d45"
+      "target": "제 부서를 그렇게 기웃거리시는 만큼, 슈바르츠...",
+      "target_sha256": "97f081a391db503e8d1be86f487be36557b99e483ab142f52ffc358692574537"
     },
     {
       "dependencies": [],
@@ -308240,11 +308240,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/458/dialogueEntries/25/fields/18/value",
       "location_fingerprint": "a1d9a45c5e1bee3fe9bbb0ac98d78ebef9883f585e7995c3c45cd4996f429ec0",
-      "review_fingerprint": "a400e6564b745bc6c0ccd2b804053631f4474224afecc9f0f53cc2fa50aefc1e",
+      "review_fingerprint": "3bbfb3923176a28cf26f513f5664375e80f953aab6ae00059f07d4c3d63dbecd",
       "source_sha256": "2f7df30a41bad39191ae02f638dca624a542645ae66ff8dd2d3a59c77a731357",
       "status": "reviewed",
-      "target": "Lukas Schmolke ...",
-      "target_sha256": "2f7df30a41bad39191ae02f638dca624a542645ae66ff8dd2d3a59c77a731357"
+      "target": "루카스 슈몰케 ...",
+      "target_sha256": "69f51e332260c8b11a8271c582df2e2d8c9eac39d220d6b4002e7a359924b696"
     },
     {
       "dependencies": [],
@@ -321055,11 +321055,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/494/dialogueEntries/72/fields/20/value",
       "location_fingerprint": "fed62db3336d24862770ba0da25d3c73e125ff802016b3c49a4f88c28672f086",
-      "review_fingerprint": "7d172b132b58e1b0365c3afde2681778d2119b103a99c877cd2ce6de3c2f3f16",
+      "review_fingerprint": "a7eda918fda6f2bdfba2b12db542709019608ca7e922305a29ed18c4ddf943bc",
       "source_sha256": "7068486329db37b1e17f33b6d696c9bf79d309bd553b658910a48d7c29e6d7f7",
       "status": "reviewed",
-      "target": "새 취미를 찾았다니 정말 다행이구나, Kim!",
-      "target_sha256": "00f303c8f4df6dc4cbcb8ec04b54c2b026123f5b4ed291505949c81986e6e7f6"
+      "target": "새 취미를 찾았다니 정말 다행이구나, 킴!",
+      "target_sha256": "998800d5eee08a25de705cb49fca044270dc2386870d61f0dedaad6ff7dae260"
     },
     {
       "dependencies": [],
@@ -321099,11 +321099,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/494/dialogueEntries/74/fields/20/value",
       "location_fingerprint": "45be13510de1e9fb0322b03b7689bd44f05030ad1c54ff93090f490a426b13f8",
-      "review_fingerprint": "10b8e51b19013a5695b7b332368135efaca118bdd62bbd2338069567441fcd0e",
+      "review_fingerprint": "79a459cfc21adb91a838a4c62b40b5dbd8c59717a1796eacd40eafb5b29ca0fb",
       "source_sha256": "3c272faa694ca5f8998c7ef6269c125c8692adb2b4a516675687e56eb1bf9a7c",
       "status": "reviewed",
-      "target": "이런 남자들한테서 떨어져 있어야 해, Kim.",
-      "target_sha256": "0f64231170104c08d4c2decd993e9481e3ec0a6138e1a7e6122a0910c16fbe53"
+      "target": "이런 남자들한테서 떨어져 있어야 해, 킴.",
+      "target_sha256": "48f0a1e0a27187ed04f8e2736c80ba55bb0a8a43b36208ffa6352b911abce327"
     },
     {
       "dependencies": [],
@@ -321121,11 +321121,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/494/dialogueEntries/75/fields/20/value",
       "location_fingerprint": "1a9840cc0ab07241fcd5f2319ed7c2c4593e2fd293d1d10b6fbe2179b5f70e4a",
-      "review_fingerprint": "34515aa37937a8af3c6c5dd131b62f915f730e9c7a0e983ce6629e68948bfac1",
+      "review_fingerprint": "d256b708784f3d1d7045173be66cb010873ac5a2cd58bb86c8f9c1e90ee448b5",
       "source_sha256": "a967311be9afa30aeb8d79ca2f9eddcec899d29186a66d07dfff03ddfa48f187",
       "status": "reviewed",
-      "target": "Kim, 나한테 그런 식으로 말하면 안 돼. 그런 말투로는 안 돼!",
-      "target_sha256": "f6fef3fed20dfd2936beebbf35028189c34d9e85c828b8624935bae5ef2aaa06"
+      "target": "킴, 나한테 그런 식으로 말하면 안 돼. 그런 말투로는 안 돼!",
+      "target_sha256": "0b5803eaefc49d7845a28d1086b9f01c84a8aa314e3616064e08c8c5e761e2b6"
     },
     {
       "dependencies": [],
@@ -321143,11 +321143,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/494/dialogueEntries/76/fields/20/value",
       "location_fingerprint": "83253038b2e59a16b77f6bf2d06b176044ea06562e826c009105a5caadb9587d",
-      "review_fingerprint": "4466ebe14c3dea4c9bdc0a7329c9c9f90eed916c5f6cc5e52aaa7242a20ee7fe",
+      "review_fingerprint": "6741d7fe12e60435e3c7e66067ebb9b69dbbe74185a5d2b092059c721f3d1af3",
       "source_sha256": "83be3c7648c9e8560039074cb6353cbc6ddeac07ba0a808c6089b99f6e7264ac",
       "status": "reviewed",
-      "target": "Kim, 제발 그렇게 고집 부리지 마. 이게 어디까지 가려는 거야?",
-      "target_sha256": "8c0bcc3ec00dead4aa1d4f8b14f5d9a3e7bc88bebf643343bb5773e027d3b85f"
+      "target": "킴, 제발 그렇게 고집 부리지 마. 이게 어디까지 가려는 거야?",
+      "target_sha256": "d318bbc669eeb9b5f248d485e63055580478418cce43b71b8f63f7db2ade36c1"
     },
     {
       "dependencies": [],
@@ -328634,11 +328634,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/521/dialogueEntries/15/fields/18/value",
       "location_fingerprint": "f1e68506381e517f1a24b89c59012eef8348323072c6617eefbab5f65b560625",
-      "review_fingerprint": "669c1a0f69e4b36a9da679656e4c775ceb7ed10e1cc76e321fa2ccf5be94b865",
+      "review_fingerprint": "49f27ef351e1e246095b15b8a3c1ff0671cd8c16f6ce1b52abe5a6e7f44f577a",
       "source_sha256": "5edbc1d5e1939cb5ea3dbf5de6491dd3c9dd5ac8303403fe98de7d6a3cc2700f",
       "status": "reviewed",
-      "target": "Frank, 왜 그렇게 이상하게 쳐다봐?",
-      "target_sha256": "db2ad817d3c5cbbd2e5a23c6f7c3032aee289c1f942e0fb16c7e22381fc04c46"
+      "target": "프랭크, 왜 그렇게 이상하게 쳐다봐?",
+      "target_sha256": "a36742a01196a3c2bf74649e682a0bd53174bae60beabd37957bf1b7e342d1e1"
     },
     {
       "dependencies": [],
@@ -328700,11 +328700,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/521/dialogueEntries/21/fields/18/value",
       "location_fingerprint": "c846732a3b3107d08ec42b3423e04659da35377de9ae7a9271d0a6c3b818f33e",
-      "review_fingerprint": "baf8e3b83badba85c4fe53317aeb177cbcecb5a8948191299c19f273e0b353d3",
+      "review_fingerprint": "eaa4873612e8eaa5c66ad0056e5bc3692186155367505214df42c5872074bd7b",
       "source_sha256": "da114a1baa2c3d84356209160deef4a7b318b866166713e50d2daf1542516897",
       "status": "reviewed",
-      "target": "이 Feinbein이라는 여자가 Kim에게 약을 몰래 건넨 건지 말이야!",
-      "target_sha256": "da6a73fb8d6d703c1bb2308ae4325ae5572d2ce790e1e865360ff45cd4c6135b"
+      "target": "이 파인바인이라는 여자가 킴에게 약을 몰래 건넨 건지 말이야!",
+      "target_sha256": "339f06ae0a46e18176619a97d34e310e96e237d6d014334f12dc036ffd5afb66"
     },
     {
       "dependencies": [],
@@ -328722,11 +328722,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/521/dialogueEntries/23/fields/18/value",
       "location_fingerprint": "3cbf3b10c915a1e191be462aac90c4cbe5d6a0a3fa1f17890b0ccc40ad775a84",
-      "review_fingerprint": "2cb3bafa4995bdc7fa360109033b13c5980d6ba9ebd4c9209de16d1ef8d3582a",
+      "review_fingerprint": "7886a2f728269f095741cade50504c5bf7cd683c796b76097f685c32583d236d",
       "source_sha256": "20c1a8ec560990efa1177cde6d90dad86ddb1f611bce5e765afbe29e6273858b",
       "status": "reviewed",
-      "target": "Frank, 제발— 이건 급해!",
-      "target_sha256": "3eba520531764e11d7229c03fbced624d8ba2594108b72a11cecb4e55af73b3d"
+      "target": "프랭크, 제발— 이건 급해!",
+      "target_sha256": "c38d5011c1f4df64809132ca2ba598682ed7f0c08d0a9ce960c55fbb5a1affb7"
     },
     {
       "dependencies": [],
@@ -337148,33 +337148,33 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/548/dialogueEntries/5/fields/18/value",
       "location_fingerprint": "747317178ac77967298bae88c7b96d4c7a335be07358f89bb134013436038744",
-      "review_fingerprint": "7fb39e0419ccf01ca76676becfa818d9db93e82b37f6a88b433a31900e59b80d",
+      "review_fingerprint": "80197e63d280d8393851b6ebefe72fc948831fab2affc19af424ef9d9b30475f",
       "source_sha256": "4ce54a0ae33f37f36a877c35259c432d9571e63cdd078f09b41d5af361064f7e",
       "status": "reviewed",
-      "target": "아니요. 2층에 사는 아이들은 Ida와 Alfred뿐이에요.",
-      "target_sha256": "4c15c74d3a2fba78cfe28716e62a8a8e5ab55cc2c7ccec1a55bb6bbf12f6bc00"
+      "target": "아니요. 2층에 사는 아이들은 이다와 알프레트뿐이에요.",
+      "target_sha256": "3246e477c78707c39f49510d1764b9226657cf3db2bd7e40df05f758a1e2b4b7"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/548/dialogueEntries/6/fields/18/value",
       "location_fingerprint": "59835ae5bef13be24572d484f0a3019f034c710533cabfda72b65c9e601b6112",
-      "review_fingerprint": "80912fb0afbc95452d66b3f7ea40d77c30be1f7c59df3962185039cbc62dd18b",
+      "review_fingerprint": "e82ee982b88ff322de087f3e704712ad745a7f37312a3afcb933717d213efc03",
       "source_sha256": "9738326360addc4de583c9617f9dfac901377eafd90d38aa15beddaa586c70fa",
       "status": "reviewed",
-      "target": "Alfred는 너무 어리고 늘 아파요.",
-      "target_sha256": "b48c6f2a8ac43795777cce35613078c6c8aedda26d3c893ab06aa67cb396fd69"
+      "target": "알프레트는 너무 어리고 늘 아파요.",
+      "target_sha256": "383a335ab961d1f3049db3d7a3f25105e249449df53026d825fcdf161966e60b"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/548/dialogueEntries/7/fields/18/value",
       "location_fingerprint": "73b8e5e53e729ed4795d27c7eb806df8977bd495eb96182002307fc223c3281b",
-      "review_fingerprint": "fc5b60333fbfb4385c48333e67ca70dc01012acc6350695a6b937e1144731131",
+      "review_fingerprint": "2ad5d206825cdfbdc24b09ee969ddab10b23d7b2d6cbff21c9607860c2d8bf22",
       "source_sha256": "47cc898a4cb730ec100932ee64816cc78c782892995ae6e4620f5067e51075bd",
       "status": "reviewed",
-      "target": "그리고 Ida는 여자아이잖아. 축구도 안 하는데.",
-      "target_sha256": "681421a3ee44099ef6281c306010f061bc810f3dbd2216758887e150b90495cc"
+      "target": "그리고 이다는 여자아이잖아. 축구도 안 하는데.",
+      "target_sha256": "bfd3823dd201c18eb3c7dd761bd8b89845df57b8d0dc6dc2a03d7fd57a6385e7"
     },
     {
       "dependencies": [],
@@ -341768,11 +341768,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/574/dialogueEntries/10/fields/18/value",
       "location_fingerprint": "d7143964aa0a363780f53c327f7eb98da9470a26803fdfde88e4bcf3e6c126b9",
-      "review_fingerprint": "1e4552c915228c0af5f1a20bc67419bfc9287b0da5fbf4a7c1302a3c524a2192",
+      "review_fingerprint": "233452564f648407163e35f261d4ba41e6718d0fa9faa0a066c52b216f28111c",
       "source_sha256": "6682d823cf164aaac50e9c186c4c0c3d766abe66396d39fe6958cb4abd189af2",
       "status": "reviewed",
-      "target": "잘하셨습니다, Frank! 정말 감사합니다!",
-      "target_sha256": "e34a362c616fa266a2e5b54bbc34b29c24a006c3fd7aad550befa1a43953d744"
+      "target": "잘하셨습니다, 프랭크! 정말 감사합니다!",
+      "target_sha256": "93f74768d52a54a821a6987a2c1365b93427342e17a33d18e4c641e7e9ec969d"
     },
     {
       "dependencies": [],
@@ -341801,11 +341801,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/574/dialogueEntries/13/fields/18/value",
       "location_fingerprint": "60b173c4708b5b4921516c0510532916efa1de041ee183ee506e4552e9102786",
-      "review_fingerprint": "d407e1d07bd17c99684e1c18cc9af48d9fe2a6bee2b7e1d767c76b7e41882e54",
+      "review_fingerprint": "50caaefa8fe1923288bc2c798959734e6bbfe5079835641ce13f497c6e1ef086",
       "source_sha256": "e81ec12108dde2c5591963c2ec21653a212cac1b6a7c707ae076e986796eb8cc",
       "status": "reviewed",
-      "target": "물론이죠! Schmolke 씨는 다가오는 음악회에서 중요한 인물이니까요. 그분에게 무슨 일이라도 생기면 안 되잖습니까?",
-      "target_sha256": "062591c640f55c7575626985f5fb374ae05668527af5d41aa5551103f3b4647b"
+      "target": "물론이죠! 슈몰케 씨는 다가오는 음악회에서 중요한 인물이니까요. 그분에게 무슨 일이라도 생기면 안 되잖습니까?",
+      "target_sha256": "659b0252687dd5c5a765b3a592f9c2d88ff04ce516cddf79c6cb183b59bbbc16"
     },
     {
       "dependencies": [],
@@ -341823,11 +341823,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/574/dialogueEntries/15/fields/18/value",
       "location_fingerprint": "c863f9cbd9ddc31726bf8186534d58772af4294074077ab2f1f8b94cf2cfd605",
-      "review_fingerprint": "0637adcd941c109957131b7b6da47e237870b2c86cf571574906a13756a3b11f",
+      "review_fingerprint": "3c3397cc301914a5010ada5c0e3c18f72342c7839597fa069445e983f83f0bf0",
       "source_sha256": "82d345d03b4890323b5cc2dcaa9a6e67caee9f5434b5e7e71762b1c3ded4d890",
       "status": "reviewed",
-      "target": "Frank, 자네가 할 일은 다 했네.",
-      "target_sha256": "2b5c5c04c6d05f54e8e65fc58145a86b2aeb856a2fb04434cde01f5f0ac3f449"
+      "target": "프랭크, 자네가 할 일은 다 했네.",
+      "target_sha256": "5e3b7766c4cdca7aaa882f097bee7d27cbdb15ed0ccdfb7ba5b245f8c3678a53"
     },
     {
       "dependencies": [],
@@ -345904,11 +345904,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/589/dialogueEntries/85/fields/18/value",
       "location_fingerprint": "9d676903fee93242a26e266c484e0b7ab02882567d39398665806222d85765d9",
-      "review_fingerprint": "5ea848d5264b39dc5ee5c964147e7e09adc31de8c5dba84a2dcda4d240374130",
+      "review_fingerprint": "403321f91e50456a86bfa2b5b1237a1500caa089044750d2f20e5fa31d575b8f",
       "source_sha256": "ccad998937bd4af41eec668cda5a6aff34d36522370b105d77b0c06505c72956",
       "status": "reviewed",
-      "target": "문제없네, Frank. 필요한 만큼 시간을 쓰게.",
-      "target_sha256": "c25c674e9291eba0b717a30111daf5fc43e2bc441724d023b3a2715a1b731c59"
+      "target": "문제없네, 프랭크. 필요한 만큼 시간을 쓰게.",
+      "target_sha256": "e467f8c7ae65d04b9d9b181c8ee2056c0df683d085809b21ab3f73ba721c78da"
     },
     {
       "dependencies": [],
@@ -345948,11 +345948,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/589/dialogueEntries/93/fields/18/value",
       "location_fingerprint": "e362c816038c729fb73a95cf30a0437f352504fc2462cb7cbc9523b8a58cfb12",
-      "review_fingerprint": "a70374aa5afdaed019b55dda20ba6f12861190485b4f61707c168fda18307b84",
+      "review_fingerprint": "7afdd46bc9bd445c2ffceab7f2e3d4226e584b944d918cbca6c66a9754a877d3",
       "source_sha256": "c44cbedebf3aac3e572d1714b91b7631360dbfbc83fff78b3b76665759cae738",
       "status": "reviewed",
-      "target": "안녕, Frank!",
-      "target_sha256": "67b7204e078c2c8d29cd045ba4699c586d5ed864c9466e2546188f256eae1ea7"
+      "target": "안녕, 프랭크!",
+      "target_sha256": "bb2f789c282496f1c7b59cf9d93bacd84ccd498bb4cb796e1564cf00c69abdec"
     },
     {
       "dependencies": [],
@@ -345992,11 +345992,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/589/dialogueEntries/97/fields/18/value",
       "location_fingerprint": "b9c9111f6d38a0e6c31fc1f4084989167cae40b304dfd934dd1ef172b9aa5fed",
-      "review_fingerprint": "5ffd1b550a7b93bc8c24962a9cfd4cff3c8c81fa7cf5a978acfeef9c1f224bd5",
+      "review_fingerprint": "dcf476c53bc22f102bf05e7b7e70c82651ee1ecf9cea6422b6efd09aa3d98f40",
       "source_sha256": "4830d1493d81ff9be3513c7bb20a0136bf36e8ac29d1ac126e31acbd2c09cc29",
       "status": "reviewed",
-      "target": "괜찮네, Frank. 다들 각자 할 수 있는 만큼 하는 거지.",
-      "target_sha256": "9ad77af9499dcf7522f1f18ce1f06685d5e720ed4acd17d08f8514c2b3ae69d0"
+      "target": "괜찮네, 프랭크. 다들 각자 할 수 있는 만큼 하는 거지.",
+      "target_sha256": "6149a78e535644118bd3eba6eecdbe90d4fc187cbfd7febc03537ea97d41ce77"
     },
     {
       "dependencies": [],
@@ -346069,33 +346069,33 @@
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/589/dialogueEntries/106/fields/18/value",
       "location_fingerprint": "41f4c893c23a0f3d34270c85b245c84bee75264f5b4094e46ae3fb2f5b475a01",
-      "review_fingerprint": "e9940b15a2b5e3ef8bb135925f454e5bf8bfc71677cb450ca7c4041c10185049",
+      "review_fingerprint": "f08af2acb38911ca1939ec577d4f383a54347136133c4cb5e84aea7b6835af18",
       "source_sha256": "fee2cb596298a5e7567d30fdb9321b9a72ddd11f09ef36c0dd275debb7448aaa",
       "status": "reviewed",
-      "target": "Susanne Beinert는 진보 성향입니다.",
-      "target_sha256": "bd8519130043df0a113d983ea49b591d30cee92916e8ba1f54afbb543dcf606b"
+      "target": "주잔네 바이네르트는 진보 성향입니다.",
+      "target_sha256": "4d7c44400666fc42818a608c82e58330928f8ee5f19c5a1e66fa49581f9b7712"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/589/dialogueEntries/107/fields/18/value",
       "location_fingerprint": "0ed63371527f02e2aaab33351b3680dd9d02d070cd3b2c5844d6d5eb41e4a2e1",
-      "review_fingerprint": "98bc8f13ce15e47e4658b56823b7ba890201466e6d858bc8d7966a8a8db8a7da",
+      "review_fingerprint": "9250c2f7a833a45c58f08e507b36a431d86dc43d17419b0c2b2195f8e38a8f5b",
       "source_sha256": "4b0ffecef4623be4451f1fa1030023982dcd1b434b03b21ad5a9aeb200ddba29",
       "status": "reviewed",
-      "target": "Susanne Beinert가 진보파라고? 흥미롭군 Frank, 흥미로워.",
-      "target_sha256": "95001e21e40edfad6e4bcd525d3a0a0d5c077fbbe2fabb1dc7f3436814212bc6"
+      "target": "주잔네 바이네르트가 진보파라고? 흥미롭군 프랭크, 흥미로워.",
+      "target_sha256": "96b265b62c0e23e6b918f34f3878adc9c418fab3cfb0a5d195700d2ccf166a46"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/589/dialogueEntries/108/fields/18/value",
       "location_fingerprint": "ebd8cad219cdd24dd608cc45be0d600e4c81decc7b05061e39b8423c69630e90",
-      "review_fingerprint": "c93157596a9fd9d83d3066d3c4a4bc8bbcdffbcdac7dad35414894a179bab7f4",
+      "review_fingerprint": "7efdb6b71f7ac6b667a71d7b737b7b190b75f1a6ba9ba9e048c191247745e296",
       "source_sha256": "c1e44d2dea410fa6fdafbae6af82932961c36b578f7b510956638a41223fe02d",
       "status": "reviewed",
-      "target": "그럼 곧 Beinert 부인에게도 이야기하게 되겠군.",
-      "target_sha256": "4d857809bbd719e004a2fbbfaf1a22820cd5eb5da877117e19ac3b91afd1f37c"
+      "target": "그럼 곧 바이너트 부인에게도 이야기하게 되겠군.",
+      "target_sha256": "809295b4bf6b88666f3e6292b3787ff0c66b2451e0072edbac282fe8c8dd360c"
     },
     {
       "dependencies": [],
@@ -346421,11 +346421,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/589/dialogueEntries/135/fields/20/value",
       "location_fingerprint": "0bd762154dc9ba3b01a6c596655c5d6add828b85de058619f1e63566e0aaa878",
-      "review_fingerprint": "608f1590d9881f2a75d25b36930004fcb873e6a1a928ff37749986aa86621001",
+      "review_fingerprint": "6b7b9f5a7701ffae622a688036127f045512f5c7132fa1735239fc7f83c09f84",
       "source_sha256": "1833301a16c4d04e2374867b94f691a9ab69664aec7bcaaa3d486e84a6d7b7c5",
       "status": "reviewed",
-      "target": "Wilhelm Würger는 자신이 어느 쪽에 서 있는지 모릅니다.",
-      "target_sha256": "5e004327b3ea03f0d18d762c403598a4a08874b2888c88dfac8b70bd277dcd79"
+      "target": "빌헬름 뷔르거는 자신이 어느 쪽에 서 있는지 모릅니다.",
+      "target_sha256": "8f50d1a92b5c246d50f8f96dd8a7bd2eb82f5f3cf821fb84f84251fe631cf881"
     },
     {
       "dependencies": [],
@@ -346443,11 +346443,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/589/dialogueEntries/136/fields/20/value",
       "location_fingerprint": "1da4d854890a3ea6094e0ca6b4d159783ae24730e30235c61f87b822d05fc80c",
-      "review_fingerprint": "3039f0137d2e2bf73288f0f0e0348446d472c2fc4c9627338c51fe48b9f6a9ac",
+      "review_fingerprint": "7a30b215da0195504c454cd3035f11aa2a8bafe9bcd07a2d6b768f9524f5b2c0",
       "source_sha256": "6011ebcb526774e8b8941baafb037e82dc34da81a4785af5b67a6510e8dc0237",
       "status": "reviewed",
-      "target": "Chantalle Sieboldt는 진보적이지도 후진적이지도 않습니다.",
-      "target_sha256": "e5e3e357dd95ceaa973bd876a60e686d172f1fc2aee393fd589b2d138baaa9fa"
+      "target": "샹탈레 지볼트는 진보적이지도 후진적이지도 않습니다.",
+      "target_sha256": "f5bc47ca3fabf92abefce1cd3d9086e2d555e9fea5190999e40f73cc8f6eb2e0"
     },
     {
       "dependencies": [],
@@ -346586,11 +346586,11 @@
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/589/dialogueEntries/143/fields/16/value",
       "location_fingerprint": "db66cacad0869170ac14c53fb716eb7a1f946e6ed2e9ee7377936ce8f2d362b8",
-      "review_fingerprint": "0b5bd3960b570fca8deb9bb4fbac35644777c699b1bc1ead5c803c552128edcc",
+      "review_fingerprint": "b3a6be73e616295986d09c0ea6c891ca50429094f5b4752f0abd5fd6b324626a",
       "source_sha256": "110fd9daa34c13fd42733e9f675ce270db694b0d337b5471f4332666d22a8ed1",
       "status": "reviewed",
-      "target": "Susanne Beinert는 중립이다.",
-      "target_sha256": "781fea7be7feb951603abe7b8bb06eef38c4ec2b97baeb7daf4a50be02c5fcd5"
+      "target": "주잔네 바이네르트는 중립이다.",
+      "target_sha256": "c8c70d814e6528b40580e58ab6c52da036611cdd618e36cc429c080ca5fce4f4"
     },
     {
       "dependencies": [],
@@ -352317,11 +352317,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/612/dialogueEntries/4/fields/18/value",
       "location_fingerprint": "76e027cfd450d1debeb1bf4763e0e1426e0b45510606ce9f16f69fa082eac0d2",
-      "review_fingerprint": "10dc7d91cae2589b3827bfbf5ac756a6ffb7ba0636688667263c8d19b59cb8ea",
+      "review_fingerprint": "a00dabb3cd6e0602ebf3f6e1b270b766cba123e733935e001dcc135999b5094b",
       "source_sha256": "c3bc165fb942f769851a122e3cca27f35db27c62d3031a9e7159c0ff591c3677",
       "status": "reviewed",
-      "target": "그래요. Kreinert의 때가 다 되어 가고 있어요. 그를 계속 붙들고 있다 보면, 승진할 기회가 생길지도 모르죠.",
-      "target_sha256": "ab6549e650fdd627abfc4e6e766adf20b41d337cd663ba916e65c7055ce65f3c"
+      "target": "그래요. 크라이너트의 때가 다 되어 가고 있어요. 그를 계속 붙들고 있다 보면, 승진할 기회가 생길지도 모르죠.",
+      "target_sha256": "d944caeb5e5eed5d5c9f7dfdb677afc1b9ce92559fe047a42d04cdb24031eb02"
     },
     {
       "dependencies": [],
@@ -352339,22 +352339,22 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/612/dialogueEntries/7/fields/18/value",
       "location_fingerprint": "851cf402c22cec1b8bd3f60cf27a02abdc9475beb3e14911392fc59db9637af4",
-      "review_fingerprint": "254b79df01395ae39ac07114fe968805cce086b2ed7b0a8a932aad989586c18f",
+      "review_fingerprint": "249251508fb058f866dcb564ca34bd07c24313244778f98375951bb5d9c40992",
       "source_sha256": "3debef270785a511ccd61c75cfedb046317a6f04e1c3836cb7ac081a75d299ec",
       "status": "reviewed",
-      "target": "Stephen Huberts는 Armin Kreinert가 자신이 원한 대로 개혁을 처리하지 않은 데 몹시 화가 나 있습니다.",
-      "target_sha256": "6eab9ef43c5c8c90ae4503bfcb60de37feaa066190c26aa40d50a2ee546d5c0a"
+      "target": "슈테판 후베르츠는 아르민 크라이너트가 자신이 원한 대로 개혁을 처리하지 않은 데 몹시 화가 나 있습니다.",
+      "target_sha256": "2cff14b2f31c20e1120835e474ac5df1368283524d1d2ee79c6e6562a35531a5"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/612/dialogueEntries/8/fields/18/value",
       "location_fingerprint": "6ea3ef8245f171ae37d4d3976adbc94b66ec6d5c6f0ca2719643832e48c94b12",
-      "review_fingerprint": "627bf8ec02118e1ba135ca95f75ad0caacd5afd567522ba612970ed4299654b8",
+      "review_fingerprint": "d52fd22d9eb37ea4215cdea9941f574b08a2f9578545cc5cc42fa5810ea9b5b9",
       "source_sha256": "7199b32b14abccca3107b17a0071f30f2670b9d4de373e22687d53d5e7441a12",
       "status": "reviewed",
-      "target": "얼마 전만큼 Huberts가 Kreinert를 열성적으로 감싸 주지는 않을 거라고 상상할 수 있군요.",
-      "target_sha256": "70b0453fc7c340aec387c5409bbbf1adb79c67f37ac78f31792f121844ace5b9"
+      "target": "얼마 전만큼 후베르츠가 크라이너트를 열성적으로 감싸 주지는 않을 거라고 상상할 수 있군요.",
+      "target_sha256": "3f64945550ae0f53d567db998fcc18e44adc24ff48073ea42b724b8884c8eed5"
     },
     {
       "dependencies": [],
@@ -352427,11 +352427,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/612/dialogueEntries/15/fields/18/value",
       "location_fingerprint": "d3bc598f77dbd47be94fc62af52c490f3b6855d05df2ac766162d11995da28ca",
-      "review_fingerprint": "4eba54cea4c7db27faa7168653175e9b8d07b9057b06a8aeff69f7e3e4e23a63",
+      "review_fingerprint": "e6ffc2a448b1ee56c4d6ba6171900f6e8c18c7abc4829d7685c9777db1ee7b07",
       "source_sha256": "24812542bc55d15908598abfc2b25933cb6c1faceec5e488445b01a7911d14ab",
       "status": "reviewed",
-      "target": "그 Kreinert 말입니다, 아시다시피 오래도록 우리 곁의 가시였지요.",
-      "target_sha256": "c9df1453e6e8b970e7180edef2870c3d53007c4f27f02ab083eb5f1ef5ce1509"
+      "target": "그 크라이너트 말입니다, 아시다시피 오래도록 우리 곁의 가시였지요.",
+      "target_sha256": "88d4b22aa2d671d89651b08ef2c5d00612bc191d46875e080642c3d8a29baa84"
     },
     {
       "dependencies": [],
@@ -362492,11 +362492,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/648/dialogueEntries/8/fields/18/value",
       "location_fingerprint": "698ebfbeb72f6108616689a6b3b334aa8e4755e024326d5a9c362e89e6e5e0bc",
-      "review_fingerprint": "59e15adb643d5b5b16d03c65d554d53d358a656383b19944d10144aea963a56f",
+      "review_fingerprint": "85b60df4e2c5ff6766ee7eb24dd3c2987c2df04011e10dd2734d89b5ecf0655f",
       "source_sha256": "c3f9619eff90ce5e25da3964b4989d394cbd5f0615655f7537393c6438eee8fa",
       "status": "reviewed",
-      "target": "정말 안심이 돼요! 정말 감사합니다, Stephen!",
-      "target_sha256": "af76f13bf86068535d5d576db947990c36ee7d42c61fd4a85654d8dafe63c87d"
+      "target": "정말 안심이 돼요! 정말 감사합니다, 스티븐!",
+      "target_sha256": "1836b8e1cb6a7e830a5bcc4d980322dfd9c72d1b42c3df25754ecbcdc09bca29"
     },
     {
       "dependencies": [],
@@ -362514,11 +362514,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/648/dialogueEntries/10/fields/18/value",
       "location_fingerprint": "559ccc4e9b880ad9f56c4ed4e3544ee6e7c5b7bd807a972261dd3add33738de7",
-      "review_fingerprint": "6bb88aefa618b59938baf9e76e757b3b84ac1dc1ad8a961f2ffa892e729e5396",
+      "review_fingerprint": "eae043672f508ffee0b9d173c3822cd1c7a7e5f7a55ed3be22bbb59fbf24a894",
       "source_sha256": "5efc0d4b20a9dcefbf11c973c636e5d50f2aa48036d83bdca9ef820cffb328e7",
       "status": "reviewed",
-      "target": "이해해요, Frank!",
-      "target_sha256": "a88a4fbc1ad2999c44ea6ee9de83c6e60b36f3f0d8e13e6d980a9c3f2c4952b6"
+      "target": "이해해요, 프랭크!",
+      "target_sha256": "6395894c6e3c8502d5eba7aadbe6879aca16c559cd412609111a22aff13f7d3d"
     },
     {
       "dependencies": [],
@@ -362547,22 +362547,22 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/648/dialogueEntries/13/fields/18/value",
       "location_fingerprint": "fcb211976a2026a09447817bee70cef3e9b3f5d7e641ae7bfe4646c2f16b60ae",
-      "review_fingerprint": "749c6a8358ddb85f7e1def51b08d87ec3615c453c2a40779560718e409dffb97",
+      "review_fingerprint": "4321215bfbe453dba478f913a15ece84b2dbcf9a2b3dd3de0e48369122de4aa0",
       "source_sha256": "653ac0102289efefd2f034ace9efdcdf068fdb051b6c8d9af0faf04c87d66e7c",
       "status": "reviewed",
-      "target": "Beislaus.",
-      "target_sha256": "653ac0102289efefd2f034ace9efdcdf068fdb051b6c8d9af0faf04c87d66e7c"
+      "target": "바이슬라우스.",
+      "target_sha256": "4b5bb6f27ce3c12567b58a3a648238406ddef9a62f918f17bf2802a6d5cbaaf6"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/648/dialogueEntries/14/fields/18/value",
       "location_fingerprint": "d6e8fff46c9c993b24f27ca8a4d0509d3d1c63212e13c3cfd9973ab222660424",
-      "review_fingerprint": "b294ce7e6ac8b42f48459ce0e754f8e0ac5e92ebb1c7ece94cbca35adc6e0a55",
+      "review_fingerprint": "76953d0a5e2d582c82ba07be65dc80fd3dbae413ca469144673c070fae006ee4",
       "source_sha256": "733d6f8d56299d744c6d7cda7a200c6eb08f9101306eadb911819b38dad45659",
       "status": "reviewed",
-      "target": "Beislaus는 오랫동안 제 옆구리에 박힌 가시였어요...",
-      "target_sha256": "a689579e7312fe3f5ac9a0e769dec9ccb1ff3625d9c61d93b978fc60e8829aad"
+      "target": "바이슬라우스는 오랫동안 제 옆구리에 박힌 가시였어요...",
+      "target_sha256": "d29d4ea7ba1c5e80bb1de984e91c7144a0fc8ec59e080677910cbe96956881db"
     },
     {
       "dependencies": [],
@@ -362591,11 +362591,11 @@
       "dependency_fingerprint": "3869f696bb95e796a578c46c93370c4f4d0b2bad851ccb2234eaeb432ead5c3e",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/648/dialogueEntries/17/fields/18/value",
       "location_fingerprint": "5aa94384b2f89e79c27d4501ffc8014661eb4699a8cec2777d31204eb6b41b3f",
-      "review_fingerprint": "71b3b6dae62dc1f318fe0cc4aba3db190d2364926473fcd372010edb29e658a4",
+      "review_fingerprint": "2e4b05d72206005ae438522ae623fafaa6ae0b8256f5e5328674830e3eeaea53",
       "source_sha256": "24448a5bf9b2af73f3c0abe17a95beac319418d0ca62f9265aa854bfbbd02fdc",
       "status": "reviewed",
-      "target": "... 저는 그런 사람과 <i>일할 수 없고</i>, <i>일하고 싶지도 않아요</i>, Frank!",
-      "target_sha256": "529c937454745862f8fcefa90f3bb1a7f2aa0587bed5f466db8cb8ef0800515c"
+      "target": "... 저는 그런 사람과 <i>일할 수 없고</i>, <i>일하고 싶지도 않아요</i>, 프랭크!",
+      "target_sha256": "a45c2f9fedbbc19b4d109dc389c841b0db512891c83aacb59f4cd6373d05a199"
     },
     {
       "dependencies": [],
@@ -362613,11 +362613,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/648/dialogueEntries/19/fields/18/value",
       "location_fingerprint": "eb18e3e71540a2740e53e2fdc1f6b7c17a096b7d735ebc885f0e81cceb117cb9",
-      "review_fingerprint": "abd970d4840ca88735d9e866c70622daf43fbe9465fcc6b3213fd2b4e0a9cd0c",
+      "review_fingerprint": "2c91773156dd400d989c2a915e3033b772d12a4fdb6dc02f73ff75aa3713cf9c",
       "source_sha256": "6a3f7a66a058bf0dcf7fa5cb7719a991f4650620030d4a0c552ac1bc50778206",
       "status": "reviewed",
-      "target": "그리고 그런 가치들은 여기 부서의 Beislaus나 다른 몇몇 사람들이 보여주는 게 아니에요.",
-      "target_sha256": "cb7bbd97044c64932f0b20899d254fdb2810be5d23010ae694f0f8e8db1a2f59"
+      "target": "그리고 그런 가치들은 여기 부서의 바이슬라우스나 다른 몇몇 사람들이 보여주는 게 아니에요.",
+      "target_sha256": "c856bfe0ee6925111518c732021bc6b7d33a351119f6b48bfedd1918050ed96a"
     },
     {
       "dependencies": [],
@@ -362635,11 +362635,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/648/dialogueEntries/21/fields/18/value",
       "location_fingerprint": "18515cb5cee3f589d23a5938cf924db1b88c2cdc3ee8d87e61664f86ecc1e4ea",
-      "review_fingerprint": "a9d0b8b87c56e325030ca2b0c7181dd1b322e91220a2abdd7fe23c264054642e",
+      "review_fingerprint": "51318b4c2db97430cbf704a00abaad6c4b43b909f8968f48e367389799d8ef84",
       "source_sha256": "1fa5978c336a4491bcd35d780d109f0ff737b344b267c9a802c2f82622e8b4a4",
       "status": "reviewed",
-      "target": "그렇고말고요, Frank.",
-      "target_sha256": "99da65c325701d4df7e7a0eb3ed0059fa8e17a67ec27e286c23c944fe054bf84"
+      "target": "그렇고말고요, 프랭크.",
+      "target_sha256": "63015d1a86e4228c6a1540e73a046a97ad7b13c3c01e08fbdddcbbde3bd70985"
     },
     {
       "dependencies": [],
@@ -363405,11 +363405,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/651/dialogueEntries/15/fields/18/value",
       "location_fingerprint": "b4eb9a2bf68d5a6b1624658ed90bfe5b4fde1609083339e7eb89f9c14934f59d",
-      "review_fingerprint": "623885de4e55efba230392f9e20e527a9fe93b118b2e08fd5d6fcfcdf48abf94",
+      "review_fingerprint": "36dbe9c07bbad633c75fa73a66038a87a7d01080f1c4d2a16e73213aa533429b",
       "source_sha256": "7474277140986a9eba77d8798c5b2c022281ddfb99f0f3442daf0f67a1469cb1",
       "status": "reviewed",
-      "target": "유감이지만, 안 됩니다. 이렇게는 안 돼요. 지금은 안 됩니다, Frank.",
-      "target_sha256": "5b48b738033bc8496bcad564634adfb4f764b57372b192727b33abbb2dcf5308"
+      "target": "유감이지만, 안 됩니다. 이렇게는 안 돼요. 지금은 안 됩니다, 프랭크.",
+      "target_sha256": "ac02dbd634280fb0e637daf15b49c48e3545f34584c133776ec07d440f3f5456"
     },
     {
       "dependencies": [],
@@ -363427,22 +363427,22 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/651/dialogueEntries/17/fields/18/value",
       "location_fingerprint": "bc4c3a15e11746c87c638221ab958fbdf4e44f1dce6b35204f91c2f77c4bb87f",
-      "review_fingerprint": "5a6928a577c2f132b916170ba7c525d69e8a8a6a4cbfb1a1b62de95ad36dde02",
+      "review_fingerprint": "4fb4c4d6ea3ac348b92662e2e898001f1ed920628888afff5b9bf57256bd8bfb",
       "source_sha256": "6e2280f8b3fd1a0d7b2b46b8eac33a3a2956ff83b020f0c48f5e1131b1b6d979",
       "status": "reviewed",
-      "target": "아, Frank, 나를 그렇게 곤란하게 만들지 말아요. 이대로는 안 돼요. 알겠죠?",
-      "target_sha256": "b23934a72447d8ace04ccfd12272e1f2c0791d6ae109b8835660a35182b724d8"
+      "target": "아, 프랭크, 나를 그렇게 곤란하게 만들지 말아요. 이대로는 안 돼요. 알겠죠?",
+      "target_sha256": "a826889adbb7772152f2cf4c45a329db32d2060c2ca2a98e87bbc26cc2f92353"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/651/dialogueEntries/18/fields/18/value",
       "location_fingerprint": "5f1c6f3788784b1ba4d96bf364167b2d0468634292953f30fd07a3360563a918",
-      "review_fingerprint": "988c9c8d3285f8d64ac2e0563fe367bacf936ceea8b3818e55ee9af99c7ef124",
+      "review_fingerprint": "f8c84ec3ca76342baa5e321c79e2bd1e7802ed3331929a1a5eb41ccb62776c41",
       "source_sha256": "4f444afeda17ed75b40b795289a2b7cb76a9170adbdcd286f14e4716ae3d4c7e",
       "status": "reviewed",
-      "target": "우리 뜻이 같은 거죠, Frank?",
-      "target_sha256": "9d70f1af438ead18a1e1409eaf26ed2e9a2cb0d995f416d3a8da828fbd9e60d4"
+      "target": "우리 뜻이 같은 거죠, 프랭크?",
+      "target_sha256": "7419a1d01e8da5f351629ff635784208eaa814979bed2af6837c258e7a9a9e84"
     },
     {
       "dependencies": [],
@@ -363460,11 +363460,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/651/dialogueEntries/20/fields/18/value",
       "location_fingerprint": "b5a78a60390af0d72c23784f836926297c1d7da1e2a888bf57bea15c7b51dad7",
-      "review_fingerprint": "730dbeccd4531c8e8cd68e3e53c7dd7042342432dcae1b0f5434f3afba540637",
+      "review_fingerprint": "a5a3e8f826fe678f3d7ce757d9ea3f2f6ab5688eb76bcade40c92d2d3a0aa31e",
       "source_sha256": "48df23b2a0c454c190ae5d4ff173707924be862c2200f286b2113aead2edf6de",
       "status": "reviewed",
-      "target": "아주 좋습니다, Frank. 당신이라면 믿을 수 있을 줄 알았어요.",
-      "target_sha256": "4fdff83a4c2bf3a44fa0258373156c69269f8001c2598ad0c823592f32fb4da6"
+      "target": "아주 좋습니다, 프랭크. 당신이라면 믿을 수 있을 줄 알았어요.",
+      "target_sha256": "8a572e5251095fb0233d42f6cead26b7bfd85492466f63082f3c10f893067cb9"
     },
     {
       "dependencies": [],
@@ -363482,11 +363482,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/651/dialogueEntries/22/fields/18/value",
       "location_fingerprint": "800206ebac546a0515b8bb57f237d9b740ba8a30b4fa2e1caecf0e0c56e380e5",
-      "review_fingerprint": "f6cbf63ed73f40116ef488106fdf2e7d1917ab8c96ab7155ad3d03322f11b1a8",
+      "review_fingerprint": "5694e5c07ae9c19572be3233552c347c38c357467e6ad355316b36ec8c5b2fef",
       "source_sha256": "feb8aa6dea92a2cfda92cf7e68903e3bb2476464a82bacc5982e9e3238090bfd",
       "status": "reviewed",
-      "target": "제일 먼저 알게 해줄게요, 알겠죠, Frank?",
-      "target_sha256": "91bd28445e291643c7d022b1c27a50d2bb4a490bdcf70c20e253a2a8184b281c"
+      "target": "제일 먼저 알게 해줄게요, 알겠죠, 프랭크?",
+      "target_sha256": "90f7bffdf9af56c16e7da4c8a5f912c29146d4fe9a7901d0c1a53c09aecd6b60"
     },
     {
       "dependencies": [],
@@ -363537,11 +363537,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/652/dialogueEntries/5/fields/18/value",
       "location_fingerprint": "c3128105bdb03b2d82459d221859f0890334f199909ff6c527c79b19f777029e",
-      "review_fingerprint": "184a4f1f2dd2e7e9ff7cae9ca74106edecf99f70ef683868e1bda241160647ad",
+      "review_fingerprint": "3f115615e428608fd37df135720ef587b79f53397cfa9e6d403424552d0b49c4",
       "source_sha256": "05c0340af7b9154dfb0f91c8a4b2eab450617442c0033eda236b6c72dc4daa4c",
       "status": "reviewed",
-      "target": "어떻게 감히 나를 신고한 거야, Schwarz?",
-      "target_sha256": "b6d48b75b280a709daf1469127174d07dfcb39e232930c92d242bc4a8233a543"
+      "target": "어떻게 감히 나를 신고한 거야, 슈바르츠?",
+      "target_sha256": "534a74afd65767ff283a8985cc7b5c35ee166644877a7846050dc5241c11bb0c"
     },
     {
       "dependencies": [],
@@ -363614,11 +363614,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/652/dialogueEntries/13/fields/18/value",
       "location_fingerprint": "a87d88e789d56d1a164ddb0fe4cd6f4968537ce36e429458ecec62bc21cae2dc",
-      "review_fingerprint": "96e98d6018f57dd0cd85d92925e4c87eb52c705376803493766049940933bf51",
+      "review_fingerprint": "d73010b3b30bff4d3a542d7bcb63f6f81283ccb42ac6f73d81e193fe3706a034",
       "source_sha256": "386f9e2409ac6d9880d5f7d5d97a9eb13e6816f199d361887062c22a5d353b58",
       "status": "reviewed",
-      "target": "Grundig 부인, 정말 죄송합니다. 그걸 미리 알았더라면…",
-      "target_sha256": "2131a0d5d7f42c4ed6c6c4cc4a0fa7f1e04acecab1b03b1ec0ea78ab41ef8522"
+      "target": "그룬디히 부인, 정말 죄송합니다. 그걸 미리 알았더라면…",
+      "target_sha256": "02c81eb100d28a1ca9799110cf3ce597ebfced0a7362f1c00a8faf534025ec84"
     },
     {
       "dependencies": [],
@@ -363647,11 +363647,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/653/dialogueEntries/3/fields/18/value",
       "location_fingerprint": "008f9661c58708579e07e656d8fb8e53b5c9829001d42544fef9cd00845a16b5",
-      "review_fingerprint": "d29908fced2d18e5878ffde81fc5e65bcc8ee4da1b953c1c5221ac2a6617a850",
+      "review_fingerprint": "6f39196a39a9142940a72e6ef1f2e412f0e7ddd5145588e42e614e4551beeefd",
       "source_sha256": "727318568fd48f565051ead7a8d6d9ae08d780d4aab3e3518c4c9142c1a96afd",
       "status": "reviewed",
-      "target": "넌 죽었어, Schwarz!",
-      "target_sha256": "c604b74b0a3d732b60d5d950f75d0c3983fb271e205f774962de01d7d6ade27c"
+      "target": "넌 죽었어, 슈바르츠!",
+      "target_sha256": "d92e6528f41ccdd6ac209e8d9aefa24eb0a82fb00f79af0cd23bc7d853fd6ffe"
     },
     {
       "dependencies": [],
@@ -364153,22 +364153,22 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/656/dialogueEntries/11/fields/18/value",
       "location_fingerprint": "499905548474c0e4c7dbbfe563ab4bb6d87cf51325690d192c7ddea42a01271a",
-      "review_fingerprint": "947f797a68f89f56d2e4a97f79ffc12fe8c035c89ec1f89e5be53fd8b3ee483f",
+      "review_fingerprint": "368abea625b1ad103a2a0c57cf354e334de02c7ac13303135d860edb59b22bfe",
       "source_sha256": "e632cf4216cef9017015c39d460f1886ff3a79626ca18aca3bf3d54a3c218c00",
       "status": "reviewed",
-      "target": "좋아요, Frank! 좋아요!",
-      "target_sha256": "7f97d1865c05d37e19fa612b7082a8a48dbad35cd2cba039fcc57a929e58292e"
+      "target": "좋아요, 프랭크! 좋아요!",
+      "target_sha256": "d6c74c8df2c588313950aa4e23a25ec9692a34b674a651a6cce847ce4a59d216"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/656/dialogueEntries/12/fields/18/value",
       "location_fingerprint": "4e6f8a92515acca61d6d9e09b27cb2830be2361944852bf11ec4e38f4771cb8c",
-      "review_fingerprint": "792482838183a1bf8f5f09c26d79e8c9464f745ac9d32bb0e701c61417a2d42b",
+      "review_fingerprint": "71fab183db7e0bdf61385e0f10c30c9d75d1c391d794d27498f0e3e466fd0ee6",
       "source_sha256": "749fc3741ec08c46b2b95dec69f7524b67dd6814fce3ec9ee30639afce425e0b",
       "status": "reviewed",
-      "target": "Frank, 당신이 어쩐 일로 날 보고한 거야? 이게 대체 뭐야?",
-      "target_sha256": "7ebffa9aae461dd988197061a53506ad2107c428d6c3d4fff14812b4958b0bec"
+      "target": "프랭크, 당신이 어쩐 일로 날 보고한 거야? 이게 대체 뭐야?",
+      "target_sha256": "390f4e21413697beba87e6167c36d52f48a88cd5d2e154f6b5974b600ee1263f"
     },
     {
       "dependencies": [],
@@ -364219,11 +364219,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/656/dialogueEntries/17/fields/18/value",
       "location_fingerprint": "fc69ceb594cc83c1bc8681b3772df3b71d8c1fbd1fede9d3bf5db7dce11e727c",
-      "review_fingerprint": "8b21df0299a85fdc9d24751dfee1f2ed58dc94843ca031c73014a4fc8be0ed84",
+      "review_fingerprint": "00ee71f7a3be9f0cd2cf8e774a48cd5f500411ba723d28b188655b0c5bc91c78",
       "source_sha256": "5d36dc60994ca8fa564c60ff88a4b148e0d3f4dbaaeab7db125a084a81481379",
       "status": "reviewed",
-      "target": "좋아요, Frank. 물론 이번 시도는 의미가 없었죠.",
-      "target_sha256": "ed41b0c0b83130c93170df493118dbfe13764d704593c2a6a618eac7c2732983"
+      "target": "좋아요, 프랭크. 물론 이번 시도는 의미가 없었죠.",
+      "target_sha256": "8782088aeb95e0702490e1f3c3f41becab663bc13d43e7a20a2ac14c1eb437e0"
     },
     {
       "dependencies": [],
@@ -364384,22 +364384,22 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/658/dialogueEntries/18/fields/18/value",
       "location_fingerprint": "473c3be9184a977d2e03a9d87d5329faa255b901ed8631e5f4780d9f7a8ac6b2",
-      "review_fingerprint": "370802d3a682011d7d351474dfdec8c429d5d857bd581e007f5d5a1b03ce2096",
+      "review_fingerprint": "685276c68e69047d0624471941977c550539d52799d691f6724127a3cb07b10e",
       "source_sha256": "704b0838eccac64833377118647c691a305279ddeeb978fdc8144b05b41a4d46",
       "status": "reviewed",
-      "target": "하! 역시 너는 쓸모없을 줄 알았어, Schwarz! 아니나 다를까, 날 내쫓는군.",
-      "target_sha256": "d527812c88ba54f89431809697455635b8855097de0009f3a9d6c73e2f561a09"
+      "target": "하! 역시 너는 쓸모없을 줄 알았어, 슈바르츠! 아니나 다를까, 날 내쫓는군.",
+      "target_sha256": "7f7139435e8df42d41f9c11da7c183579445835728ab0c4a7e96c5f7d96ea463"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/658/dialogueEntries/19/fields/18/value",
       "location_fingerprint": "97373785d555e8e215a34255a17ecb6da66c7a72dcdccb16c6c4a5a97d59bfaa",
-      "review_fingerprint": "d6679a5725d7ff558d149fa05333b0c75be77143bd9c87d32e3ada22684995de",
+      "review_fingerprint": "e64e04f7ce267ecca3db5c3f64fc24a12a51757eaab5759cd7fbde3333974281",
       "source_sha256": "39dfc7528edf003a87db83a8ce89834bcba1fa38174894f7dc2fc8ee68682ddc",
       "status": "reviewed",
-      "target": "Chantalle Sieboldt, 넌 해고야.",
-      "target_sha256": "2092bd534d9113a31935596d0cd195fdda92dcd0d7296330c845cbe2f8ddd8f2"
+      "target": "샹탈레 지볼트, 넌 해고야.",
+      "target_sha256": "6837ce6b849fece36cf6c22ed374fa1e281dc89326dbd9bdf9d551c51babdfb6"
     },
     {
       "dependencies": [],
@@ -370093,11 +370093,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/671/dialogueEntries/32/fields/6/value",
       "location_fingerprint": "933fca6cdd5e23bec4d87d51e53cf58b929e2cf40935ea190bc0ab7d26cbc820",
-      "review_fingerprint": "6a982d42727f40419018a33e6be8207dd75c426586c5a7e0bd7faee4513d0bb9",
+      "review_fingerprint": "99f7993733fe84ec6a8555758c711d3a2485542f9ad074b5f2d93777ef7c4323",
       "source_sha256": "22f1c30033b9cd86f8128ec3c1282510677a151cb1e33e6a4192b90136512bd8",
       "status": "reviewed",
-      "target": "정말? 다행이다! 고마워, Frank!",
-      "target_sha256": "51b5f98c6f67009631496748e5b052858cd0bd9435b09c1703431642c7cd998a"
+      "target": "정말? 다행이다! 고마워, 프랭크!",
+      "target_sha256": "4f27c9d27d32eca7d4277375ddba06c21418364c3a89af4822bf16f0419d2424"
     },
     {
       "dependencies": [],
@@ -370258,11 +370258,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/672/dialogueEntries/13/fields/6/value",
       "location_fingerprint": "21beb39652041343c0b3d9e2d6df45353b3e3d09edce6f857a1b1b900116207b",
-      "review_fingerprint": "1718d87a2b2dae7ab766d33814f697fd8a31fcb1fa6bbc04192889eb29aef5a1",
+      "review_fingerprint": "6a6acdb549f91a2ff8aa26cdab5e0232e9ea6ea7b1e098bed94a26a65005b528",
       "source_sha256": "d86720f3942b0dc7053fa704b063d4b0b43c80d33dbd926dbb10889bdb10dbb7",
       "status": "reviewed",
-      "target": "네가 걔랑 얘기 좀 해 봐, Frank! 걔는 내 말은 통 듣질 않아.",
-      "target_sha256": "ffc63b68f8d42dcba46be71ecd46fa6c21d5bf20419ca1a47d9284fc53d80f06"
+      "target": "네가 걔랑 얘기 좀 해 봐, 프랭크! 걔는 내 말은 통 듣질 않아.",
+      "target_sha256": "e20449ce9a224b0bc15cb2f5e4c8e9225a2e103beab9667ebcd8eeacde1e2249"
     },
     {
       "dependencies": [],
@@ -370313,11 +370313,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/672/dialogueEntries/18/fields/6/value",
       "location_fingerprint": "c78c6e7177a41adc1eb0d775fa08bd90d41ebeb151b6b5538bbc45bd158c3d14",
-      "review_fingerprint": "57a73399646e8dacf5cea0a94b5a76fab091afab3fe8f51178ec81a981dd6515",
+      "review_fingerprint": "38819afec0c8102b1577b15c093c9399ab6ce61597ad61094e554958c18cfc0d",
       "source_sha256": "faadfaedd32639da575f3811a046ce55dd1a17284ffd7c0f5fb96674a217ade0",
       "status": "reviewed",
-      "target": "고마워, Frank.",
-      "target_sha256": "d223ac951eeb9f35ccf52876d6f47e696ba0c876dc246ce52f4ceb3fb90acaad"
+      "target": "고마워, 프랭크.",
+      "target_sha256": "c8f4463ca0508da18f8e4331310b223a62968504558a3ad2dc6747c68a3e9e8f"
     },
     {
       "dependencies": [],
@@ -370346,11 +370346,11 @@
       "dependency_fingerprint": "e61356e8d02bd199a67bf28f87b047b1ce4f03a77e5e2dd9dfa0caa2cf046947",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/672/dialogueEntries/22/fields/6/value",
       "location_fingerprint": "374e1b65aa04f8accf3bea8628d7ed5f22a3b82c047cb98855e2598156130cff",
-      "review_fingerprint": "d30d6a41d91a68253650b139e2c4a2706a56ea89532996f4a22eb264f2e6ddc0",
+      "review_fingerprint": "8a01b3ab8fe03a39ee841330b9d4637512ce4383c415df05d48b379bd388a83a",
       "source_sha256": "4f09bbe54df1fffa6c218b2954fe1dc1bf96145df5903ac7868c34fc12e2bc89",
       "status": "reviewed",
-      "target": "<i>쥐</i>를 키운다고, Frank!",
-      "target_sha256": "4471ad7c99e9658e7bcb118de38477cd663f10054b887f6c2c276f7f451eef4f"
+      "target": "<i>쥐</i>를 키운다고, 프랭크!",
+      "target_sha256": "8dd4ea613c71ea0d2f577274a0a5aa627d40ad7679492c183227254f797e451a"
     },
     {
       "dependencies": [],
@@ -370368,22 +370368,22 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/672/dialogueEntries/24/fields/6/value",
       "location_fingerprint": "a54ffdc50838a253726b76f825853f7302e603e50a1bcc2c9c64cb902a093e34",
-      "review_fingerprint": "f284dd0ebb22b1ef8ba77b6f2882cbf9f2cf968d49d4a69f499570b8a06080a5",
+      "review_fingerprint": "3ecceb193c5b9ac9643f344efe61eb9320ff9176a4af1fd8d8e25258d05e611d",
       "source_sha256": "61259e84eac1b761160ea3b06f07d1c879c515322e1289f5b4cecf5c1862dc60",
       "status": "reviewed",
-      "target": "그럭저럭. Kim 때문에 미치겠어.",
-      "target_sha256": "20268378211e5a8e0a5d2f40b5bc6e82208ed7bf86ca03675be678a3ea742b53"
+      "target": "그럭저럭. 킴 때문에 미치겠어.",
+      "target_sha256": "d55f2de66963ddbe803d9c6de684260106a6e8c1fce332b23fcb600386e27a55"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/672/dialogueEntries/25/fields/6/value",
       "location_fingerprint": "97628195109074123f500912abefbb8db3d4bad0c430633b5db610416a81a71d",
-      "review_fingerprint": "a1ddf3f0532d8e0fd1f63cc2bc295547008d2ea8c27e69e0d461f85b633b0e5d",
+      "review_fingerprint": "7a233d1bdc5a00d4d29c5336311119b18c04bdb6b847f351a919722ea8c30f09",
       "source_sha256": "ba415619b48215faf43f9bb925722fe5e45f27b1be1dd36c9f652c245a5fd7a6",
       "status": "reviewed",
-      "target": "내 생각엔 네가 Kim 걱정을 너무 많이 하는 것 같아.",
-      "target_sha256": "343f2fc341bb041394aba68eaea56c18cd629977a6954153657f688beea3a521"
+      "target": "내 생각엔 네가 킴 걱정을 너무 많이 하는 것 같아.",
+      "target_sha256": "4147a906d6b118daa4531231be26d5616d5a4b4169d1de403607bb14bc89031c"
     },
     {
       "dependencies": [],
@@ -370962,11 +370962,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/676/dialogueEntries/2/fields/6/value",
       "location_fingerprint": "c001e29859134c805cde9a3796d73f408769a196be921aec0f8aac9fd797b5ee",
-      "review_fingerprint": "c5b4617a1d5cf06a684a703d682c0a98405977946ea31fd7187ac03461f52707",
+      "review_fingerprint": "0a71db700193a3288865f4d0f914b81ac0dbd872d46f0dd1cf10be207c225a71",
       "source_sha256": "ed8e4d143e88e8d283e8d78bca6c0a0575763c0321db99a96520b37c261a0d53",
       "status": "reviewed",
-      "target": "Schwarz! 하루 종일 빈둥대기만 할 셈입니까?",
-      "target_sha256": "790f25444ff7a6edce6b414c8da5a65a2d5ef0bdbbfbe4277ddd92fc420475ac"
+      "target": "슈바르츠! 하루 종일 빈둥대기만 할 셈입니까?",
+      "target_sha256": "6954260d20aabafb82bf56a364f00f5e9cd747df04f03ed8c0f61e39d7502c3d"
     },
     {
       "dependencies": [],
@@ -370995,11 +370995,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/676/dialogueEntries/8/fields/6/value",
       "location_fingerprint": "e04f4d60d6bb791a3189bd16809ab5b1ca3142da908c7affa61bb4c5ef07c59f",
-      "review_fingerprint": "900a0c96e57eb5f36316e23938b21b8b3ced6b9a8278b8971c268c3c8bb23385",
+      "review_fingerprint": "1d108d83bf7c58551c0737b08345c96508e138a99c065cc461bcbf11ce103085",
       "source_sha256": "87655152391ff63ea16e1776546896e13694cddc53bea1602f85f557c45dff3d",
       "status": "reviewed",
-      "target": "Philipp Rückert와 얘기하십시오.",
-      "target_sha256": "e44fea566a35aa7ca7841c7fcde8d3ec5e3fb17fc35ce497fa709e1da0a19aa3"
+      "target": "필리프 뤼케르트와 얘기하십시오.",
+      "target_sha256": "b14ee19c338b3b22a99122af9cc23fe993f5cd6888e16901727ecb94a330d1ba"
     },
     {
       "dependencies": [],
@@ -371017,11 +371017,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/676/dialogueEntries/10/fields/6/value",
       "location_fingerprint": "4e821295f5109bc837152d6534d07a44a046ce908a9f44f78a5ec1c9cd33b7a9",
-      "review_fingerprint": "fc1ad93f1b97cc7c52363e48df8ac3f7d72c7fe2f9f2eb3d893ff361f046de42",
+      "review_fingerprint": "5b91625eb472107207a5458cb4bf3d2e86718c8fa07050b7909869fa33361b04",
       "source_sha256": "db322209a708982ebbb752178f3fe2bbb88181e5f0be6f113cecac4e157a5dfe",
       "status": "reviewed",
-      "target": "Philipp Rückert가 쓴 거요.",
-      "target_sha256": "10c0964f533a64f67db376ad2485f7ed8764c15ebd8ecb19b759f6bd2bd32bed"
+      "target": "필리프 뤼케르트가 쓴 거요.",
+      "target_sha256": "649dd5211c1daa26c0d9c7ca7515abef05eae1cc1a85330de2255919015ce1ef"
     },
     {
       "dependencies": [],
@@ -371116,11 +371116,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/676/dialogueEntries/22/fields/6/value",
       "location_fingerprint": "1e45eaccd89683c59822fbdf2e3a6fdb73e454b209cde8f70ad14793da22f16b",
-      "review_fingerprint": "4fa6dfc0f3fff7e7df19275d3aeb109e67f193e494fdc0a60dbe5c31c857e385",
+      "review_fingerprint": "3df751ecb62bc2f17e5cac8fc074f40e4c19b7b7be72099f61c9f0552a07c2ea",
       "source_sha256": "6059cf643e1dbd49db2fb37dbe01f8737b4e6e1167272e1dd3c328b6bdfaa594",
       "status": "reviewed",
-      "target": "Rückert가 그걸 당신에게 넘길 겁니다. 그런 다음 Armin Kreinert의 사무실에서 몰래 원본과 바꿔치기하십시오.",
-      "target_sha256": "bdee356804bc4ad933946de7975002868f91641095d9e0bbc0b82bbe63a73df8"
+      "target": "뤼케르트가 그걸 당신에게 넘길 겁니다. 그런 다음 아르민 크라이너트의 사무실에서 몰래 원본과 바꿔치기하십시오.",
+      "target_sha256": "c67bb591e0095860ec95d07ff51c5fcd45351e46b429b1f530aa26b88127a250"
     },
     {
       "dependencies": [],
@@ -380136,11 +380136,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/736/dialogueEntries/59/fields/6/value",
       "location_fingerprint": "0a323bafab2d0d2794f043e0a51977fae86c41807ed6fc3548bcadc1f6c64414",
-      "review_fingerprint": "8ce48aa7d689c7ad4c7e33982c420e9595323d3da161683eda18eb3151b73aa6",
+      "review_fingerprint": "5c54fd1645ca55eac3ee78694fce17479813fd6a9270775639d00a94e8a1515b",
       "source_sha256": "4ef639c1fe6d022aee0fe9bf69f765fcbff8a640c0a5cd98eab30ec682afecbc",
       "status": "reviewed",
-      "target": "Ernst Müller, 당신은... 아, 벌써 갔군요. 내 실수입니다. 그럼 ...은 어떻습니까?",
-      "target_sha256": "1213c94f5fa260c236087e496ac90bf39bce9ec397f8ca58854352062ff811a2"
+      "target": "에른스트 뮐러, 당신은... 아, 벌써 갔군요. 내 실수입니다. 그럼 ...은 어떻습니까?",
+      "target_sha256": "a56090ca626237c0ed5e147c4928385261730c90d92e184bf1a18b41fd904150"
     },
     {
       "dependencies": [],
@@ -380158,11 +380158,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/736/dialogueEntries/61/fields/6/value",
       "location_fingerprint": "a6b3d7b0a75bea0ca94d83e7f5aa0764a7b4508ad8cd8a0ef32306e61156433e",
-      "review_fingerprint": "2991c20a31d37be7adeac212e9bd54f38159eaa3404ebd6756dbca09331d7e44",
+      "review_fingerprint": "5f8808940e23fbffa0f86fcb343e1521c6e45f132b5955d455f66eb69fd66ee1",
       "source_sha256": "6b0b38a28f55ebe565ba5601dd6db462673e530f5717ab63d90ec96db087e614",
       "status": "reviewed",
-      "target": "Gunther Beislaus... 당신을 면직하겠습니다... 아, 벌써 갔군요. 그럼 ...은 어떨까요?",
-      "target_sha256": "1addcb9b6f62fbbe858232a5df160e7b2a8f05900174316ed22eba4464a70d0b"
+      "target": "군터 바이슬라우스... 당신을 면직하겠습니다... 아, 벌써 갔군요. 그럼 ...은 어떨까요?",
+      "target_sha256": "ac600fbc4459d834ec9a97f6928b7d5f5884168b3237e1cace36a1c5faa6d34b"
     },
     {
       "dependencies": [],
@@ -380224,22 +380224,22 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/736/dialogueEntries/67/fields/6/value",
       "location_fingerprint": "805a04ae888e63220240541949e895844d6851cc072b60ef5a6e303290c87af1",
-      "review_fingerprint": "13900609c0953832ae3ceb01340e102e1a963e7002eb7afdf60d490739312dc0",
+      "review_fingerprint": "da59b3b30fb38d60c1f4a6d9ddf023e26c661dc7405649081d2f06689685d35e",
       "source_sha256": "547eb583b8c479db62161fd7c0e2bc2aa9a2a3c2df23c639ed0af05b9a07d4aa",
       "status": "reviewed",
-      "target": "Meinhardt 씨, 당신은... 어라, 이제 안 계신가요? 그럼 ...은 어떠신가요?",
-      "target_sha256": "6da7e72f092ce3b1832dc081a4f6ad2aab0c8737430fc1091a1b6215740ecb8d"
+      "target": "마인하르트 씨, 당신은... 어라, 이제 안 계신가요? 그럼 ...은 어떠신가요?",
+      "target_sha256": "768997570ac26d7709d7698b4b8b41b5607d5bcbad9e5c510ef73670b4d1f8a3"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/736/dialogueEntries/68/fields/6/value",
       "location_fingerprint": "6f52161d4480e22d1abb15f3c376aa353f97c123410e1d41bc8ff8a1490e6423",
-      "review_fingerprint": "0acaaa375cab48bbd11a69f3ac4dac366cd43b4bc4c56cf1ca3aef74822098f0",
+      "review_fingerprint": "41afc7684a1f465ddb1f85389ca1ca24b2dba97d5a2d8a5895058d700035e7f5",
       "source_sha256": "1c600393672aba76a008a028997d0d078f2466bb00d4ccd8e59c4d94bd98e708",
       "status": "reviewed",
-      "target": "Fels 부인, 당신은 해고... 아, 더는 여기서 일하지 않으시나요? 그럼 ...은 어떨까요?",
-      "target_sha256": "de5803425518e3d9c2dbe3419ae07be4dec402e37680fbaa6ad5ca6a4ee7988d"
+      "target": "펠스 부인, 당신은 해고... 아, 더는 여기서 일하지 않으시나요? 그럼 ...은 어떨까요?",
+      "target_sha256": "f0d3506ddfd4ccc0501a760e525189f5abe57e335f0cb40fda9818354a7129cc"
     },
     {
       "dependencies": [],
@@ -380334,22 +380334,22 @@
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/737/dialogueEntries/21/fields/5/value",
       "location_fingerprint": "bbf2793f699fa868f6fe5cede8c49ec58a18c4ddba7347bfb4e4931df243ea08",
-      "review_fingerprint": "01bc17d60658dd62404335f494a39713ca7da2261724d2b5bdc9f21a6a80d447",
+      "review_fingerprint": "fd47fd7aac729b325eccffa0aaf7e01e6693cb8a72c2a7bc9c88521ab33a5046",
       "source_sha256": "2358014140d5c8792511fe5e719328a24b1a054cd6a741a89a8de44a0f2d86ab",
       "status": "reviewed",
-      "target": "Thomas Noller, 당신은 체포되었습니다!",
-      "target_sha256": "fa836f4f2f0e469356b05f24d0333fe633c5d49f6125a57bc9d290139da8d1f9"
+      "target": "토마스 놀러, 당신은 체포되었습니다!",
+      "target_sha256": "1a02093b096e17e38fefdd9b2dea600e40fd5e0a25a6123a84a8a61181cb06e9"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/737/dialogueEntries/22/fields/5/value",
       "location_fingerprint": "f563e367b395fd15fe54224a32057e314d19d4ddf7678f6e75f7af97942facba",
-      "review_fingerprint": "ddef9bd490b105716eebc971594f934334998a232d26351c029ca7b7e0fa79d2",
+      "review_fingerprint": "b8639b0a8fed30bb32350e0bbe6d7c337ecb962126d41d29cfe539618ee09db8",
       "source_sha256": "23476668071d6141df911187b43b92dc33c09a6ee34bc61acd12b2e440691b6b",
       "status": "reviewed",
-      "target": "Seelers 부인, 당신은 체포됐습니다!",
-      "target_sha256": "346edde19de6fcd0ce67a0bb3477a2fc10244ac8b862c7a41b55d8a623f68e99"
+      "target": "젤러스 부인, 당신은 체포됐습니다!",
+      "target_sha256": "8564bea4a977346f08d40e35de1c9c16f9b1eddd237920ecc110ae6b74ab79d7"
     },
     {
       "dependencies": [],
@@ -380367,11 +380367,11 @@
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/737/dialogueEntries/33/fields/5/value",
       "location_fingerprint": "4be4adfb93f315ff31d300f018e0f5fec0f12eec8bb36c054430dc17221cddec",
-      "review_fingerprint": "488eb730be52c04811ebfbd3332d76e3d4f3886add72f122ac14226a4768a90f",
+      "review_fingerprint": "bbb90cd63ee29201e6fb25035549938ee864776faaa40df19db0b11bdff1e038",
       "source_sha256": "3803d5ef3408a39bc8f3be0337073864d4bcd525ec036cca66eb581166062aac",
       "status": "reviewed",
-      "target": "Herr Rückert, 이제 끝입니다!",
-      "target_sha256": "59b3455c73f5f26540537a95a49cfb68d956267e9c5201ace5acfc705597ece5"
+      "target": "뤼케르트 씨, 이제 끝입니다!",
+      "target_sha256": "d816db70933e0653229f9941223f2b0c7e3cacbd23fb0f912ce000fa9ae609a6"
     },
     {
       "dependencies": [],
@@ -380389,11 +380389,11 @@
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/737/dialogueEntries/41/fields/5/value",
       "location_fingerprint": "613b0c1b45103f5f9ed7eeffce572a2739a8d6aee9de0da93c3a46c25f8f3f30",
-      "review_fingerprint": "d62403df5370361452c0712e23637d390fd5b525ae81b5c4a0ebc90fbd83845e",
+      "review_fingerprint": "1d3fbd08be9aefdef0cfb7f65c78f23806551a44c31ab07a38fe8b325d40fcf5",
       "source_sha256": "eba668b41433a6de15750b48e9249138a884fe96e0858bcc6e0d178310b74ecf",
       "status": "reviewed",
-      "target": "Herr Beislaus, 당신은 체포되었습니다!",
-      "target_sha256": "a30dd00974bc560258d9527f2182c2d7eb303fc2dba303f4799334ca2f3f3981"
+      "target": "바이슬라우스 씨, 당신은 체포되었습니다!",
+      "target_sha256": "64e2dcc766da486d4d9db4152d9ae23088f8f64c28094e2c4bd8c64e404e47dc"
     },
     {
       "dependencies": [],
@@ -380411,11 +380411,11 @@
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/737/dialogueEntries/49/fields/5/value",
       "location_fingerprint": "1d1f0a8c0931fac1b388ba1d0a782d32f9b341a78a86449e4a03525549b76ffb",
-      "review_fingerprint": "91b1b0e5107298975d1e9e8c0e59e5264c4839469fa0b1f5f692a2a2ccaa7cf3",
+      "review_fingerprint": "be840e6cd7a51f15de68108c4a5c625ed393db4b1cdb98d5db0afd7341217801",
       "source_sha256": "fa2ff3b4db154657a15fc032b6211a49bc7a436fbaacd778ccf4f167619bb566",
       "status": "reviewed",
-      "target": "Herr Müller는 어떨까요?",
-      "target_sha256": "3c1742974919e8af1e0f23b77a18f7d1781cd00b190018cb8bd4ae076573349c"
+      "target": "뮐러 씨는 어떨까요?",
+      "target_sha256": "8faf30bd1466b830e7603de3cdff76b13cf4335de77b027f8759d5a00c0b7af3"
     },
     {
       "dependencies": [],
@@ -380455,22 +380455,22 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/737/dialogueEntries/53/fields/6/value",
       "location_fingerprint": "e58193ff3beadd591469206a93663612feb317ee69cdbfe0fc51b71e570be183",
-      "review_fingerprint": "36c578f702be9da6e5a80df825f86f29647bba31c64b188b888a61387e555296",
+      "review_fingerprint": "c20f1422ed6da2a11f335f0a3e1deddec22838a81e1033b04d8f82187cfbf01e",
       "source_sha256": "4a395de2ed046193eaf1b058bbb4d161b1155cdb7692eecdd1b7f4f328ea8ba3",
       "status": "reviewed",
-      "target": "Herr Meinhardt, 당신은... 잠깐, 벌써 가고 없나? 그럼 다음은...",
-      "target_sha256": "32abd5a4d0ff107a7acb46000808ead102184a4243443c7ad9719b37afb42870"
+      "target": "마인하르트 씨, 당신은... 잠깐, 벌써 가고 없나? 그럼 다음은...",
+      "target_sha256": "fc07677ae9cfb5dfd3b3550573bfbf5500277bcfb90b037ea7bad79c8044b696"
     },
     {
       "dependencies": [],
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/737/dialogueEntries/54/fields/6/value",
       "location_fingerprint": "55fd7817375e2c828e5230fb073d239a94ef8c5026e4147eda0237fa3c680011",
-      "review_fingerprint": "9d62791e6cbadc73265d9c63b72f3c1aa98a0c767b921451369b144cc49b2b5b",
+      "review_fingerprint": "71b1cd01fd1f015423b8259770105280d3e291826912f77a84093dc2e63e558c",
       "source_sha256": "79a9e324b88abcc41703b4d78ace57ac276c2ee1e1b9b45081d1c8c1358d8207",
       "status": "reviewed",
-      "target": "Herr Noller, 당신을 체포합니다!... 아, 그는 이미 여기서 일하지 않는군요. 그럼 다음은...",
-      "target_sha256": "4e95e058c51ac5fc9047417c00631a2dbf111942d2d9a381f71fc4d318d139a2"
+      "target": "놀러 씨, 당신을 체포합니다!... 아, 그는 이미 여기서 일하지 않는군요. 그럼 다음은...",
+      "target_sha256": "5f053b47b6f27a3f522de5f63d2155ff494f4fabd13acd0003428eecd02fb497"
     },
     {
       "dependencies": [],
@@ -380488,11 +380488,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/737/dialogueEntries/56/fields/6/value",
       "location_fingerprint": "82a98ab0ca3626e8bf6e3d5881975f6ba91682227e29460a6e3c8feb6c58276b",
-      "review_fingerprint": "9f0b2fbb0eb19cb3df89b2d30439e24c45de20bbae6ad9d301aad633a2d01464",
+      "review_fingerprint": "738331a05a5f38bf5de2d50c81dac06afc36550fbc7c8a2c638757082946e496",
       "source_sha256": "f51ceeb9bcaaf7ce5884c7af26023783561984ad197139e0761b1b081e3904a3",
       "status": "reviewed",
-      "target": "아, Kreinert 씨는 벌써 떠났나요? 그럼 다음은...",
-      "target_sha256": "2c39c4ff4aa4c2b54dab024a98c1a5515f127f2210c2a7f900826e8b72751411"
+      "target": "아, 크라이너트 씨는 벌써 떠났나요? 그럼 다음은...",
+      "target_sha256": "9378604418c5b9a846c0c79e62324208af179d01d5914b1efa21175e00575dd4"
     },
     {
       "dependencies": [],
@@ -380884,11 +380884,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/742/dialogueEntries/33/fields/6/value",
       "location_fingerprint": "cc42907c0630c99db02140238617a7695a968e3cfe83f8a0ea8c4a3c50486e8d",
-      "review_fingerprint": "a5d84f42eee479be7b58efc32ac857f24983fa9e5440efa2b631981e25043fb8",
+      "review_fingerprint": "2fc2556125b02b68fc554eacf67fe3e24d1e079b9859661dccc8b73f8cda768c",
       "source_sha256": "03013322038e6525363071592208c464ca006389a11e9ed4ad01864caa3adb2d",
       "status": "reviewed",
-      "target": "하! 그 Fels 말이야! 그건 당장 믿겠어!",
-      "target_sha256": "0ec6c28988e7dec7180464b986ad4682afa9ed982c0e8f5f70eef6cc796f6510"
+      "target": "하! 그 펠스 말이야! 그건 당장 믿겠어!",
+      "target_sha256": "51039e454d579836824c78d207e8790cbd971972f4d96dfa24c77c55a5cf163c"
     },
     {
       "dependencies": [],
@@ -381676,11 +381676,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/746/dialogueEntries/9/fields/6/value",
       "location_fingerprint": "6f4fe42f7d4d489ef59eb794cf4e8df94b049e466c83cf8a4bbbc36fcdd0eedd",
-      "review_fingerprint": "3e3121ce88f7854a93341b46ef0c85a27d0152ec9c5030afe630a3aae623f745",
+      "review_fingerprint": "a75c28cf5b9cc4bd0e4505ce7592ad86f8866b2fdb009afe4e5c34d6abe1335d",
       "source_sha256": "c07e11215680e3d6dcd1d9403f389ac48d6fe65bb1c08c5235936263877e1a08",
       "status": "reviewed",
-      "target": "저… 그게… Alexander는 꼭 대학에 가고 싶어 합니다.",
-      "target_sha256": "1ad5d678fd66ac8d4b0c4ee479dbee363542bde235d9085c2a47ffc5288f29c6"
+      "target": "저… 그게… 알렉산더는 꼭 대학에 가고 싶어 합니다.",
+      "target_sha256": "06de2299552a4dffec21572a79f1892ae2728892941b950abb19605399bc7589"
     },
     {
       "dependencies": [],
@@ -382347,11 +382347,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/750/dialogueEntries/23/fields/6/value",
       "location_fingerprint": "01d2732f7d36974121e30e46e1ea8ffc221bd3e55e455cab37ebd3e14f3795ce",
-      "review_fingerprint": "1cab1b7105c242e86e8eaaade944d2bd7ac3d8136679fb633728db0584bfadc9",
+      "review_fingerprint": "95a568e6674264986794dd430571cb2149b8efdd050b17e41e85753551bc1b71",
       "source_sha256": "65e3e61e7818ccbbf595147eb6d90490534f982b8f6980dbe89d65d233e831c7",
       "status": "reviewed",
-      "target": "그럴 줄 알았어요, 아버지. Kim 일이 아니면 아버진 아무것도 신경 안 쓰시잖아요.",
-      "target_sha256": "ae4d986815209427182f24d511e86d70579de0ebaa06a74875391b374a7853a2"
+      "target": "그럴 줄 알았어요, 아버지. 킴 일이 아니면 아버진 아무것도 신경 안 쓰시잖아요.",
+      "target_sha256": "56ef4a5b748162ca65bdac586eed83c2269bb5abdc60d5afb7fb2bac679b48c1"
     },
     {
       "dependencies": [],
@@ -382699,11 +382699,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/750/dialogueEntries/85/fields/6/value",
       "location_fingerprint": "72db18013d8594a56129e2488ab77eb141f0857e1b4015f21f1590310e4e9077",
-      "review_fingerprint": "478d0deacf4379b94a67f4c0079400e0a72aaa0383ca2e2be45a5d16eab3773a",
+      "review_fingerprint": "da6cd20c05353c43660b537a22088765f8fb25397d65ff24943b8a39e3e4058f",
       "source_sha256": "dcc98cd14d2ca186ebc4f43b67fa311ac66dcb6fa4cc4bcd908590da24a035de",
       "status": "reviewed",
-      "target": "아버지가 해고된 일도 그렇고… Kim은 항상 다루기 힘들고…",
-      "target_sha256": "b5d6f9e0263013cf8afb533d38100988d38461f5582a1cc2df4efbeb81200066"
+      "target": "아버지가 해고된 일도 그렇고… 킴은 항상 다루기 힘들고…",
+      "target_sha256": "054342e018bbe77b9093698483d2a34e0a9048b64d7ae7601a71c8636d75ca54"
     },
     {
       "dependencies": [],
@@ -382721,11 +382721,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/750/dialogueEntries/87/fields/6/value",
       "location_fingerprint": "5314a92ae43d792efe09b70c2e674dbb664d6de1951766319d35a8af92d8f88c",
-      "review_fingerprint": "809a7ea82c1a3fee792119d7ec42093fa1cb77f3dfb92e3702b6a84e768a6960",
+      "review_fingerprint": "3e09bfea08324c9697435114eaf9c6832114de7152c77ba6b341cdf2fdc69895",
       "source_sha256": "ede0dd82c1fe6f1cb79c171529755a4a7cd57cdbf31b40d31ad07bc7653905c5",
       "status": "reviewed",
-      "target": "물론이지, 애초에 Kim 얘기가 아니잖아.",
-      "target_sha256": "4771c9447949348b0f5bfc847919bb0b539074b246e659251f2f70281f3014d6"
+      "target": "물론이지, 애초에 킴 얘기가 아니잖아.",
+      "target_sha256": "5639455e0abe3e32af0a2ce580092f3b8eb5f4d6514c743ac5893668aab8abb5"
     },
     {
       "dependencies": [],
@@ -382809,11 +382809,11 @@
       "dependency_fingerprint": "9e674637c29c7cdf68282b1ade31a995fa2b05bdaec248db0bcc856d60b8a3d1",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/751/dialogueEntries/5/fields/5/value",
       "location_fingerprint": "f407e04ed8dfcb75b2bdbfa44006e23ceab2d05bca1d9d5bf73de30018c31651",
-      "review_fingerprint": "4d4b7f066f14f26391d38791bfc9b5add6b57591bd9bf1684b381d52c3ddbf82",
+      "review_fingerprint": "0fd7b3156a70841124a7e20d4f35b930603273a130912f06933071e43006de7f",
       "source_sha256": "ba3ee6f7047468484d6d84ad295517a2aea77bdf070d44fe51ca26c6296f9968",
       "status": "reviewed",
-      "target": "Kreinert의 근무 시간",
-      "target_sha256": "701a181422ba8783b55bbb033ff7444e16e6d7fa2166acadc1402d063219cac9"
+      "target": "크라이너트의 근무 시간",
+      "target_sha256": "c9fceda5401afca423a3cf412d9a0bb1c5318d2e584b4c7cec97609df3d4e193"
     },
     {
       "dependencies": [],
@@ -384624,11 +384624,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/764/dialogueEntries/4/fields/6/value",
       "location_fingerprint": "acf7501cd1e5737636387f557cea65d324347b9fbaf871452f703b7b8acd9da4",
-      "review_fingerprint": "c43449fa4bf90b35f48707f748bf47244f9b771624d8a336661b84a7ae2d764c",
+      "review_fingerprint": "0be545e3bf134a0c864de95c57f57d346ae257561cfbaefe501478c04ef48e90",
       "source_sha256": "849c2e418acbf2c02916e92c894789b0e3b4a623a68476864a024f73d78b3ea2",
       "status": "reviewed",
-      "target": "Frank! 반가워요!",
-      "target_sha256": "c2e53371da947e77da726b5af4e1202a47097d05f339bced7689b85a9777aef9"
+      "target": "프랭크! 반가워요!",
+      "target_sha256": "ae9fc900510fd3de9370bad5a741279631300aa97873051c0d7dda95d6b367a6"
     },
     {
       "dependencies": [],
@@ -384668,11 +384668,11 @@
       "dependency_fingerprint": "6e6d22c9956fc593ce6f14ae2d0eacf8366edbf960c13586db06dbebe42b2b08",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/764/dialogueEntries/8/fields/6/value",
       "location_fingerprint": "5665e276ce50973c11422bb6c25f5bdbb1906e22b3ba73b6f178cd6169949b2b",
-      "review_fingerprint": "d5c3da6c0976b851a28f343b7d486b46f3d51fe89ce6f72bca46fd294193125b",
+      "review_fingerprint": "7428443b98fdea8599e688532e4f3b39f10bdf08cdca9c78f320a52c25dbf25d",
       "source_sha256": "096656f1fb5b3f82bd1eb3de590cecf008f11c47a638a3f16e33210270fd7b36",
       "status": "reviewed",
-      "target": "아니에요, Frank. 우리 위대한 조국을 위해 무엇이 <i>옳은지</i>가 중요하죠. <br/>",
-      "target_sha256": "5e4daee169843a5f05dce8f2c3d9705087c4245528e0153cad710049d24461ed"
+      "target": "아니에요, 프랭크. 우리 위대한 조국을 위해 무엇이 <i>옳은지</i>가 중요하죠. <br/>",
+      "target_sha256": "2bf689250a7b595bd85d12574c2c7140657242d019577b1115a74929b72b0d69"
     },
     {
       "dependencies": [],
@@ -384690,11 +384690,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/764/dialogueEntries/10/fields/6/value",
       "location_fingerprint": "46d08a96964d35fccbe65d0669634b360d0c900466fc2c82c893f1f9a7a6193f",
-      "review_fingerprint": "18e19503d7447079a926a9ab015efdec79aaabcf76798fd6f5139a96eb91cdd6",
+      "review_fingerprint": "9ece020aa0f0b73d30ba11cc804a51e7b068e84b51b1204ec3fcbffa3619b827",
       "source_sha256": "12a7fb9282cf67b3abf22601e8da84319164f74bc425ec999e3f64beed143c77",
       "status": "reviewed",
-      "target": "그럼 됐어요, Frank. 포스터는 정기적으로 새로 붙여야 해요. Frank, 그렇게 해 주시겠어요?",
-      "target_sha256": "1597a6bdecabfbdc16d4f45c12dc6e5a8499e4f33207702b31bf0bd44c697c1b"
+      "target": "그럼 됐어요, 프랭크. 포스터는 정기적으로 새로 붙여야 해요. 프랭크, 그렇게 해 주시겠어요?",
+      "target_sha256": "c5107977bd5163f69eddda8cb26dca2ca85f96989e591c6aee90bbd1365b1568"
     },
     {
       "dependencies": [],
@@ -384712,11 +384712,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/764/dialogueEntries/12/fields/6/value",
       "location_fingerprint": "53f4de01d172b139c746b0fb2a272444393091b836185f84a82c5b53f038353d",
-      "review_fingerprint": "9bb7ee92d602ccb107dfd923fc46cccccea698c3fe0129fa83eda3eb64d4bd1a",
+      "review_fingerprint": "0e989f02efd795ee9d49d1feca0f87ce7b9860e6ab1057df6af441ce684f99f8",
       "source_sha256": "c2d5ec1b5137fc09ab953d2c887945c0cca26f1acad137338172d191f56cb15b",
       "status": "reviewed",
-      "target": "잘됐어요, Frank! 정말 잘됐어요! 또 연락할게요!",
-      "target_sha256": "33539e0665f4aeeccfc1f89abc1d263d94ac7a37f05973f707bd265436dc9a7a"
+      "target": "잘됐어요, 프랭크! 정말 잘됐어요! 또 연락할게요!",
+      "target_sha256": "b98daa1cea52a3516516b1ea5beb974173238d49505e5e47079a0695f400be0a"
     },
     {
       "dependencies": [],
@@ -384734,11 +384734,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/766/dialogueEntries/2/fields/6/value",
       "location_fingerprint": "390aed80debae9a0521bbac89826b0ac360cd8015f6dee433692105194221810",
-      "review_fingerprint": "75b920cc34b8d691bd8c9877fed1566cd8cc63bc459a4a2688c0492f722cb7dc",
+      "review_fingerprint": "6f9a2a090212af8340de2971715e1923bb6e71348187ac63001c7a93a945d701",
       "source_sha256": "93bd58fce201a3d43759a5b5e31134be1d9dfb19afbf7567ce0f7cc9666ec3f5",
       "status": "reviewed",
-      "target": "간단히: Stephen에게 전화해 Karsten에 관해 알아낸 내용을 보고해.",
-      "target_sha256": "6ce48777a9de148bd7c672b35bda58de0215b9b4a5c46cab288b223905c1c797"
+      "target": "간단히: 스티븐에게 전화해 카르스텐에 관해 알아낸 내용을 보고해.",
+      "target_sha256": "0e271b10d3cf7bb561068c431da1da96154bb7ccc86044cdcb1557bfabd6e388"
     },
     {
       "dependencies": [],
@@ -384756,11 +384756,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/767/dialogueEntries/2/fields/6/value",
       "location_fingerprint": "43a1d46e3352b68f3cab68f9fffe38aa2a877637f13727415d544eb438f517b5",
-      "review_fingerprint": "2a90b829dcce186c7f4f64b02c1f6055af190bee9ebdd84c6747d9e81ed6fa7a",
+      "review_fingerprint": "670a006047469dc9eb3b2339764991fcc164cec2bcfcf5955d46bacfedb67b8e",
       "source_sha256": "e63a2119905fb92adc26a566be473072b825475291bfcbce7e44f062c5651def",
       "status": "reviewed",
-      "target": "간단히: Stephen이 Frank에게 전화해 승진을 축하하고, Frank의 옛 사무실로 온 동료를 맡게 됐다고 알린다.",
-      "target_sha256": "019fbc86fccad2156949a4cef399d0ef4ccecf237ee9ce4e2528f85162b2cd7d"
+      "target": "간단히: 스티븐이 프랭크에게 전화해 승진을 축하하고, 프랭크의 옛 사무실로 온 동료를 맡게 됐다고 알린다.",
+      "target_sha256": "bd36b5cff6d4c8c78ed8af66fdef55b99ecc30b1e524076bc41213383752b3a8"
     },
     {
       "dependencies": [],
@@ -384778,11 +384778,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/767/dialogueEntries/5/fields/6/value",
       "location_fingerprint": "fa04ab8bcd7d6d3320c0c6dcf372a7c0a471d3c20f20e8efc094d8bf8d8b9f76",
-      "review_fingerprint": "f081f605fb5d5f67001296363e9e9e06cb06310afc748f2ead66736dbac6355e",
+      "review_fingerprint": "e74aea7b2f7039ec9ab989eb01b31c96d15d0836e666f405df826948161a8be8",
       "source_sha256": "3f6692f874b0a30ba623ee9659659f6505f72eac03122de8f230b40cac888b2a",
       "status": "reviewed",
-      "target": "Frank는 II부서의 Karsten Singer에게 업무를 인수인계하고, 그러면서 그가 어떤 사람인지 알아봐야 한다.",
-      "target_sha256": "166ed0dbd0fd6678756c8c1175f3c402ef64862af7715b990bf7922c2eb0e817"
+      "target": "프랭크는 II부서의 카르스텐 징어에게 업무를 인수인계하고, 그러면서 그가 어떤 사람인지 알아봐야 한다.",
+      "target_sha256": "fff41514855d574603a2b355557a8835e156d157ef659be94a3e2ea8a2828f18"
     },
     {
       "dependencies": [],
@@ -384800,11 +384800,11 @@
       "dependency_fingerprint": "77de4fb4ab693ad4acd4555219ffb18763f64c9ca51b5110ec649afa3f9f3f19",
       "id": "unity:literal:URP/Beholder3_Data/resources.assets:resources.assets:1159:/conversations/769/dialogueEntries/3/fields/6/value",
       "location_fingerprint": "3954bcb4beb3fd67f142384a6c8d7b81f443073f8196864a98a51c731d94b020",
-      "review_fingerprint": "7908b02029e7e318b829a9cfa1f431b456798bcb7e40d6fd8a60d1946725ca84",
+      "review_fingerprint": "8750a95f12ad5e8806da676fedf314cc966d72d4afccfd1019d40c6078fdfa9d",
       "source_sha256": "1fc82f9ce290c4a1dc15a8be4108468e9b1e3b5f6a7d5be05f8a24204cd9d5a8",
       "status": "reviewed",
-      "target": "Schwarz 씨, 당신 건물 주민들이 세탁기가 고장 났다고 항의했어요!",
-      "target_sha256": "690e3f1ad811cfdf55b75f0b4464f944563b675a00049287075a8329acbd0947"
+      "target": "슈바르츠 씨, 당신 건물 주민들이 세탁기가 고장 났다고 항의했어요!",
+      "target_sha256": "724b612cb4fcddc869294c1be5c234861a3fc1ffb17de3e258db1fe8c0423def"
     },
     {
       "dependencies": [],
@@ -393245,12 +393245,12 @@
     "verified": false
   },
   "patch_id": "paintbucket-ko",
-  "release_id": "r1",
+  "release_id": "r3",
   "schema": "parr0t.release-checkpoint/v1",
   "sdk": {
     "adapter_fingerprint": "76314b19d5475e290986265c5cb481b51362a77c9d02f4c8d84428b722d247a4",
     "branch": "sdk-unity-2021.1",
-    "commit": "63c1be3cf2288eacbd3deeaf486d1e7d6c42e2ca"
+    "commit": "2826c6624cb52dff6d20050838d753d00a3e2dd6"
   },
   "source_inventory": {
     "fingerprint": "8d8086105ee2779e59c860594d38248c2f0d31fbfd5d0e34d158a1e33792248c",

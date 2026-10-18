@@ -164,7 +164,7 @@ def main():
     recipe=json.loads(args.recipe.read_text(encoding='utf-8'))
     raw=args.checkpoint.read_bytes()
     checkpoint=validate_release_checkpoint(json.loads(raw),expected_patch_id=recipe['patch_id'],expected_release_id=recipe['release_id'])
-    if digest(raw)!=recipe['checkpoint_sha256'] or canonical_checkpoint_bytes(checkpoint)!=raw:
+    if digest(raw)!=recipe['checkpoint_sha256'] or canonical_checkpoint_bytes(args.checkpoint)[1]!=raw:
         raise ValueError('canonical_checkpoint_mismatch')
     if checkpoint['sdk']['commit']!=recipe['sdk_commit'] or any(e['status']!='reviewed' for e in checkpoint['entries']):
         raise ValueError('checkpoint_sdk_or_review_mismatch')

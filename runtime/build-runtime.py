@@ -65,6 +65,19 @@ def materialize(checkpoint, binding, audit):
     return output
 
 
+
+def report_values(checkpoint, variant):
+    binding = read(HERE / "report-name-bindings.json")
+    guard = next(row for row in binding["variants"] if row["variant"] == variant)
+    entries = {row["id"]: row for row in checkpoint["entries"]}
+    rows = []
+    for row in binding["bindings"]:
+        entry = entries[row["id"]]
+        assert entry["source_sha256"] == row["source_sha256"] and entry["status"] == "reviewed"
+        rows.append("{" + json.dumps(row["key"]) + ",new ReportNameValue(" + json.dumps(row["source_sha256"]) + "," + json.dumps(entry["target"], ensure_ascii=True) + ")}")
+    return ('namespace Parr0t.PrivateManagedLiterals {internal static class ReportNameValues {internal const string AssemblyName="' + guard["assembly_name"] + '";internal const int MethodToken=' + str(guard["method_token"]) + ';internal const string MethodHash="' + guard["method_sha256"] + '";internal static readonly System.Collections.Generic.Dictionary<string,ReportNameValue> Names=new System.Collections.Generic.Dictionary<string,ReportNameValue>{' + ','.join(rows) + '};}}')
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--checkpoint", type=pathlib.Path, required=True)
@@ -101,6 +114,9 @@ def main():
             relative = pathlib.Path(variant) / "BepInEx/plugins/Parr0tKorean/managed-literals.bin"
             record = next(item for item in metadata["released_files"] if item["path"] == relative.as_posix())
             assert hashlib.sha256(data).hexdigest() == record["sha256"] and len(data) == record["bytes"]
+            report_source = report_values(checkpoint, variant)
+            report_record = next(row for row in metadata["generated_report_names"] if row["variant"] == variant)
+            assert hashlib.sha256(report_source.encode("utf-8")).hexdigest() == report_record["sha256"]
             if args.verify_existing:
                 assert (args.verify_existing / relative).read_bytes() == data
                 continue
@@ -112,9 +128,11 @@ def main():
             (destination / "required-characters.txt").write_text(hangul, encoding="utf-8")
             generated = destination / "PayloadBinding.cs"
             generated.write_text('namespace Parr0t.PrivateManagedLiterals { public static class PayloadBinding { public const string Digest="' + hashlib.sha256(data).hexdigest() + '"; } }\n', encoding="utf-8")
+            report_generated = destination / "ReportNameValues.cs"
+            report_generated.write_text(report_source, encoding="utf-8")
             reference_sets = next(item for item in metadata["variants"] if item["variant"] == variant)["references"]
             for kind, sources, name in [
-                ("managed", [HERE / "ManagedLiteralPlugin.cs", generated], "Parr0t.Korean.ManagedLiterals.dll"),
+                ("managed", [HERE / "ManagedLiteralPlugin.cs", generated, HERE / "ReportNameSupport.cs", report_generated], "Parr0t.Korean.ManagedLiterals.dll"),
                 ("font", [HERE / "FontPlugin.cs", HERE / "KoreanFontSupport.cs", HERE / "FontRendererHooks.cs"], "Parr0t.Korean.FontSupport.dll"),
             ]:
                 references = []

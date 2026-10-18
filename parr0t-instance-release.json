@@ -1,18 +1,18 @@
 {
   "asset": {
-    "bytes": 107856801,
     "format": "parr0t-steam-package/v4",
-    "manifest_sha256": "a16a552d2751d8df71ace2b6fadec56f2951352188f3177c994f58c45d415347",
-    "name": "Beholder3-Korean-v1.0.0-Windows-x64-SteamBuild16599828.zip",
-    "sha256": "41033581bf5abc7ccf47926ebc0118c322cdda41abe1b5eeda9b8775fcd3bc8c"
+    "name": "Beholder-3-Korean-r3.zip",
+    "bytes": 107870493,
+    "sha256": "cfa42833464fc03fd74c18f1283b252b2f73f43a126823c23cb9270265f851ce",
+    "manifest_sha256": "f5ca1601f1935cd20c7fd506d03380333a7996d00630a5868fc34e5bff2fcbcc"
   },
   "checkpoint": {
-    "bytes": 26636830,
+    "bytes": 26637543,
     "schema": "parr0t.release-checkpoint/v1",
-    "sha256": "5f11125624cc27916da41e0ee2342c8d8eae1495f0ad3234d19c53cd7353456f"
+    "sha256": "5cb8c770467d4adaa1f2bcf60e6fdf3afff0ea91ba1d43ee5c3a2aa3793931ba"
   },
   "commits": {
-    "sdk": "63c1be3cf2288eacbd3deeaf486d1e7d6c42e2ca",
+    "sdk": "2826c6624cb52dff6d20050838d753d00a3e2dd6",
     "translation_source": null
   },
   "display_name": "Beholder 3",
@@ -25,36 +25,41 @@
     "runtime/FontRendererHooks.cs",
     "runtime/KoreanFontSupport.cs",
     "runtime/ManagedLiteralPlugin.cs",
+    "runtime/ReportNameSupport.cs",
     "runtime/build-font-bundle.py",
     "runtime/build-runtime.py",
     "runtime/inspect-managed.ps1",
     "runtime/managed-callsite-bindings.json",
+    "runtime/report-name-bindings.json",
     "runtime/runtime-build-inputs.json",
     "runtime/third-party-runtime-inputs.json"
   ],
   "patch_id": "paintbucket-ko",
-  "patch_version": "v1.0.0",
+  "patch_version": "r3",
   "readme": {
     "base_commit": "ed3774466b26bf63f2a8663ecfe55415c1c115af",
     "mode": "append_only"
   },
-  "release_id": "r1",
-  "release_title": "Beholder 3 Patch v1.0.0 (Game Versions Steam Build 16599828 (HDRP), Steam Build 16599828 (URP))",
-  "schema": "parr0t.instance-release/v1",
+  "release_id": "r3",
+  "release_title": "Beholder 3-Korean-r3 (Game Builds Steam Build 16599828 (HDRP), Steam Build 16599828 (URP))",
+  "schema": "parr0t.instance-release/v2",
   "supported_game_builds": [
     {
+      "display_type": "build",
       "display_version": "Steam Build 16599828 (HDRP)",
       "id": "beholder3-steam-16599828-hdrp"
     },
     {
+      "display_type": "build",
       "display_version": "Steam Build 16599828 (URP)",
       "id": "beholder3-steam-16599828-urp"
     }
   ],
-  "tag": "v1.0.0",
+  "tag": "r3",
   "target": {
     "architecture": "x64",
     "os": "windows",
     "prerequisites": []
-  }
+  },
+  "language": "Korean"
 }

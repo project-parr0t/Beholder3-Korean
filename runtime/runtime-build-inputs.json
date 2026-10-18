@@ -1,9 +1,14 @@
 {
-  "schema": "beholder3.runtime-build-inputs/v1",
-  "candidate_header_sha256": "1377fbe3406d883b3d056e75f5fc52f7876675bdb0afc46e3999fc0fe251dc1b",
+  "binary_reproducibility_claimed": false,
+  "candidate_header_sha256": "5cb8c770467d4adaa1f2bcf60e6fdf3afff0ea91ba1d43ee5c3a2aa3793931ba",
+  "canonical_checkpoint": {
+    "bytes": 26637543,
+    "schema": "parr0t.release-checkpoint/v1",
+    "sha256": "5cb8c770467d4adaa1f2bcf60e6fdf3afff0ea91ba1d43ee5c3a2aa3793931ba"
+  },
   "compiler": {
-    "name": "Microsoft .NET Framework C# Compiler",
     "file_version": "4.8.9221.0",
+    "name": "Microsoft .NET Framework C# Compiler",
     "sha256": "46809206887326d2d24db1eff1f3064de972c3451abe766b49111450a5e08e00"
   },
   "compiler_flags": [
@@ -14,185 +19,11 @@
     "/optimize+"
   ],
   "deterministic_binary_compilation": false,
-  "binary_reproducibility_claimed": false,
-  "nondeterminism": "The original compiler invocations did not enable deterministic compilation; PE timestamps and module identifiers may differ when recompiling. Published DLLs are preserved exact original build outputs, bound below to their exact source and reference inputs.",
-  "source_sha256": {
-    "ManagedLiteralPlugin.cs": "8db975457844e280ef5fb9f7df759690573aec314b5a678807347c7d76440a43",
-    "FontPlugin.cs": "69bfde4b646c8ea9cc266e1f853c773b33a5e643b81cfa124896eba6706d14db",
-    "KoreanFontSupport.cs": "70fbe1fecd4ce8368dea95ed24eb070e555607466b54eac4cf57f52d4765974a",
-    "FontRendererHooks.cs": "eb2ae1cb1963697b2b714645d88f0c335cd5d1d685c7f88e1eece7c5ef1f48e9"
-  },
-  "variants": [
-    {
-      "variant": "HDRP",
-      "references": {
-        "managed": {
-          "mscorlib.dll": "a3118a7db8073014a66cda8076882473e21dc7aed711dd3efc8ad193bb6b9a0b",
-          "System.dll": "a70ac3fb25b50dcceb957b7ba3fbc2b95c908cd3bcbb2749376ed31b23d78639",
-          "System.Core.dll": "d982f54622edc2ed4637fe547b70907f589a2ae4de4b6d604c54ee35f97dca03",
-          "netstandard.dll": "fada723de68eca78dc6e4279ebf1c886810dcd7b4a970290cb7ac068ef04b766",
-          "UnityEngine.dll": "0f81b2b3cbaa75f0a571623324343cef9d80d971909a3a0603da9d3b61efb786",
-          "UnityEngine.CoreModule.dll": "15ba86c85cf6e79cbb65616982c3a686753c7f6c882357b10022904ec4426a7d",
-          "BepInEx.dll": "8255b28902886085c578b9e427d3073c97002db85176d2090cdeda90ef14ce70",
-          "0Harmony.dll": "1a21cc03424fc82c3dd1346905d16494536b9595ae4162228d99fb7c285c1031"
-        },
-        "font": {
-          "mscorlib.dll": "a3118a7db8073014a66cda8076882473e21dc7aed711dd3efc8ad193bb6b9a0b",
-          "System.dll": "a70ac3fb25b50dcceb957b7ba3fbc2b95c908cd3bcbb2749376ed31b23d78639",
-          "System.Core.dll": "d982f54622edc2ed4637fe547b70907f589a2ae4de4b6d604c54ee35f97dca03",
-          "netstandard.dll": "fada723de68eca78dc6e4279ebf1c886810dcd7b4a970290cb7ac068ef04b766",
-          "UnityEngine.dll": "0f81b2b3cbaa75f0a571623324343cef9d80d971909a3a0603da9d3b61efb786",
-          "UnityEngine.CoreModule.dll": "15ba86c85cf6e79cbb65616982c3a686753c7f6c882357b10022904ec4426a7d",
-          "UnityEngine.AssetBundleModule.dll": "7442151c4de94068f9da9b68d054f84a826d1eb06cb4ec32e7816a2775d5be88",
-          "UnityEngine.TextRenderingModule.dll": "e613fdce097f3215750492d0054e45e053e3401830b4a6fe04f0ef18a1b1f053",
-          "UnityEngine.TextCoreModule.dll": "199a6b02e95df3b8e09ad0d050fd09b8f69bb81ef70046747411bfc5aa1d8094",
-          "Unity.TextMeshPro.dll": "ef6ca0a1920704de7d26e86bd1f24ebd29762f0baa0e65d266d7f3b2cc4917a9",
-          "UnityEngine.UI.dll": "5be51adca92ecc9c0e3cd039140cd589746bab509405d97c69225e210a2aaedf",
-          "BepInEx.dll": "8255b28902886085c578b9e427d3073c97002db85176d2090cdeda90ef14ce70",
-          "0Harmony.dll": "1a21cc03424fc82c3dd1346905d16494536b9595ae4162228d99fb7c285c1031"
-        }
-      }
-    },
-    {
-      "variant": "URP",
-      "references": {
-        "managed": {
-          "mscorlib.dll": "a3118a7db8073014a66cda8076882473e21dc7aed711dd3efc8ad193bb6b9a0b",
-          "System.dll": "a70ac3fb25b50dcceb957b7ba3fbc2b95c908cd3bcbb2749376ed31b23d78639",
-          "System.Core.dll": "d982f54622edc2ed4637fe547b70907f589a2ae4de4b6d604c54ee35f97dca03",
-          "netstandard.dll": "fada723de68eca78dc6e4279ebf1c886810dcd7b4a970290cb7ac068ef04b766",
-          "UnityEngine.dll": "0f81b2b3cbaa75f0a571623324343cef9d80d971909a3a0603da9d3b61efb786",
-          "UnityEngine.CoreModule.dll": "15ba86c85cf6e79cbb65616982c3a686753c7f6c882357b10022904ec4426a7d",
-          "BepInEx.dll": "8255b28902886085c578b9e427d3073c97002db85176d2090cdeda90ef14ce70",
-          "0Harmony.dll": "1a21cc03424fc82c3dd1346905d16494536b9595ae4162228d99fb7c285c1031"
-        },
-        "font": {
-          "mscorlib.dll": "a3118a7db8073014a66cda8076882473e21dc7aed711dd3efc8ad193bb6b9a0b",
-          "System.dll": "a70ac3fb25b50dcceb957b7ba3fbc2b95c908cd3bcbb2749376ed31b23d78639",
-          "System.Core.dll": "d982f54622edc2ed4637fe547b70907f589a2ae4de4b6d604c54ee35f97dca03",
-          "netstandard.dll": "fada723de68eca78dc6e4279ebf1c886810dcd7b4a970290cb7ac068ef04b766",
-          "UnityEngine.dll": "0f81b2b3cbaa75f0a571623324343cef9d80d971909a3a0603da9d3b61efb786",
-          "UnityEngine.CoreModule.dll": "15ba86c85cf6e79cbb65616982c3a686753c7f6c882357b10022904ec4426a7d",
-          "UnityEngine.AssetBundleModule.dll": "7442151c4de94068f9da9b68d054f84a826d1eb06cb4ec32e7816a2775d5be88",
-          "UnityEngine.TextRenderingModule.dll": "e613fdce097f3215750492d0054e45e053e3401830b4a6fe04f0ef18a1b1f053",
-          "UnityEngine.TextCoreModule.dll": "199a6b02e95df3b8e09ad0d050fd09b8f69bb81ef70046747411bfc5aa1d8094",
-          "Unity.TextMeshPro.dll": "ef6ca0a1920704de7d26e86bd1f24ebd29762f0baa0e65d266d7f3b2cc4917a9",
-          "UnityEngine.UI.dll": "5be51adca92ecc9c0e3cd039140cd589746bab509405d97c69225e210a2aaedf",
-          "BepInEx.dll": "8255b28902886085c578b9e427d3073c97002db85176d2090cdeda90ef14ce70",
-          "0Harmony.dll": "1a21cc03424fc82c3dd1346905d16494536b9595ae4162228d99fb7c285c1031"
-        }
-      }
-    }
-  ],
-  "released_files": [
-    {
-      "path": "HDRP/BepInEx/plugins/Parr0tKorean/Parr0t.Korean.ManagedLiterals.dll",
-      "sha256": "476b3aaf8ca14239d411f0d4631f0b1ef808f7c88dbea2303f141b268f6e0c46",
-      "bytes": 11264
-    },
-    {
-      "path": "HDRP/BepInEx/plugins/Parr0tKorean/managed-literals.bin",
-      "sha256": "1dcd61764f2b4acdabc5f661e30fa7be2e947c2d72ef02717a5a92069e285e4b",
-      "bytes": 20367
-    },
-    {
-      "path": "URP/BepInEx/plugins/Parr0tKorean/Parr0t.Korean.ManagedLiterals.dll",
-      "sha256": "1bc23bf266d96fde5e849a8f8afae8849fd995c7ff420703604e0ceec593838b",
-      "bytes": 11264
-    },
-    {
-      "path": "URP/BepInEx/plugins/Parr0tKorean/managed-literals.bin",
-      "sha256": "5c2e248c78dacd19101816f2c8e2f20b889070ebf260489aea0c03e9de2a1a62",
-      "bytes": 20399
-    },
-    {
-      "path": "HDRP/BepInEx/plugins/Parr0tKoreanFontSupport/Parr0t.Korean.FontSupport.dll",
-      "sha256": "ed6f7a4606dd976ba5c9cc5d112bbfe723e802572f20ef62414231eb69764a92",
-      "bytes": 8192
-    },
-    {
-      "path": "HDRP/BepInEx/plugins/Parr0tKoreanFontSupport/korean-font.bundle",
-      "sha256": "b41f7f7b51d66e07f7b8f183d073031ec216b803e1ed77774d67a4e0f8c77854",
-      "bytes": 14769624
-    },
-    {
-      "path": "HDRP/BepInEx/plugins/Parr0tKoreanFontSupport/required-characters.txt",
-      "sha256": "6c202d84667a051758095968d6faf737d3f4f420e5ca9f6e9404e6b38d865acd",
-      "bytes": 3654
-    },
-    {
-      "path": "HDRP/BepInEx/plugins/Parr0tKoreanFontSupport/font-NOTICE.txt",
-      "sha256": "0019228fef660b3b271d46d50346507ab18ad4d50e767da0f0d2b47feeb5671b",
-      "bytes": 337
-    },
-    {
-      "path": "HDRP/BepInEx/plugins/Parr0tKoreanFontSupport/OFL.txt",
-      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
-      "bytes": 4301
-    },
-    {
-      "path": "URP/BepInEx/plugins/Parr0tKoreanFontSupport/Parr0t.Korean.FontSupport.dll",
-      "sha256": "ad79efa57027b5d8f3fa3a42a2416187687742bb9bd2c96db119037ebfed40a1",
-      "bytes": 8192
-    },
-    {
-      "path": "URP/BepInEx/plugins/Parr0tKoreanFontSupport/korean-font.bundle",
-      "sha256": "b41f7f7b51d66e07f7b8f183d073031ec216b803e1ed77774d67a4e0f8c77854",
-      "bytes": 14769624
-    },
-    {
-      "path": "URP/BepInEx/plugins/Parr0tKoreanFontSupport/required-characters.txt",
-      "sha256": "6c202d84667a051758095968d6faf737d3f4f420e5ca9f6e9404e6b38d865acd",
-      "bytes": 3654
-    },
-    {
-      "path": "URP/BepInEx/plugins/Parr0tKoreanFontSupport/font-NOTICE.txt",
-      "sha256": "0019228fef660b3b271d46d50346507ab18ad4d50e767da0f0d2b47feeb5671b",
-      "bytes": 337
-    },
-    {
-      "path": "URP/BepInEx/plugins/Parr0tKoreanFontSupport/OFL.txt",
-      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
-      "bytes": 4301
-    }
-  ],
-  "font_bundle": {
-    "source_font": {
-      "name": "Noto Sans CJK KR Regular",
-      "version": "2.004",
-      "sha256": "6bcb2a0703aa137e874fc2dffa85f6c21ba9a67fa329e81b8c801663af7e992a"
-    },
-    "parser_version": "1.23.0",
-    "lz4_version": "4.4.5",
-    "template_inputs": [
-      {
-        "argument": "font_template",
-        "relative_game_path": "HDRP/Beholder3_Data/sharedassets0.assets",
-        "sha256": "ccc681931bb51cd70a5d1b3676319c253d967a4a102efc4d6c307facd89633c2"
-      },
-      {
-        "argument": "bundle_template",
-        "relative_game_path": "HDRP/Beholder3_Data/StreamingAssets/aa/StandaloneWindows64/localization-stringtables_assets_all.bundle",
-        "sha256": "9f2a284eb3f0237224b884883907fd021a9a51603acd5973fee556493b15017f"
-      }
-    ],
-    "result_sha256": "b41f7f7b51d66e07f7b8f183d073031ec216b803e1ed77774d67a4e0f8c77854",
-    "result_bytes": 14769624,
-    "proprietary_object_values_retained": false,
-    "objects": [
-      "AssetBundle",
-      "Font",
-      "Texture2D"
-    ],
-    "blank_atlas_bytes": 16384,
-    "native_type_tree_schemas_only": true
-  },
-  "font_notice_text_utf8": "Parr0t Korean font support embeds the unmodified Noto Sans CJK KR Regular font.\r\nSource: https://github.com/notofonts/noto-cjk/tree/Sans2.004\r\n\r\n\u00a9 2014-2021 Adobe (http://www.adobe.com/).\r\n\r\nLicensed under the SIL Open Font License, Version 1.1. See OFL.txt.\r\nThe font software is not sold separately. No system font is redistributed.\r\n",
   "first_party_file_attribution": [
     {
       "path": "HDRP/BepInEx/plugins/Parr0tKorean/Parr0t.Korean.ManagedLiterals.dll",
       "recipe": "build-runtime.py; exact compiler/reference/source inputs above; original published binary hash retained",
-      "result_sha256": "476b3aaf8ca14239d411f0d4631f0b1ef808f7c88dbea2303f141b268f6e0c46"
+      "result_sha256": "4fab64699dc636f00cc96e34bb5be7f0a9a2ece115c701b1ce000d0c9348496c"
     },
     {
       "path": "HDRP/BepInEx/plugins/Parr0tKorean/managed-literals.bin",
@@ -202,7 +33,7 @@
     {
       "path": "URP/BepInEx/plugins/Parr0tKorean/Parr0t.Korean.ManagedLiterals.dll",
       "recipe": "build-runtime.py; exact compiler/reference/source inputs above; original published binary hash retained",
-      "result_sha256": "1bc23bf266d96fde5e849a8f8afae8849fd995c7ff420703604e0ceec593838b"
+      "result_sha256": "56b9455f8cfe3931ba20f15ac86d3c56a5b363c1cf87eb5c3d9432c89e8e6031"
     },
     {
       "path": "URP/BepInEx/plugins/Parr0tKorean/managed-literals.bin",
@@ -260,96 +91,290 @@
       "result_sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
     }
   ],
-  "selected_public_sdk_commit": "63c1be3cf2288eacbd3deeaf486d1e7d6c42e2ca",
-  "canonical_checkpoint": {
-    "schema": "parr0t.release-checkpoint/v1",
-    "sha256": "5f11125624cc27916da41e0ee2342c8d8eae1495f0ad3234d19c53cd7353456f",
-    "bytes": 26636830
+  "font_bundle": {
+    "blank_atlas_bytes": 16384,
+    "lz4_version": "4.4.5",
+    "native_type_tree_schemas_only": true,
+    "objects": [
+      "AssetBundle",
+      "Font",
+      "Texture2D"
+    ],
+    "parser_version": "1.23.0",
+    "proprietary_object_values_retained": false,
+    "result_bytes": 14769624,
+    "result_sha256": "b41f7f7b51d66e07f7b8f183d073031ec216b803e1ed77774d67a4e0f8c77854",
+    "source_font": {
+      "name": "Noto Sans CJK KR Regular",
+      "sha256": "6bcb2a0703aa137e874fc2dffa85f6c21ba9a67fa329e81b8c801663af7e992a",
+      "version": "2.004"
+    },
+    "template_inputs": [
+      {
+        "argument": "font_template",
+        "relative_game_path": "HDRP/Beholder3_Data/sharedassets0.assets",
+        "sha256": "ccc681931bb51cd70a5d1b3676319c253d967a4a102efc4d6c307facd89633c2"
+      },
+      {
+        "argument": "bundle_template",
+        "relative_game_path": "HDRP/Beholder3_Data/StreamingAssets/aa/StandaloneWindows64/localization-stringtables_assets_all.bundle",
+        "sha256": "9f2a284eb3f0237224b884883907fd021a9a51603acd5973fee556493b15017f"
+      }
+    ]
+  },
+  "font_notice_text_utf8": "Parr0t Korean font support embeds the unmodified Noto Sans CJK KR Regular font.\r\nSource: https://github.com/notofonts/noto-cjk/tree/Sans2.004\r\n\r\n© 2014-2021 Adobe (http://www.adobe.com/).\r\n\r\nLicensed under the SIL Open Font License, Version 1.1. See OFL.txt.\r\nThe font software is not sold separately. No system font is redistributed.\r\n",
+  "generated_binding_inputs": [
+    {
+      "candidate_header_sha256": "5cb8c770467d4adaa1f2bcf60e6fdf3afff0ea91ba1d43ee5c3a2aa3793931ba",
+      "expected_mapping_sha256": "b272f964f192b4e1258b3cfec842905d71cec3a5397523170c96b6f9e6032966",
+      "payload_binding_source_sha256": "a6d445922386fc3db872250c01637c329e356a4741469d3c5354b60e26a9ebaf",
+      "variant": "HDRP"
+    },
+    {
+      "candidate_header_sha256": "5cb8c770467d4adaa1f2bcf60e6fdf3afff0ea91ba1d43ee5c3a2aa3793931ba",
+      "expected_mapping_sha256": "1e4b60f25722659361868c784a99e4f8ee4a8b69d4ab9bd82ca122e730629347",
+      "payload_binding_source_sha256": "942b61aec814f49fa3209501ac00deebeba0b6923fda77138e8287bda3687eb8",
+      "variant": "URP"
+    }
+  ],
+  "generated_report_names": [
+    {
+      "sha256": "5ee8a236eef6bd98a55340253f9894dff0f8c1579a27ff769b84f78909d205ee",
+      "targets": 62,
+      "variant": "HDRP"
+    },
+    {
+      "sha256": "a787c8ffe4aa1fbce658b6fb66426ac6e2b309ae7260ef72abb73297134b5f8d",
+      "targets": 62,
+      "variant": "URP"
+    }
+  ],
+  "historical_source_sha256": {
+    "FontPlugin.cs": "69bfde4b646c8ea9cc266e1f853c773b33a5e643b81cfa124896eba6706d14db",
+    "FontRendererHooks.cs": "eb2ae1cb1963697b2b714645d88f0c335cd5d1d685c7f88e1eece7c5ef1f48e9",
+    "KoreanFontSupport.cs": "70fbe1fecd4ce8368dea95ed24eb070e555607466b54eac4cf57f52d4765974a",
+    "ManagedLiteralPlugin.cs": "8db975457844e280ef5fb9f7df759690573aec314b5a678807347c7d76440a43"
   },
   "historical_working_outputs": [
     {
+      "bytes": 11264,
       "path": "HDRP/BepInEx/plugins/Parr0tKorean/Parr0t.Korean.ManagedLiterals.dll",
-      "sha256": "eeb17737906207148ac20b92fa81362e8fd64c61db60ca0261a57967bdd8ceef",
-      "bytes": 11264
+      "sha256": "eeb17737906207148ac20b92fa81362e8fd64c61db60ca0261a57967bdd8ceef"
     },
     {
+      "bytes": 20370,
       "path": "HDRP/BepInEx/plugins/Parr0tKorean/managed-literals.bin",
-      "sha256": "54d2673a4c7b3d92e216f7779cf4472cce40e437c870a29b3ed23019f2a1cec2",
-      "bytes": 20370
+      "sha256": "54d2673a4c7b3d92e216f7779cf4472cce40e437c870a29b3ed23019f2a1cec2"
     },
     {
+      "bytes": 11264,
       "path": "URP/BepInEx/plugins/Parr0tKorean/Parr0t.Korean.ManagedLiterals.dll",
-      "sha256": "bd52a9f1e3174880ed0af665d120e68964a098c81a08c4b216c11ea0ee54cf89",
-      "bytes": 11264
+      "sha256": "bd52a9f1e3174880ed0af665d120e68964a098c81a08c4b216c11ea0ee54cf89"
     },
     {
+      "bytes": 20399,
       "path": "URP/BepInEx/plugins/Parr0tKorean/managed-literals.bin",
-      "sha256": "fc0ba2488b0c91f6af16a37fc587398e2568bfd5c3b409a6a71cfddb9ed6ad1f",
-      "bytes": 20399
+      "sha256": "fc0ba2488b0c91f6af16a37fc587398e2568bfd5c3b409a6a71cfddb9ed6ad1f"
     },
     {
+      "bytes": 8192,
       "path": "HDRP/BepInEx/plugins/Parr0tKoreanFontSupport/Parr0t.Korean.FontSupport.dll",
-      "sha256": "ed6f7a4606dd976ba5c9cc5d112bbfe723e802572f20ef62414231eb69764a92",
-      "bytes": 8192
+      "sha256": "ed6f7a4606dd976ba5c9cc5d112bbfe723e802572f20ef62414231eb69764a92"
     },
     {
+      "bytes": 14769624,
       "path": "HDRP/BepInEx/plugins/Parr0tKoreanFontSupport/korean-font.bundle",
-      "sha256": "b41f7f7b51d66e07f7b8f183d073031ec216b803e1ed77774d67a4e0f8c77854",
-      "bytes": 14769624
+      "sha256": "b41f7f7b51d66e07f7b8f183d073031ec216b803e1ed77774d67a4e0f8c77854"
     },
     {
+      "bytes": 3654,
       "path": "HDRP/BepInEx/plugins/Parr0tKoreanFontSupport/required-characters.txt",
-      "sha256": "6c202d84667a051758095968d6faf737d3f4f420e5ca9f6e9404e6b38d865acd",
-      "bytes": 3654
+      "sha256": "6c202d84667a051758095968d6faf737d3f4f420e5ca9f6e9404e6b38d865acd"
     },
     {
+      "bytes": 337,
       "path": "HDRP/BepInEx/plugins/Parr0tKoreanFontSupport/font-NOTICE.txt",
-      "sha256": "0019228fef660b3b271d46d50346507ab18ad4d50e767da0f0d2b47feeb5671b",
-      "bytes": 337
+      "sha256": "0019228fef660b3b271d46d50346507ab18ad4d50e767da0f0d2b47feeb5671b"
     },
     {
+      "bytes": 4301,
       "path": "HDRP/BepInEx/plugins/Parr0tKoreanFontSupport/OFL.txt",
-      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
-      "bytes": 4301
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
     },
     {
+      "bytes": 8192,
       "path": "URP/BepInEx/plugins/Parr0tKoreanFontSupport/Parr0t.Korean.FontSupport.dll",
-      "sha256": "ad79efa57027b5d8f3fa3a42a2416187687742bb9bd2c96db119037ebfed40a1",
-      "bytes": 8192
+      "sha256": "ad79efa57027b5d8f3fa3a42a2416187687742bb9bd2c96db119037ebfed40a1"
     },
     {
+      "bytes": 14769624,
       "path": "URP/BepInEx/plugins/Parr0tKoreanFontSupport/korean-font.bundle",
-      "sha256": "b41f7f7b51d66e07f7b8f183d073031ec216b803e1ed77774d67a4e0f8c77854",
-      "bytes": 14769624
+      "sha256": "b41f7f7b51d66e07f7b8f183d073031ec216b803e1ed77774d67a4e0f8c77854"
     },
     {
+      "bytes": 3654,
       "path": "URP/BepInEx/plugins/Parr0tKoreanFontSupport/required-characters.txt",
-      "sha256": "6c202d84667a051758095968d6faf737d3f4f420e5ca9f6e9404e6b38d865acd",
-      "bytes": 3654
+      "sha256": "6c202d84667a051758095968d6faf737d3f4f420e5ca9f6e9404e6b38d865acd"
     },
     {
+      "bytes": 337,
       "path": "URP/BepInEx/plugins/Parr0tKoreanFontSupport/font-NOTICE.txt",
-      "sha256": "0019228fef660b3b271d46d50346507ab18ad4d50e767da0f0d2b47feeb5671b",
-      "bytes": 337
+      "sha256": "0019228fef660b3b271d46d50346507ab18ad4d50e767da0f0d2b47feeb5671b"
     },
     {
+      "bytes": 4301,
       "path": "URP/BepInEx/plugins/Parr0tKoreanFontSupport/OFL.txt",
-      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
-      "bytes": 4301
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
     }
   ],
-  "generated_binding_inputs": [
+  "nondeterminism": "Compiler invocations do not enable deterministic compilation; released DLL hashes bind the actual verified build outputs. PE timestamps and module identifiers may differ when recompiling.",
+  "released_files": [
     {
-      "variant": "HDRP",
-      "expected_mapping_sha256": "1dcd61764f2b4acdabc5f661e30fa7be2e947c2d72ef02717a5a92069e285e4b",
-      "payload_binding_source_sha256": "529392ae498c18440e18fa7f10a2b04b556fca5700f4f33a3b42b34dbcc6356f",
-      "candidate_header_sha256": "1377fbe3406d883b3d056e75f5fc52f7876675bdb0afc46e3999fc0fe251dc1b"
+      "bytes": 26624,
+      "path": "HDRP/BepInEx/plugins/Parr0tKorean/Parr0t.Korean.ManagedLiterals.dll",
+      "sha256": "760d0551cbfd0c91ca2b26c80faaeda642c8f128f35fa8921e4185b8571cbec9"
     },
     {
-      "variant": "URP",
-      "expected_mapping_sha256": "5c2e248c78dacd19101816f2c8e2f20b889070ebf260489aea0c03e9de2a1a62",
-      "payload_binding_source_sha256": "aa1b181779177f128c2f02165957dd6469aff5bb5b826d96c07512d06e947551",
-      "candidate_header_sha256": "1377fbe3406d883b3d056e75f5fc52f7876675bdb0afc46e3999fc0fe251dc1b"
+      "bytes": 20367,
+      "path": "HDRP/BepInEx/plugins/Parr0tKorean/managed-literals.bin",
+      "sha256": "b272f964f192b4e1258b3cfec842905d71cec3a5397523170c96b6f9e6032966"
+    },
+    {
+      "bytes": 26624,
+      "path": "URP/BepInEx/plugins/Parr0tKorean/Parr0t.Korean.ManagedLiterals.dll",
+      "sha256": "1431913a9362f625c0e5c5a02d08fce4d3138cb1ae8bd6dcd7d26ff0c515a7ec"
+    },
+    {
+      "bytes": 20399,
+      "path": "URP/BepInEx/plugins/Parr0tKorean/managed-literals.bin",
+      "sha256": "1e4b60f25722659361868c784a99e4f8ee4a8b69d4ab9bd82ca122e730629347"
+    },
+    {
+      "bytes": 8192,
+      "path": "HDRP/BepInEx/plugins/Parr0tKoreanFontSupport/Parr0t.Korean.FontSupport.dll",
+      "sha256": "ed6f7a4606dd976ba5c9cc5d112bbfe723e802572f20ef62414231eb69764a92"
+    },
+    {
+      "bytes": 14769624,
+      "path": "HDRP/BepInEx/plugins/Parr0tKoreanFontSupport/korean-font.bundle",
+      "sha256": "b41f7f7b51d66e07f7b8f183d073031ec216b803e1ed77774d67a4e0f8c77854"
+    },
+    {
+      "bytes": 3654,
+      "path": "HDRP/BepInEx/plugins/Parr0tKoreanFontSupport/required-characters.txt",
+      "sha256": "6c202d84667a051758095968d6faf737d3f4f420e5ca9f6e9404e6b38d865acd"
+    },
+    {
+      "bytes": 337,
+      "path": "HDRP/BepInEx/plugins/Parr0tKoreanFontSupport/font-NOTICE.txt",
+      "sha256": "0019228fef660b3b271d46d50346507ab18ad4d50e767da0f0d2b47feeb5671b"
+    },
+    {
+      "bytes": 4301,
+      "path": "HDRP/BepInEx/plugins/Parr0tKoreanFontSupport/OFL.txt",
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "bytes": 8192,
+      "path": "URP/BepInEx/plugins/Parr0tKoreanFontSupport/Parr0t.Korean.FontSupport.dll",
+      "sha256": "ad79efa57027b5d8f3fa3a42a2416187687742bb9bd2c96db119037ebfed40a1"
+    },
+    {
+      "bytes": 14769624,
+      "path": "URP/BepInEx/plugins/Parr0tKoreanFontSupport/korean-font.bundle",
+      "sha256": "b41f7f7b51d66e07f7b8f183d073031ec216b803e1ed77774d67a4e0f8c77854"
+    },
+    {
+      "bytes": 3654,
+      "path": "URP/BepInEx/plugins/Parr0tKoreanFontSupport/required-characters.txt",
+      "sha256": "6c202d84667a051758095968d6faf737d3f4f420e5ca9f6e9404e6b38d865acd"
+    },
+    {
+      "bytes": 337,
+      "path": "URP/BepInEx/plugins/Parr0tKoreanFontSupport/font-NOTICE.txt",
+      "sha256": "0019228fef660b3b271d46d50346507ab18ad4d50e767da0f0d2b47feeb5671b"
+    },
+    {
+      "bytes": 4301,
+      "path": "URP/BepInEx/plugins/Parr0tKoreanFontSupport/OFL.txt",
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    }
+  ],
+  "schema": "beholder3.runtime-build-inputs/v1",
+  "selected_public_sdk_commit": "2826c6624cb52dff6d20050838d753d00a3e2dd6",
+  "source_sha256": {
+    "FontPlugin.cs": "69bfde4b646c8ea9cc266e1f853c773b33a5e643b81cfa124896eba6706d14db",
+    "FontRendererHooks.cs": "eb2ae1cb1963697b2b714645d88f0c335cd5d1d685c7f88e1eece7c5ef1f48e9",
+    "KoreanFontSupport.cs": "70fbe1fecd4ce8368dea95ed24eb070e555607466b54eac4cf57f52d4765974a",
+    "ManagedLiteralPlugin.cs": "96031db08d12ee8ede39cc95c30a2b6bd0de96311d8259620bc92fd43875f257",
+    "ReportNameSupport.cs": "1d888bf7b21ea1c53270e6c1b4f88a1a8c4213ef3a00d5aefb008401c1809074"
+  },
+  "variants": [
+    {
+      "references": {
+        "font": {
+          "0Harmony.dll": "1a21cc03424fc82c3dd1346905d16494536b9595ae4162228d99fb7c285c1031",
+          "BepInEx.dll": "8255b28902886085c578b9e427d3073c97002db85176d2090cdeda90ef14ce70",
+          "System.Core.dll": "d982f54622edc2ed4637fe547b70907f589a2ae4de4b6d604c54ee35f97dca03",
+          "System.dll": "a70ac3fb25b50dcceb957b7ba3fbc2b95c908cd3bcbb2749376ed31b23d78639",
+          "Unity.TextMeshPro.dll": "ef6ca0a1920704de7d26e86bd1f24ebd29762f0baa0e65d266d7f3b2cc4917a9",
+          "UnityEngine.AssetBundleModule.dll": "7442151c4de94068f9da9b68d054f84a826d1eb06cb4ec32e7816a2775d5be88",
+          "UnityEngine.CoreModule.dll": "15ba86c85cf6e79cbb65616982c3a686753c7f6c882357b10022904ec4426a7d",
+          "UnityEngine.TextCoreModule.dll": "199a6b02e95df3b8e09ad0d050fd09b8f69bb81ef70046747411bfc5aa1d8094",
+          "UnityEngine.TextRenderingModule.dll": "e613fdce097f3215750492d0054e45e053e3401830b4a6fe04f0ef18a1b1f053",
+          "UnityEngine.UI.dll": "5be51adca92ecc9c0e3cd039140cd589746bab509405d97c69225e210a2aaedf",
+          "UnityEngine.dll": "0f81b2b3cbaa75f0a571623324343cef9d80d971909a3a0603da9d3b61efb786",
+          "mscorlib.dll": "a3118a7db8073014a66cda8076882473e21dc7aed711dd3efc8ad193bb6b9a0b",
+          "netstandard.dll": "fada723de68eca78dc6e4279ebf1c886810dcd7b4a970290cb7ac068ef04b766"
+        },
+        "managed": {
+          "0Harmony.dll": "1a21cc03424fc82c3dd1346905d16494536b9595ae4162228d99fb7c285c1031",
+          "BepInEx.dll": "8255b28902886085c578b9e427d3073c97002db85176d2090cdeda90ef14ce70",
+          "System.Core.dll": "d982f54622edc2ed4637fe547b70907f589a2ae4de4b6d604c54ee35f97dca03",
+          "System.dll": "a70ac3fb25b50dcceb957b7ba3fbc2b95c908cd3bcbb2749376ed31b23d78639",
+          "Unity.Localization.dll": "84f318fb19e39d94e6a09458c900125d454bda1321bb8c97e3325ab4a8fec77d",
+          "Unity.TextMeshPro.dll": "ef6ca0a1920704de7d26e86bd1f24ebd29762f0baa0e65d266d7f3b2cc4917a9",
+          "UnityEngine.CoreModule.dll": "15ba86c85cf6e79cbb65616982c3a686753c7f6c882357b10022904ec4426a7d",
+          "UnityEngine.UI.dll": "5be51adca92ecc9c0e3cd039140cd589746bab509405d97c69225e210a2aaedf",
+          "UnityEngine.dll": "0f81b2b3cbaa75f0a571623324343cef9d80d971909a3a0603da9d3b61efb786",
+          "mscorlib.dll": "a3118a7db8073014a66cda8076882473e21dc7aed711dd3efc8ad193bb6b9a0b",
+          "netstandard.dll": "fada723de68eca78dc6e4279ebf1c886810dcd7b4a970290cb7ac068ef04b766"
+        }
+      },
+      "variant": "HDRP"
+    },
+    {
+      "references": {
+        "font": {
+          "0Harmony.dll": "1a21cc03424fc82c3dd1346905d16494536b9595ae4162228d99fb7c285c1031",
+          "BepInEx.dll": "8255b28902886085c578b9e427d3073c97002db85176d2090cdeda90ef14ce70",
+          "System.Core.dll": "d982f54622edc2ed4637fe547b70907f589a2ae4de4b6d604c54ee35f97dca03",
+          "System.dll": "a70ac3fb25b50dcceb957b7ba3fbc2b95c908cd3bcbb2749376ed31b23d78639",
+          "Unity.TextMeshPro.dll": "ef6ca0a1920704de7d26e86bd1f24ebd29762f0baa0e65d266d7f3b2cc4917a9",
+          "UnityEngine.AssetBundleModule.dll": "7442151c4de94068f9da9b68d054f84a826d1eb06cb4ec32e7816a2775d5be88",
+          "UnityEngine.CoreModule.dll": "15ba86c85cf6e79cbb65616982c3a686753c7f6c882357b10022904ec4426a7d",
+          "UnityEngine.TextCoreModule.dll": "199a6b02e95df3b8e09ad0d050fd09b8f69bb81ef70046747411bfc5aa1d8094",
+          "UnityEngine.TextRenderingModule.dll": "e613fdce097f3215750492d0054e45e053e3401830b4a6fe04f0ef18a1b1f053",
+          "UnityEngine.UI.dll": "5be51adca92ecc9c0e3cd039140cd589746bab509405d97c69225e210a2aaedf",
+          "UnityEngine.dll": "0f81b2b3cbaa75f0a571623324343cef9d80d971909a3a0603da9d3b61efb786",
+          "mscorlib.dll": "a3118a7db8073014a66cda8076882473e21dc7aed711dd3efc8ad193bb6b9a0b",
+          "netstandard.dll": "fada723de68eca78dc6e4279ebf1c886810dcd7b4a970290cb7ac068ef04b766"
+        },
+        "managed": {
+          "0Harmony.dll": "1a21cc03424fc82c3dd1346905d16494536b9595ae4162228d99fb7c285c1031",
+          "BepInEx.dll": "8255b28902886085c578b9e427d3073c97002db85176d2090cdeda90ef14ce70",
+          "System.Core.dll": "d982f54622edc2ed4637fe547b70907f589a2ae4de4b6d604c54ee35f97dca03",
+          "System.dll": "a70ac3fb25b50dcceb957b7ba3fbc2b95c908cd3bcbb2749376ed31b23d78639",
+          "Unity.Localization.dll": "84f318fb19e39d94e6a09458c900125d454bda1321bb8c97e3325ab4a8fec77d",
+          "Unity.TextMeshPro.dll": "ef6ca0a1920704de7d26e86bd1f24ebd29762f0baa0e65d266d7f3b2cc4917a9",
+          "UnityEngine.CoreModule.dll": "15ba86c85cf6e79cbb65616982c3a686753c7f6c882357b10022904ec4426a7d",
+          "UnityEngine.UI.dll": "5be51adca92ecc9c0e3cd039140cd589746bab509405d97c69225e210a2aaedf",
+          "UnityEngine.dll": "0f81b2b3cbaa75f0a571623324343cef9d80d971909a3a0603da9d3b61efb786",
+          "mscorlib.dll": "a3118a7db8073014a66cda8076882473e21dc7aed711dd3efc8ad193bb6b9a0b",
+          "netstandard.dll": "fada723de68eca78dc6e4279ebf1c886810dcd7b4a970290cb7ac068ef04b766"
+        }
+      },
+      "variant": "URP"
     }
   ]
 }
