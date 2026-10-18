@@ -39,15 +39,15 @@
     "mode": "append_only"
   },
   "release_id": "r1",
-  "release_title": "Beholder 3 Patch v1.0.0 (Game Version Steam Build 16599828)",
+  "release_title": "Beholder 3 Patch v1.0.0 (Game Versions Steam Build 16599828 (HDRP), Steam Build 16599828 (URP))",
   "schema": "parr0t.instance-release/v1",
   "supported_game_builds": [
     {
-      "display_version": "Steam Build 16599828",
+      "display_version": "Steam Build 16599828 (HDRP)",
       "id": "beholder3-steam-16599828-hdrp"
     },
     {
-      "display_version": "Steam Build 16599828",
+      "display_version": "Steam Build 16599828 (URP)",
       "id": "beholder3-steam-16599828-urp"
     }
   ],

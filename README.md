@@ -30,7 +30,7 @@ ChatGPT Codex를 기반으로 ChatGPT 6.1 Luna 서브에이전트를 통해 번�
 ## v1.0.0 배포 / Steam Build 16599828
 
 - 지원 게임: Steam Beholder 3 (App 1570070), **Steam Build 16599828**, Windows x64, Mono/Unity 2021.1, HDRP 및 URP. 다른 빌드는 지원하지 않습니다.
-- 배포 ID `r1`, 태그 `v1.0.0`. 배포 제목: **Beholder 3 Patch v1.0.0 (Game Version Steam Build 16599828)**.
+- 배포 ID `r1`, 태그 `v1.0.0`. 배포 제목: **Beholder 3 Patch v1.0.0 (Game Versions Steam Build 16599828 (HDRP), Steam Build 16599828 (URP))**.
 - 릴리스 자산: `Beholder3-Korean-v1.0.0-Windows-x64-SteamBuild16599828.zip`. SHA-256: `41033581bf5abc7ccf47926ebc0118c322cdda41abe1b5eeda9b8775fcd3bc8c`.
 - ZIP 전체를 게임 폴더 밖에 풀고 `Install-Translation-Patch.bat`를 실행한 뒤 **1. 설치 또는 업데이트**를 선택하세요. 게임 언어는 기존 **English/영어**입니다. 추가 한국어 메뉴는 없습니다. Python/Git/Parr0t/개발 도구는 플레이어에게 필요하지 않습니다.
 - 새 원본 설치 또는 현재 정상 동작하는 **56개 원본 교체 영어 덮어쓰기 패치**의 업데이트를 지원합니다. 이전 추가 언어팩 v1/v2/v3에서 이 표준 배포로 직접 업데이트하지 마세요. 먼저 이미 제공된 해당 영어 덮어쓰기 전환 도구로 전환해야 합니다. 원본 백업과 `.parr0t` 영수증은 지우지 마세요. 알 수 없는 변경/다른 교체 목록에서는 중단합니다.
@@ -44,3 +44,6 @@ ChatGPT Codex를 기반으로 ChatGPT 6.1 Luna 서브에이전트를 통해 번�
 `native/BUILD-NATIVE.md`와 `runtime/BUILD.md`에 원본 읽기 전용 입력, 정해진 해시, 최소 빌드 절차와 산출물 해시를 기록했습니다. 정식 SDK의 표준 Steam 패키지 생성/검증기를 사용합니다. 배포 바이너리는 검증된 정확한 바이트이며 원래 컴파일의 비결정적 요소는 `runtime/BUILD.md`에 명시했습니다.
 
 BepInEx 5.4.23.5(MIT), Unity Doorstop 4.5.0(LGPL-2.1 및 대응 소스), HarmonyX/Harmony/Mono.Cecil/MonoMod(MIT), Noto Sans CJK KR Sans2.004(SIL OFL 1.1)의 라이선스·저작권 고지와 정확한 입력 해시를 배포 파일과 `runtime/third-party-runtime-inputs.json`에 보존했습니다.
+
+
+지원 변형: Steam Build 16599828 (HDRP), Steam Build 16599828 (URP). 두 항목은 동일한 Steam 빌드의 검증된 렌더링 변형입니다.
